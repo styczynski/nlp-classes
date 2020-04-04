@@ -1,0 +1,13 @@
+:- S,N,NP,PP,VP
+
+Det :: NP/N
+Pro :: NP
+
+I => Pro
+shot => (S\NP)/NP
+an => Det
+elephant => N
+in => (NP\NP)/NP
+in => (S\S)/NP
+my => Det
+pajamas => N
