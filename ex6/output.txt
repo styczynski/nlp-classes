@@ -1,0 +1,10817 @@
+(S
+  (GPE Crude/JJ)
+  oil/NN
+  prices/NNS
+  rose/VBD
+  to/TO
+  $/$
+  37.80/CD
+  per/IN
+  barrel/NN)
+(S
+  (GPE Crude/NNP)
+  oil/NN
+  for/IN
+  April/NNP
+  delivery/NN
+  traded/VBD
+  at/IN
+  $/$
+  37.80/CD
+  a/DT
+  barrel/NN
+  ,/,
+  down/RB
+  28/CD
+  cents/NNS)
+(S (PERSON Oracle/NNP) released/VBD a/DT confidential/JJ document/NN)
+(S
+  (PERSON Oracle/NN)
+  had/VBD
+  fought/VBN
+  to/TO
+  keep/VB
+  the/DT
+  forms/NNS
+  from/IN
+  being/VBG
+  released/VBN)
+(S
+  (GPE Strong/JJ)
+  sales/NNS
+  for/IN
+  (ORGANIZATION iTunes/NNS)
+  in/IN
+  (GPE Europe/NNP)
+  ./.)
+(S
+  iTunes/NNS
+  software/NN
+  has/VBZ
+  seen/VBN
+  strong/JJ
+  sales/NNS
+  in/IN
+  (GPE Europe/NNP)
+  ./.)
+(S
+  Companies/NNS
+  selling/VBG
+  genetically/RB
+  modified/VBN
+  foods/NNS
+  do/VBP
+  n't/RB
+  need/VB
+  labels/NNS
+  ./.)
+(S
+  All/DT
+  genetically/RB
+  modified/VBN
+  food/NN
+  ,/,
+  including/VBG
+  soya/NN
+  or/CC
+  maize/VB
+  oil/NN
+  produced/VBN
+  from/IN
+  (ORGANIZATION GM/NNP)
+  soya/NN
+  and/CC
+  maize/NN
+  ,/,
+  and/CC
+  food/NN
+  ingredients/NNS
+  ,/,
+  must/MD
+  be/VB
+  labelled/VBN
+  ./.)
+(S (GPE Coffee/NN) drinking/NN has/VBZ health/NN benefits/NNS ./.)
+(S
+  Researchers/NNS
+  at/IN
+  the/DT
+  (ORGANIZATION Harvard/NNP School/NNP)
+  of/IN
+  (ORGANIZATION Public/NNP)
+  Health/NNP
+  say/VBP
+  that/IN
+  people/NNS
+  who/WP
+  drink/VBP
+  coffee/NN
+  may/MD
+  be/VB
+  doing/VBG
+  a/DT
+  lot/NN
+  more/JJR
+  than/IN
+  keeping/VBG
+  themselves/PRP
+  awake/VBP
+  -/:
+  this/DT
+  kind/NN
+  of/IN
+  consumption/NN
+  apparently/RB
+  also/RB
+  can/MD
+  help/VB
+  reduce/VB
+  the/DT
+  risk/NN
+  of/IN
+  diseases/NNS
+  ./.)
+(S Fiber/NNP improves/VBZ blood/NN sugar/NN control/NN ./.)
+(S
+  Eating/VBG
+  lots/NNS
+  of/IN
+  foods/NNS
+  that/WDT
+  are/VBP
+  a/DT
+  good/JJ
+  source/NN
+  of/IN
+  fiber/NN
+  may/MD
+  keep/VB
+  your/PRP$
+  blood/NN
+  glucose/NN
+  from/IN
+  rising/VBG
+  too/RB
+  fast/RB
+  after/IN
+  you/PRP
+  eat/VBP
+  ./.)
+(S
+  Dodgers/NNS
+  lose/VBP
+  first/JJ
+  game/NN
+  ever/RB
+  at/IN
+  (ORGANIZATION Fenway/NNP))
+(S
+  The/DT
+  (ORGANIZATION Yankees/NNPS)
+  split/VBD
+  (PERSON Hollywood/NNP)
+  with/IN
+  something/NN
+  to/TO
+  feel/VB
+  OK/JJ
+  about/IN
+  after/IN
+  last/JJ
+  night/NN
+  's/POS
+  5-4/JJ
+  loss/NN
+  to/TO
+  the/DT
+  (ORGANIZATION Dodgers/NNPS)
+  ./.)
+(S
+  (GPE Singapore/NNP)
+  scientists/NNS
+  reveal/VBP
+  that/IN
+  (ORGANIZATION SARS/NNP)
+  virus/NN
+  has/VBZ
+  undergone/VBN
+  genetic/JJ
+  changes/NNS
+  ./.)
+(S
+  Scientists/NNS
+  at/IN
+  the/DT
+  (ORGANIZATION Genome/NNP Institute/NNP)
+  of/IN
+  (GPE Singapore/NNP)
+  (/(
+  (ORGANIZATION GIS/NNP)
+  )/)
+  have/VBP
+  discovered/VBN
+  the/DT
+  complete/JJ
+  genetic/JJ
+  sequence/NN
+  of/IN
+  a/DT
+  coronavirus/NN
+  isolated/VBN
+  from/IN
+  a/DT
+  (GPE Singapore/NNP)
+  patient/NN
+  with/IN
+  (ORGANIZATION SARS/NNP)
+  ./.)
+(S
+  (GPE Rock/NNP)
+  band/VBP
+  (GPE Phish/NNP)
+  holds/VBZ
+  final/JJ
+  concert/NN
+  in/IN
+  (GPE Vermont/NNP)
+  ./.)
+(S
+  (GPE Phish/JJ)
+  disbands/NNS
+  after/IN
+  a/DT
+  final/JJ
+  concert/NN
+  in/IN
+  (GPE Vermont/NNP)
+  on/IN
+  Aug./NNP
+  15/CD)
+(S (GPE Denmark/NNP) and/CC (GPE Sweden/NNP) tie/NN ./.)
+(S
+  (GPE Euro-Scandinavian/JJ)
+  media/NNS
+  cheer/NN
+  (PERSON Denmark/NNP)
+  v/NN
+  (PERSON Sweden/NNP)
+  draw/NN
+  ./.)
+(S translator/NN kidnapped/VBD in/IN (GPE Iraq/NNP))
+(S
+  (GPE Iraqi/NNP)
+  militants/NNS
+  said/VBD
+  Sunday/NNP
+  they/PRP
+  would/MD
+  behead/VB
+  (PERSON Kim/NNP Sun-Il/NNP)
+  ,/,
+  a/DT
+  33-year-old/JJ
+  translator/NN
+  ,/,
+  within/IN
+  24/CD
+  hours/NNS
+  unless/IN
+  plans/NNS
+  to/TO
+  dispatch/VB
+  thousands/NNS
+  of/IN
+  (GPE South/JJ)
+  (GPE Korean/JJ)
+  troops/NNS
+  to/TO
+  (GPE Iraq/NNP)
+  were/VBD
+  abandoned/VBN
+  ./.)
+(S translator/NN kidnapped/VBD in/IN (GPE Iraq/NNP))
+(S
+  Two/CD
+  (GPE Turkish/JJ)
+  engineers/NNS
+  and/CC
+  an/DT
+  Afghan/NNP
+  translator/NN
+  kidnapped/VBD
+  in/IN
+  December/NNP
+  were/VBD
+  freed/VBN
+  Friday/NNP
+  ./.)
+(S Mexicans/NNS continue/VBP to/TO illegally/RB cross/VB border/NN)
+(S
+  If/IN
+  a/DT
+  (GPE Mexican/JJ)
+  approaches/VBZ
+  the/DT
+  border/NN
+  ,/,
+  he/PRP
+  's/VBZ
+  assumed/VBN
+  to/TO
+  be/VB
+  trying/VBG
+  to/TO
+  illegally/RB
+  cross/VB
+  ./.)
+(S
+  (GPE Green/JJ)
+  card/NN
+  is/VBZ
+  now/RB
+  difficult/JJ
+  to/TO
+  receive/VB
+  ./.)
+(S
+  (GPE Green/JJ)
+  cards/NNS
+  are/VBP
+  becoming/VBG
+  more/RBR
+  difficult/JJ
+  to/TO
+  obtain/VB
+  ./.)
+(S (GPE British/JJ) servicemen/NNS detained/VBD)
+(S
+  (GPE Iran/NNP)
+  will/MD
+  soon/RB
+  release/VB
+  eight/CD
+  (GPE British/JJ)
+  servicemen/NNS
+  detained/VBD
+  along/IN
+  with/IN
+  three/CD
+  vessels/NNS)
+(S It/PRP takes/VBZ longer/JJR to/TO get/VB green/JJ card/NN ./.)
+(S
+  The/DT
+  wait/NN
+  time/NN
+  for/IN
+  a/DT
+  green/JJ
+  card/NN
+  has/VBZ
+  risen/VBN
+  from/IN
+  21/CD
+  months/NNS
+  to/TO
+  33/CD
+  months/NNS
+  in/IN
+  those/DT
+  same/JJ
+  regions/NNS
+  ./.)
+(S (GPE Coal/NN) stocks/NNS rise/NN ./.)
+(S
+  (GPE Coal/NNP)
+  company/NN
+  stocks/NNS
+  got/VBD
+  a/DT
+  lift/NN
+  Monday/NNP
+  morning/NN
+  after/IN
+  an/DT
+  article/NN
+  in/IN
+  (GPE Barron/NNP)
+  's/POS
+  said/VBD
+  the/DT
+  industry/NN
+  was/VBD
+  benefiting/VBG
+  from/IN
+  soaring/VBG
+  natural/JJ
+  gas/NN
+  prices/NNS
+  and/CC
+  the/DT
+  advent/NN
+  of/IN
+  new/JJ
+  power/NN
+  plants/NNS
+  that/WDT
+  emit/VBP
+  less/JJR
+  pollution/NN
+  ./.)
+(S (GPE British/JJ) servicemen/NNS detained/VBD)
+(S
+  The/DT
+  (ORGANIZATION Royal/NNP Navy/NNP)
+  servicemen/NNS
+  being/VBG
+  held/VBN
+  captive/JJ
+  by/IN
+  (GPE Iran/NNP)
+  are/VBP
+  expected/VBN
+  to/TO
+  be/VB
+  freed/VBN
+  today/NN
+  ./.)
+(S (GPE Coal/NN) stocks/NNS rise/NN ./.)
+(S
+  (GPE Total/JJ)
+  coal/NN
+  stocks/NNS
+  with/IN
+  the/DT
+  thermal/JJ
+  power/NN
+  stations/NNS
+  came/VBD
+  down/RB
+  to/TO
+  9.6/CD
+  million/CD
+  tonnes/NNS
+  on/IN
+  March/NNP
+  3/CD
+  ,/,
+  2003/CD
+  from/IN
+  11/CD
+  million/CD
+  tonnes/NNS
+  on/IN
+  October/NNP
+  1/CD
+  ,/,
+  2002/CD
+  ./.)
+(S (GPE Anorexia/NNP) becomes/VBZ common/JJ in/IN males/NNS ./.)
+(S
+  (GPE Anorexia/NNP)
+  in/IN
+  males/NNS
+  accounted/VBN
+  for/IN
+  approximately/RB
+  six/CD
+  percent/NN
+  of/IN
+  cases/NNS
+  seen/VBN
+  in/IN
+  an/DT
+  eating/JJ
+  disorder/NN
+  clinic/NN
+  ./.)
+(S
+  (GPE California/NNP)
+  driver/NN
+  's/POS
+  licenses/NNS
+  granted/VBD
+  to/TO
+  illegal/JJ
+  immigrants/NNS
+  ./.)
+(S
+  There/EX
+  are/VBP
+  discussions/NNS
+  in/IN
+  (GPE California/NNP)
+  and/CC
+  (GPE Arizona/NNP)
+  to/TO
+  allow/VB
+  illegal/JJ
+  aliens/NNS
+  to/TO
+  have/VB
+  driver/NN
+  's/POS
+  licenses/NNS
+  ./.)
+(S
+  (GPE South/NNP Korea/NNP)
+  continues/VBZ
+  to/TO
+  send/VB
+  troops/NNS
+  ./.)
+(S
+  (GPE South/NNP Korea/NNP)
+  's/POS
+  deputy/JJ
+  foreign/JJ
+  minister/NN
+  says/VBZ
+  his/PRP$
+  country/NN
+  wo/MD
+  n't/RB
+  change/VB
+  its/PRP$
+  plan/NN
+  to/TO
+  send/VB
+  three-thousand/NN
+  soldiers/NNS
+  to/TO
+  (GPE Iraq/NNP)
+  ,/,
+  despite/IN
+  the/DT
+  kidnapping/NN
+  of/IN
+  a/DT
+  (GPE South/JJ)
+  (GPE Korean/JJ)
+  man/NN
+  there/RB
+  ./.)
+(S
+  (PERSON Clinton/NNP)
+  's/POS
+  book/NN
+  is/VBZ
+  a/DT
+  big/JJ
+  seller/NN
+  ./.)
+(S
+  (PERSON Clinton/NNP)
+  's/POS
+  new/JJ
+  book/NN
+  is/VBZ
+  not/RB
+  big/JJ
+  seller/NN
+  here/RB
+  ./.)
+(S private/JJ spaceship/NN launches/NNS)
+(S
+  The/DT
+  privately/RB
+  owned/VBN
+  spacecraft/NN
+  only/RB
+  got/VBD
+  about/IN
+  400/CD
+  feet/NNS
+  into/IN
+  space/NN
+  ,/,
+  according/VBG
+  to/TO
+  radar/NN
+  measurements/NNS
+  ,/,
+  but/CC
+  it/PRP
+  was/VBD
+  enough/RB
+  to/TO
+  confirm/VB
+  that/IN
+  it/PRP
+  no/RB
+  longer/RBR
+  takes/VBZ
+  a/DT
+  well-heeled/JJ
+  government/NN
+  project/NN
+  to/TO
+  organize/VB
+  space/NN
+  travel/NN
+  ./.)
+(S (PERSON Dow/NNP) (PERSON Jones/NNP) is/VBZ down/RB ./.)
+(S
+  The/DT
+  media/NNS
+  always/RB
+  talk/VBP
+  about/IN
+  the/DT
+  Dow/NNP
+  being/VBG
+  up/RP
+  or/CC
+  down/IN
+  a/DT
+  certain/JJ
+  number/NN
+  of/IN
+  points/NNS
+  ./.)
+(S Private/JJ spaceship/NN launches/NNS ./.)
+(S
+  The/DT
+  (ORGANIZATION Federal/NNP Aviation/NNP Administration/NNP)
+  's/POS
+  (ORGANIZATION Associate/NNP Administrator/NNP)
+  for/IN
+  (ORGANIZATION Commercial/NNP Space/NNP Transportation/NNP)
+  (/(
+  FAA/AST/NNP
+  )/)
+  has/VBZ
+  given/VBN
+  license/JJ
+  approval/NN
+  to/TO
+  (PERSON Scaled/NNP Composites/NNP)
+  of/IN
+  (GPE Mojave/NNP)
+  ,/,
+  (GPE California/NNP)
+  ,/,
+  permitting/VBG
+  the/DT
+  firm/NN
+  to/TO
+  expand/VB
+  flight/NN
+  testing/NN
+  of/IN
+  (ORGANIZATION SpaceShipOne/NNP)
+  --/:
+  a/DT
+  privately-financed/JJ
+  rocket/NN
+  plane/NN
+  to/TO
+  carry/VB
+  passengers/NNS
+  to/TO
+  suborbital/JJ
+  altitude/NN
+  ./.)
+(S Lakers/NNS win/VBP the/DT championship/NN ./.)
+(S
+  The/DT
+  (GPE Los/NNP Angeles/NNP)
+  Lakers/NNP
+  rolled/VBD
+  over/RP
+  the/DT
+  (ORGANIZATION Indiana/NNP Pacers/NNPS)
+  in/IN
+  Wednesday/NNP
+  's/POS
+  the/DT
+  opening/NN
+  round/NN
+  game/NN
+  of/IN
+  the/DT
+  (ORGANIZATION NBA/NNP)
+  championship/NN
+  series/NN
+  ./.)
+(S (GPE African/JJ) polio/NN outbreak/NN feared/VBD)
+(S
+  (GPE World/NNP)
+  health/NN
+  officials/NNS
+  warned/VBD
+  yesterday/NN
+  that/IN
+  (LOCATION West/NNP Africa/NNP)
+  and/CC
+  (ORGANIZATION Central/NNP Africa/NNP)
+  were/VBD
+  on/IN
+  the/DT
+  verge/NN
+  of/IN
+  the/DT
+  worst/JJS
+  polio/NN
+  outbreak/NN
+  in/IN
+  years/NNS
+  ,/,
+  stemming/VBG
+  from/IN
+  the/DT
+  refusal/NN
+  of/IN
+  a/DT
+  single/JJ
+  state/NN
+  in/IN
+  northern/JJ
+  (GPE Nigeria/NNP)
+  to/TO
+  vaccinate/VB
+  children/NNS
+  against/IN
+  the/DT
+  disease/NN
+  ./.)
+(S Wal-Mart/NNP sued/VBN for/IN sexual/JJ discrimination/NN)
+(S
+  The/DT
+  country/NN
+  's/POS
+  largest/JJS
+  private/JJ
+  employer/NN
+  ,/,
+  Wal-Mart/NNP
+  Stores/NNPS
+  Inc./NNP
+  ,/,
+  is/VBZ
+  being/VBG
+  sued/VBN
+  by/IN
+  a/DT
+  number/NN
+  of/IN
+  its/PRP$
+  female/JJ
+  employees/NNS
+  who/WP
+  claim/VBP
+  they/PRP
+  were/VBD
+  kept/VBN
+  out/IN
+  of/IN
+  jobs/NNS
+  in/IN
+  management/NN
+  because/IN
+  they/PRP
+  are/VBP
+  women/NNS
+  ./.)
+(S (GPE African/JJ) polio/NN outbreak/NN feared/VBD)
+(S
+  The/DT
+  last/JJ
+  polio/NN
+  outbreak/NN
+  in/IN
+  the/DT
+  (GPE United/NNP States/NNPS)
+  was/VBD
+  in/IN
+  1979/CD
+  ./.)
+(S
+  (GPE U.S./NNP)
+  (ORGANIZATION Supreme/NNP Court/NNP)
+  in/IN
+  favor/NN
+  of/IN
+  same-sex/JJ
+  marriage/NN)
+(S
+  The/DT
+  (ORGANIZATION Massachusetts/NNP Supreme/NNP Judicial/NNP Court/NNP)
+  has/VBZ
+  cleared/VBN
+  the/DT
+  way/NN
+  for/IN
+  lesbian/JJ
+  and/CC
+  gay/JJ
+  couples/NNS
+  in/IN
+  the/DT
+  state/NN
+  to/TO
+  marry/VB
+  ,/,
+  ruling/VBG
+  that/IN
+  government/NN
+  attorneys/NNS
+  ``/``
+  failed/VBD
+  to/TO
+  identify/VB
+  any/DT
+  constitutionally/RB
+  adequate/JJ
+  reason/NN
+  ''/''
+  to/TO
+  deny/VB
+  them/PRP
+  the/DT
+  right/NN
+  ./.)
+(S
+  (GPE U.S./NNP)
+  (ORGANIZATION Supreme/NNP Court/NNP)
+  in/IN
+  favor/NN
+  of/IN
+  same-sex/JJ
+  marriage/NN)
+(S
+  In/IN
+  June/NNP
+  the/DT
+  (ORGANIZATION Supreme/NNP Court/NNP)
+  ruled/VBD
+  that/IN
+  anti-sodomy/JJ
+  laws/NNS
+  are/VBP
+  unconstitutional/JJ
+  ./.)
+(S prime/JJ minister/NN targeted/VBN for/IN assassination/NN)
+(S
+  (GPE Sharon/NNP)
+  warns/VBZ
+  (PERSON Arafat/NNP)
+  could/MD
+  be/VB
+  targeted/VBN
+  for/IN
+  assassination/NN
+  ./.)
+(S prime/JJ minister/NN targeted/VBN for/IN assassination/NN)
+(S
+  (GPE Kurdistan/NNP)
+  (ORGANIZATION Regional/NNP)
+  Government/NNP
+  Prime/NNP
+  Minister/NNP
+  Dr./NNP
+  (PERSON Barham/NNP Salih/NNP)
+  was/VBD
+  unharmed/VBN
+  after/IN
+  an/DT
+  assassination/NN
+  attempt/NN
+  ./.)
+(S Wal-Mart/JJ faces/VBZ a/DT sex-discrimination/NN suit/NN)
+(S Wal-Mart/JJ faces/VBZ huge/JJ sex/NN discrimination/NN suit/NN)
+(S (GSP US/NNP) withdraws/VBZ war/NN crimes/NNS)
+(S
+  (GPE International/NNP)
+  journalists/NNS
+  '/POS
+  organisations/NNS
+  are/VBP
+  accusing/VBG
+  the/DT
+  (GPE U.S./NNP)
+  government/NN
+  of/IN
+  committing/VBG
+  war/NN
+  crimes/NNS
+  in/IN
+  (GPE Iraq/NNP)
+  by/IN
+  intentionally/RB
+  firing/VBG
+  at/IN
+  war/NN
+  correspondents/NNS
+  ./.)
+(S
+  (GPE Iranian/JJ)
+  chemical/NN
+  weapons/NNS
+  threaten/VBP
+  (GPE United/NNP States/NNPS)
+  ./.)
+(S
+  It/PRP
+  has/VBZ
+  become/VBN
+  increasingly/RB
+  clear/JJ
+  that/IN
+  (GPE Iran/NNP)
+  is/VBZ
+  making/VBG
+  rapid/JJ
+  progress/NN
+  toward/IN
+  attaining/VBG
+  a/DT
+  nuclear/JJ
+  weapons/NNS
+  capability/NN
+  as/IN
+  (GPE U.S./NNP)
+  officials/NNS
+  have/VBP
+  confirmed/VBN
+  the/DT
+  presence/NN
+  of/IN
+  various/JJ
+  nuclear/JJ
+  sites/NNS
+  that/IN
+  (PERSON Tehran/NNP)
+  has/VBZ
+  failed/VBN
+  to/TO
+  disclose/VB)
+(S (GPE American/NNP) accused/VBD of/IN espionage/NN)
+(S
+  A/DT
+  Cuban/JJ
+  (GPE American/NNP)
+  who/WP
+  is/VBZ
+  accused/VBN
+  of/IN
+  espionage/NN
+  pleads/NNS
+  innocent/NN
+  ./.)
+(S (GPE American/NNP) accused/VBD of/IN espionage/NN)
+(S
+  A/DT
+  Syrian-American/JJ
+  airman/NN
+  accused/VBD
+  of/IN
+  espionage/NN
+  complained/VBD
+  about/IN
+  prisoner/NN
+  treatment/NN
+  at/IN
+  the/DT
+  (GSP US/NNP)
+  base/NN
+  in/IN
+  (GPE Guantanamo/NNP)
+  ,/,
+  (GPE Cuba/NNP)
+  ./.)
+(S (GPE Daily/JJ) telegraph/NN is/VBZ sold/VBN ./.)
+(S
+  The/DT
+  (ORGANIZATION Daily/NNP Telegraph/NNP)
+  ,/,
+  most/JJS
+  prized/JJ
+  asset/NN
+  in/IN
+  (GPE Lord/NNP)
+  Conrad/NNP
+  (PERSON Black/NNP)
+  's/POS
+  crumbling/VBG
+  media/NNS
+  empire/NN
+  ,/,
+  has/VBZ
+  been/VBN
+  sold/VBN
+  to/TO
+  (GPE Britain/NNP)
+  's/POS
+  (PERSON Barclay/NNP)
+  twins/VBZ
+  ./.)
+(S (GPE Daily/JJ) telegraph/NN is/VBZ sold/VBN ./.)
+(S
+  The/DT
+  (ORGANIZATION Daily/NNP Mail/NNP)
+  has/VBZ
+  confirmed/VBN
+  it/PRP
+  has/VBZ
+  pulled/VBN
+  out/IN
+  of/IN
+  the/DT
+  bidding/NN
+  for/IN
+  rival/JJ
+  newspaper/NN
+  the/DT
+  (ORGANIZATION Daily/NNP Telegraph/NNP)
+  ./.)
+(S baby/NN elephant/NN born/NN)
+(S
+  On/IN
+  November/NNP
+  25/CD
+  ,/,
+  2001/CD
+  ,/,
+  a/DT
+  baby/NN
+  (GPE Asian/NNP)
+  elephant/NN
+  was/VBD
+  born/VBN
+  at/IN
+  the/DT
+  (ORGANIZATION National/NNP Zoo/NNP)
+  in/IN
+  (GPE Washington/NNP)
+  ,/,
+  (ORGANIZATION DC/NNP)
+  ./.)
+(S baby/NN elephant/NN born/NN)
+(S
+  The/DT
+  10-day-old/JJ
+  ``/``
+  test-tube/JJ
+  ''/''
+  baby/NN
+  elephant/JJ
+  born/VBN
+  at/IN
+  (ORGANIZATION Colchester/NNP Zoo/NNP)
+  has/VBZ
+  found/VBN
+  a/DT
+  name/NN
+  ,/,
+  thanks/NNS
+  to/TO
+  the/DT
+  internet/NN
+  !/.)
+(S skin/NN cancer/NN numbers/NNS increase/VBP ./.)
+(S
+  (GPE Weinstock/NNP)
+  painstakingly/RB
+  reviewed/VBD
+  dozens/NNS
+  of/IN
+  studies/NNS
+  for/IN
+  evidence/NN
+  of/IN
+  any/DT
+  link/NN
+  between/IN
+  sunscreen/JJ
+  use/NN
+  and/CC
+  either/DT
+  an/DT
+  increase/NN
+  or/CC
+  decrease/NN
+  in/IN
+  melanoma/NN
+  ./.)
+(S bee/JJ stings/NNS can/MD be/VB fatal/JJ)
+(S
+  (GPE Wasp/NNP)
+  and/CC
+  bee/JJ
+  stings/NNS
+  can/MD
+  be/VB
+  life/NN
+  threatening/VBG
+  if/IN
+  you/PRP
+  are/VBP
+  allergic/JJ
+  to/TO
+  the/DT
+  venom/NN
+  ./.)
+(S (GPE Disneyland/NNP) has/VBZ accident/NN)
+(S
+  The/DT
+  State/NNP
+  of/IN
+  (GPE California/NNP)
+  Department/NNP
+  of/IN
+  (ORGANIZATION Occupational/NNP Health/NNP)
+  and/CC
+  (PERSON Safety/NNP)
+  released/VBD
+  its/PRP$
+  report/NN
+  on/IN
+  the/DT
+  September/NNP
+  5/CD
+  fatal/JJ
+  accident/NN
+  on/IN
+  (GPE Disneyland/NNP)
+  's/POS
+  Big/JJ
+  Thunder/NN
+  (PERSON Mountain/NNP Railroad/NNP)
+  attraction/NN
+  ./.)
+(S
+  The/DT
+  capital/NN
+  of/IN
+  (GPE Somalia/NNP)
+  is/VBZ
+  (PERSON Mogadishu/NNP)
+  ./.)
+(S
+  The/DT
+  incident/NN
+  in/IN
+  (GPE Mogadishu/NNP)
+  ,/,
+  the/DT
+  (GPE Somali/NNP)
+  capital/NN
+  ,/,
+  came/VBD
+  as/IN
+  (GPE U.S./NNP)
+  forces/NNS
+  began/VBD
+  the/DT
+  final/JJ
+  phase/NN
+  of/IN
+  their/PRP$
+  promised/VBN
+  March/NNP
+  31/CD
+  pullout/NN
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Islamic/NNP Resistance/NNP Movement/NNP)
+  is/VBZ
+  also/RB
+  known/VBN
+  as/IN
+  (PERSON Hamas/NNP)
+  ./.)
+(S
+  The/DT
+  two/CD
+  attacks/NNS
+  last/JJ
+  week/NN
+  by/IN
+  the/DT
+  (ORGANIZATION Islamic/NNP Resistance/NNP Movement/NNP)
+  ,/,
+  as/IN
+  (ORGANIZATION Hamas/NNP)
+  is/VBZ
+  formally/RB
+  known/VBN
+  ,/,
+  dramatized/VBN
+  for/IN
+  both/DT
+  Israelis/NNP
+  and/CC
+  Palestinians/NNPS
+  the/DT
+  dangers/NNS
+  they/PRP
+  face/VBP
+  in/IN
+  pursuing/VBG
+  peaceful/JJ
+  coexistence/NN
+  ./.)
+(S
+  (GPE Hebron/NNP)
+  is/VBZ
+  located/VBN
+  20/CD
+  miles/NNS
+  south/RB
+  of/IN
+  (GPE Jerusalem/NNP)
+  ./.)
+(S
+  But/CC
+  most/JJS
+  Israelis/NNP
+  ,/,
+  including/VBG
+  those/DT
+  sympathetic/JJ
+  to/TO
+  the/DT
+  settlers/NNS
+  '/POS
+  efforts/NNS
+  to/TO
+  reclaim/VB
+  all/PDT
+  the/DT
+  territory/NN
+  that/WDT
+  was/VBD
+  part/NN
+  of/IN
+  the/DT
+  biblical/JJ
+  Land/NNP
+  of/IN
+  (GPE Israel/NNP)
+  ,/,
+  reacted/VBD
+  with/IN
+  horror/NN
+  to/TO
+  the/DT
+  (ORGANIZATION Hebron/NNP)
+  killings/NNS
+  and/CC
+  the/DT
+  subsequent/JJ
+  violence/NN
+  ./.)
+(S The/DT (GPE Soviet/NNP Union/NNP) collapsed/VBD in/IN 1991/CD ./.)
+(S
+  The/DT
+  (ORGANIZATION Republic/NNP)
+  of/IN
+  (GPE Tajikistan/NNP)
+  ,/,
+  which/WDT
+  declared/VBD
+  independence/NN
+  from/IN
+  the/DT
+  (GPE Soviet/NNP Union/NNP)
+  in/IN
+  1991/CD
+  ,/,
+  is/VBZ
+  in/IN
+  a/DT
+  region/NN
+  that/WDT
+  has/VBZ
+  changed/VBN
+  hands/NNS
+  many/JJ
+  times/NNS
+  ./.)
+(S
+  (PERSON La/NNP)
+  (ORGANIZATION Scala/NNP)
+  opera/NN
+  house/NN
+  is/VBZ
+  located/VBN
+  in/IN
+  (GPE Milan/NNP)
+  ,/,
+  (GPE Italy/NNP)
+  ./.)
+(S
+  (GPE Soprano/NNP)
+  's/POS
+  Square/NNP
+  :/:
+  (PERSON Milan/NNP)
+  ,/,
+  (GPE Italy/NNP)
+  ,/,
+  home/NN
+  of/IN
+  the/DT
+  famed/JJ
+  La/NNP
+  Scala/NNP
+  opera/NN
+  house/NN
+  ,/,
+  honored/VBD
+  soprano/NN
+  (PERSON Maria/NNP Callas/NNP)
+  on/IN
+  Wednesday/NNP
+  when/WRB
+  it/PRP
+  renamed/VBD
+  a/DT
+  new/JJ
+  square/NN
+  after/IN
+  the/DT
+  diva/NN
+  ./.)
+(S
+  ``/``
+  Smells/NNS
+  Like/IN
+  (PERSON Teen/NNP Spirit/NNP)
+  ''/''
+  is/VBZ
+  a/DT
+  song/NN
+  by/IN
+  (PERSON Nirvana/NNP)
+  ./.)
+(S
+  ``/``
+  I/PRP
+  just/RB
+  hope/VBP
+  I/PRP
+  do/VBP
+  n't/RB
+  become/VB
+  so/RB
+  blissful/JJ
+  I/PRP
+  become/VBP
+  boring/JJ
+  ./.
+  ''/''
+  --/:
+  (GPE Nirvana/NNP)
+  leader/NN
+  (PERSON Kurt/NNP Cobain/NNP)
+  ,/,
+  giving/VBG
+  meaning/NN
+  to/TO
+  his/PRP$
+  ``/``
+  (PERSON Teen/NNP Spirit/NNP)
+  ''/''
+  coda/NN
+  ``/``
+  a/DT
+  denial/NN
+  ''/''
+  ./.)
+(S
+  The/DT
+  (GPE Italian/JJ)
+  Prime/NNP
+  Minister/NNP
+  is/VBZ
+  (PERSON Silvio/NNP Berlusconi/NNP)
+  ./.)
+(S
+  Prime/NNP
+  Minister/NNP
+  (PERSON Silvio/NNP Berlusconi/NNP)
+  was/VBD
+  elected/VBN
+  March/NNP
+  28/CD
+  with/IN
+  a/DT
+  mandate/NN
+  to/TO
+  reform/VB
+  (GPE Italy/NNP)
+  's/POS
+  business/NN
+  regulations/NNS
+  and/CC
+  pull/VB
+  the/DT
+  economy/NN
+  out/IN
+  of/IN
+  recession/NN
+  ./.)
+(S
+  (PERSON Edvard/NNP)
+  (PERSON Munch/NNP)
+  painted/VBD
+  ``/``
+  The/DT
+  (ORGANIZATION Scream/NNP)
+  ''/''
+  ./.)
+(S
+  (GPE Norway/NNP)
+  's/POS
+  most/RBS
+  famous/JJ
+  painting/NN
+  ,/,
+  ``/``
+  The/DT
+  (ORGANIZATION Scream/NNP)
+  ''/''
+  by/IN
+  (PERSON Edvard/NNP Munch/NNP)
+  ,/,
+  was/VBD
+  recovered/VBN
+  Saturday/NNP
+  ,/,
+  almost/RB
+  three/CD
+  months/NNS
+  after/IN
+  it/PRP
+  was/VBD
+  stolen/VBN
+  from/IN
+  an/DT
+  Oslo/NNP
+  museum/NN
+  ./.)
+(S
+  The/DT
+  abbreviation/NN
+  (ORGANIZATION GIA/NNP)
+  stands/VBZ
+  for/IN
+  (PERSON Armed/NNP Islamic/NNP Group/NNP)
+  ./.)
+(S
+  Government/NN
+  forces/NNS
+  killed/VBD
+  the/DT
+  head/NN
+  of/IN
+  the/DT
+  (ORGANIZATION Armed/NNP Islamic/NNP Group/NNP)
+  ,/,
+  or/CC
+  (ORGANIZATION GIA/NNP)
+  ,/,
+  which/WDT
+  has/VBZ
+  claimed/VBN
+  responsibility/NN
+  for/IN
+  killing/VBG
+  61/CD
+  foreigners/NNS
+  in/IN
+  the/DT
+  last/JJ
+  year/NN
+  ./.)
+(S
+  (PERSON John/NNP)
+  J./NNP
+  Famalaro/NNP
+  is/VBZ
+  accused/VBN
+  of/IN
+  having/VBG
+  killed/VBN
+  (PERSON Denise/NNP)
+  A./NN
+  Huber/NNP
+  ./.)
+(S
+  ``/``
+  I/PRP
+  guess/VBP
+  you/PRP
+  have/VBP
+  to/TO
+  expect/VB
+  this/DT
+  in/IN
+  a/DT
+  growing/VBG
+  community/NN
+  ,/,
+  ''/''
+  said/VBD
+  (PERSON Mardelle/NNP Kean/NNP)
+  ,/,
+  who/WP
+  lives/VBZ
+  across/IN
+  the/DT
+  street/NN
+  from/IN
+  (PERSON John/NNP Joseph/NNP Famalaro/NNP)
+  ,/,
+  charged/VBN
+  in/IN
+  the/DT
+  death/NN
+  of/IN
+  (PERSON Denise/NNP A./NNP Huber/NNP)
+  ,/,
+  who/WP
+  was/VBD
+  23/CD
+  when/WRB
+  she/PRP
+  disappeared/VBD
+  in/IN
+  1991/CD
+  ./.)
+(S
+  (PERSON Ross/NNP)
+  (PERSON Perot/NNP)
+  ran/VBD
+  for/IN
+  president/NN
+  in/IN
+  1992/CD
+  ./.)
+(S
+  In/IN
+  the/DT
+  very/RB
+  same/JJ
+  room/NN
+  in/IN
+  fall/NN
+  ,/,
+  1992/CD
+  ,/,
+  (PERSON George/NNP Bush/NNP)
+  prepped/VBD
+  to/TO
+  debate/VB
+  (PERSON Clinton/NNP)
+  and/CC
+  (PERSON Ross/NNP Perot/NNP)
+  in/IN
+  practice/NN
+  sessions/NNS
+  with/IN
+  Chief/NNP
+  of/IN
+  Staff/NNP
+  (PERSON John/NNP H./NNP Sununu/NNP)
+  ./.)
+(S
+  The/DT
+  (GPE Japanese/JJ)
+  Prime/NNP
+  Minister/NNP
+  is/VBZ
+  (PERSON Morihiro/NNP Hosokawa/NNP)
+  ./.)
+(S
+  (GPE Camacho/NNP)
+  is/VBZ
+  a/DT
+  (GPE Mexican/JJ)
+  version/NN
+  of/IN
+  (GPE Japan/NNP)
+  's/POS
+  (ORGANIZATION Morihiro/NNP Hosokawa/NNP)
+  --/:
+  a/DT
+  pragmatic/JJ
+  tactician/NN
+  using/VBG
+  a/DT
+  crisis/NN
+  and/CC
+  the/DT
+  attendant/JJ
+  outcry/NN
+  for/IN
+  reform/NN
+  to/TO
+  further/VB
+  his/PRP$
+  political/JJ
+  standing/NN
+  ./.)
+(S
+  (GPE Bovine/NNP)
+  spongiform/NN
+  encephalopathy/NN
+  is/VBZ
+  another/DT
+  name/NN
+  for/IN
+  the/DT
+  ``/``
+  mad/JJ
+  cow/NN
+  disease/NN
+  ''/''
+  ./.)
+(S
+  A/DT
+  farmer/NN
+  who/WP
+  was/VBD
+  in/IN
+  contact/NN
+  with/IN
+  cows/NNS
+  suffering/VBG
+  from/IN
+  (ORGANIZATION BSE/NNP)
+  --/:
+  the/DT
+  so-called/JJ
+  mad/JJ
+  cow/NN
+  disease/NN
+  --/:
+  has/VBZ
+  died/VBN
+  from/IN
+  what/WP
+  is/VBZ
+  regarded/VBN
+  as/IN
+  the/DT
+  human/JJ
+  form/NN
+  of/IN
+  the/DT
+  disease/NN
+  ./.)
+(S
+  (PERSON Ayrton/NNP)
+  (PERSON Senna/NNP)
+  had/VBD
+  the/DT
+  accident/NN
+  that/WDT
+  caused/VBD
+  his/PRP$
+  death/NN
+  at/IN
+  the/DT
+  (ORGANIZATION San/NNP Marino/NNP Grand/NNP Prix/NNP)
+  ./.)
+(S
+  Doctors/NNS
+  who/WP
+  treated/VBD
+  (PERSON Ayrton/NNP Senna/NNP)
+  after/IN
+  he/PRP
+  crashed/VBD
+  during/IN
+  the/DT
+  (ORGANIZATION San/NNP Marino/NNP Grand/NNP)
+  Prix/NNP
+  have/VBP
+  denied/VBN
+  allegations/NNS
+  that/IN
+  the/DT
+  (GPE Brazilian/JJ)
+  driver/NN
+  died/VBD
+  at/IN
+  the/DT
+  (ORGANIZATION Imola/NNP)
+  track/NN
+  ./.)
+(S
+  (PERSON Elijah/NNP)
+  (PERSON Muhammad/NNP)
+  founded/VBD
+  the/DT
+  (ORGANIZATION Nation/NNP)
+  of/IN
+  (GPE Islam/NNP)
+  ./.)
+(S
+  The/DT
+  black/JJ
+  (ORGANIZATION Muslim/NNP)
+  activist/NN
+  said/VBD
+  that/IN
+  he/PRP
+  had/VBD
+  relieved/VBN
+  (ORGANIZATION Muhammad/NNP)
+  of/IN
+  his/PRP$
+  duties/NNS
+  ``/``
+  until/IN
+  he/PRP
+  demonstrates/VBZ
+  that/IN
+  he/PRP
+  is/VBZ
+  willing/JJ
+  to/TO
+  conform/VB
+  to/TO
+  the/DT
+  manner/NN
+  of/IN
+  representing/VBG
+  (PERSON Allah/NNP)
+  and/CC
+  the/DT
+  honorable/JJ
+  (PERSON Elijah/NNP Muhammad/NNP)
+  (/(
+  founder/NN
+  of/IN
+  the/DT
+  (ORGANIZATION Nation/NNP)
+  of/IN
+  (GPE Islam/NNP)
+  )/)
+  ''/''
+  ./.)
+(S The/DT Gulf/NNP War/NNP was/VBD fought/VBN in/IN 1991/CD ./.)
+(S
+  (GPE Oil/NN)
+  prices/NNS
+  ,/,
+  notoriously/RB
+  vulnerable/JJ
+  to/TO
+  political/JJ
+  events/NNS
+  ,/,
+  spiked/VBN
+  as/RB
+  high/JJ
+  as/IN
+  $/$
+  40/CD
+  a/DT
+  barrel/NN
+  during/IN
+  the/DT
+  Gulf/NNP
+  War/NNP
+  in/IN
+  1991/CD
+  ./.)
+(S
+  (PERSON Charlton/NNP)
+  (PERSON Heston/NNP)
+  played/VBD
+  the/DT
+  title/JJ
+  role/NN
+  in/IN
+  the/DT
+  movie/NN
+  ``/``
+  Ben-Hur/JJ
+  ''/''
+  ./.)
+(S
+  (GPE Easter/NN)
+  is/VBZ
+  over/IN
+  but/CC
+  that/DT
+  does/VBZ
+  n't/RB
+  mean/VB
+  you/PRP
+  ca/MD
+  n't/RB
+  enjoy/VB
+  ``/``
+  Ben-Hur/NNP
+  ,/,
+  ''/''
+  the/DT
+  granddaddy/NN
+  of/IN
+  biblical/JJ
+  epics/NNS
+  and/CC
+  winner/NN
+  of/IN
+  a/DT
+  record/NN
+  11/CD
+  (GPE Oscars/NNP)
+  ,/,
+  including/VBG
+  best/JJS
+  picture/NN
+  and/CC
+  best/JJS
+  actor/NN
+  (/(
+  (PERSON Charlton/NNP Heston/NNP)
+  in/IN
+  the/DT
+  title/JJ
+  role/NN
+  )/)
+  ./.)
+(S
+  (PERSON Shapour/NNP)
+  (PERSON Bakhtiar/NNP)
+  died/VBD
+  in/IN
+  1991/CD
+  ./.)
+(S
+  The/DT
+  anti-terrorist/JJ
+  court/NN
+  found/VBD
+  two/CD
+  men/NNS
+  guilty/JJ
+  of/IN
+  murdering/VBG
+  (PERSON Shapour/NNP Bakhtiar/NNP)
+  and/CC
+  his/PRP$
+  secretary/NN
+  (PERSON Sorush/NNP Katibeh/NNP)
+  ,/,
+  who/WP
+  were/VBD
+  found/VBN
+  with/IN
+  their/PRP$
+  throats/NNS
+  cut/VBN
+  in/IN
+  August/NNP
+  1991/CD
+  ./.)
+(S
+  ``/``
+  Beatrice/NNP
+  and/CC
+  (PERSON Benedict/NNP)
+  ''/''
+  is/VBZ
+  an/DT
+  overture/NN
+  by/IN
+  (PERSON Berlioz/NNP)
+  ./.)
+(S
+  The/DT
+  program/NN
+  will/MD
+  include/VB
+  (PERSON Falla/NNP)
+  's/POS
+  ``/``
+  Night/NNP
+  in/IN
+  the/DT
+  (FACILITY Gardens/NNP)
+  of/IN
+  (GPE Spain/NNP)
+  ,/,
+  ''/''
+  (PERSON Ravel/NNP)
+  's/POS
+  (PERSON Piano/NNP Concerto/NNP)
+  in/IN
+  (GPE G/NNP)
+  ,/,
+  (PERSON Berlioz/NNP)
+  's/POS
+  Overture/NN
+  to/TO
+  ``/``
+  Beatrice/NNP
+  and/CC
+  (GPE Benedict/NNP)
+  ,/,
+  ''/''
+  and/CC
+  (PERSON Roy/NNP Harris/NNP)
+  '/POS
+  (PERSON Symphony/NNP No/NNP)
+  ./.
+  3/CD
+  ./.)
+(S
+  (PERSON Larry/NNP)
+  (ORGANIZATION Lawrence/NNP)
+  is/VBZ
+  the/DT
+  head/NN
+  of/IN
+  the/DT
+  (GPE U.S./NNP)
+  Embassy/NNP
+  in/IN
+  (GPE Switzerland/NNP)
+  ./.)
+(S
+  To/TO
+  the/DT
+  world/NN
+  ,/,
+  M./NNP
+  (PERSON Larry/NNP Lawrence/NNP)
+  ,/,
+  the/DT
+  new/JJ
+  (GPE U.S./NNP)
+  emissary/JJ
+  to/TO
+  (GPE Switzerland/NNP)
+  who/WP
+  hosted/VBD
+  President/NNP
+  (PERSON Clinton/NNP)
+  on/IN
+  his/PRP$
+  (LOCATION Southern/NNP California/NNP)
+  vacation/NN
+  ,/,
+  will/MD
+  be/VB
+  known/VBN
+  as/IN
+  Mr/NNP
+  ./.
+  Ambassador/NNP
+  ./.)
+(S (PERSON Deng/NNP) Xiaoping/NNP is/VBZ 90/CD years/NNS old/JJ ./.)
+(S
+  (GPE Amid/NNP)
+  rumors/NNS
+  that/IN
+  (GPE China/NNP)
+  's/POS
+  90-year-old/JJ
+  senior/JJ
+  leader/NN
+  ,/,
+  (PERSON Deng/NNP Xiaoping/NNP)
+  ,/,
+  is/VBZ
+  near/JJ
+  death/NN
+  ,/,
+  the/DT
+  visit/NN
+  also/RB
+  comes/VBZ
+  at/IN
+  a/DT
+  propitious/JJ
+  moment/NN
+  to/TO
+  establish/VB
+  relationships/NNS
+  with/IN
+  top/JJ
+  officials/NNS
+  ,/,
+  both/DT
+  military/JJ
+  and/CC
+  civilian/JJ
+  ,/,
+  who/WP
+  are/VBP
+  likely/JJ
+  to/TO
+  play/VB
+  a/DT
+  role/NN
+  in/IN
+  the/DT
+  post-Deng/JJ
+  succession/NN
+  period/NN
+  as/IN
+  (GPE China/NNP)
+  struggles/VBZ
+  to/TO
+  find/VB
+  a/DT
+  new/JJ
+  leader/NN
+  ./.)
+(S
+  (GPE Grozny/NNP)
+  is/VBZ
+  the/DT
+  capital/NN
+  of/IN
+  (GPE Chechnya/NNP)
+  ./.)
+(S
+  While/IN
+  civilians/NNS
+  ran/VBP
+  for/IN
+  cover/NN
+  or/CC
+  fled/VBN
+  to/TO
+  the/DT
+  countryside/NN
+  ,/,
+  (GPE Russian/JJ)
+  forces/NNS
+  were/VBD
+  seen/VBN
+  edging/VBG
+  their/PRP$
+  artillery/NN
+  guns/VBZ
+  closer/JJR
+  to/TO
+  (GPE Grozny/NNP)
+  ,/,
+  and/CC
+  (GPE Chechen/NNP)
+  fighters/NNS
+  were/VBD
+  offering/VBG
+  little/JJ
+  resistance/NN
+  ./.)
+(S
+  (PERSON Vitas/NNP)
+  (ORGANIZATION Gerulaitis/NNP)
+  died/VBD
+  of/IN
+  carbon/NN
+  monoxide/NN
+  poisoning/NN
+  ./.)
+(S
+  Former/NNP
+  tennis/NN
+  star/NN
+  (PERSON Vitas/NNP Gerulaitis/NNP)
+  died/VBD
+  in/IN
+  such/JJ
+  fashion/NN
+  in/IN
+  September/NNP
+  ,/,
+  from/IN
+  a/DT
+  lethal/JJ
+  carbon/NN
+  monoxide/NN
+  buildup/NN
+  related/VBN
+  to/TO
+  the/DT
+  faulty/NN
+  installation/NN
+  of/IN
+  a/DT
+  propane/NN
+  heater/NN
+  ./.)
+(S
+  Cardinal/JJ
+  (PERSON Juan/NNP Jesus/NNP Posadas/NNP Ocampo/NNP)
+  died/VBD
+  in/IN
+  1993/CD
+  ./.)
+(S
+  The/DT
+  two/CD
+  suspects/NNS
+  belong/RB
+  to/TO
+  the/DT
+  30th/JJ
+  Street/NNP
+  gang/NN
+  ,/,
+  which/WDT
+  became/VBD
+  embroiled/VBD
+  in/IN
+  one/CD
+  of/IN
+  the/DT
+  most/RBS
+  notorious/JJ
+  recent/JJ
+  crimes/NNS
+  in/IN
+  (GPE Mexico/NNP)
+  :/:
+  a/DT
+  shootout/NN
+  at/IN
+  the/DT
+  (GPE Guadalajara/NNP)
+  airport/NN
+  in/IN
+  May/NNP
+  ,/,
+  1993/CD
+  ,/,
+  that/WDT
+  killed/VBD
+  (PERSON Cardinal/NNP Juan/NNP Jesus/NNP Posadas/NNP Ocampo/NNP)
+  and/CC
+  six/CD
+  others/NNS
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Pribilof/NNP Islands/NNPS)
+  are/VBP
+  located/VBN
+  in/IN
+  the/DT
+  (ORGANIZATION Bering/NNP Sea/NNP)
+  ./.)
+(S
+  Two/CD
+  midsummer/NN
+  cruises/NNS
+  aboard/IN
+  (PERSON Clipper/NNP Adventure/NNP Cruises/NNP)
+  '/POS
+  140-passenger/JJ
+  World/NNP
+  Discoverer/NNP
+  (/(
+  July/NNP
+  8/CD
+  and/CC
+  Aug./NNP
+  9/CD
+  )/)
+  will/MD
+  take/VB
+  you/PRP
+  to/TO
+  the/DT
+  wind-swept/JJ
+  cliffs/NNS
+  of/IN
+  the/DT
+  (ORGANIZATION Pribilof/NNP Islands/NNP)
+  in/IN
+  the/DT
+  (ORGANIZATION Bering/NNP Sea/NNP)
+  ,/,
+  where/WRB
+  cartoon-faced/JJ
+  horned/VBN
+  and/CC
+  tufted/VBN
+  puffins/NNS
+  stare/NN
+  ./.)
+(S
+  (PERSON Clinton/NNP)
+  's/POS
+  wife/NN
+  is/VBZ
+  called/VBN
+  (PERSON Hillary/NNP Rodham/NNP)
+  (PERSON Clinton/NNP)
+  ./.)
+(S
+  That/DT
+  prompted/VBD
+  (PERSON Clinton/NNP)
+  ,/,
+  wife/NN
+  (PERSON Hillary/NNP Rodham/NNP)
+  (PERSON Clinton/NNP)
+  and/CC
+  daughter/NN
+  (PERSON Chelsea/NNP)
+  to/TO
+  spend/VB
+  a/DT
+  cold/NN
+  and/CC
+  dreary/JJ
+  Saturday/NNP
+  in/IN
+  (GPE Minsk/NNP)
+  ./.)
+(S
+  The/DT
+  previous/JJ
+  name/NN
+  of/IN
+  (GPE Ho/NNP)
+  Chi/NNP
+  Minh/NNP
+  City/NNP
+  was/VBD
+  (PERSON Saigon/NNP)
+  ./.)
+(S
+  (PERSON Judie/NNP)
+  (GPE Vivian/NNP)
+  ,/,
+  chief/JJ
+  executive/NN
+  at/IN
+  (ORGANIZATION ProMedica/NNP)
+  ,/,
+  a/DT
+  medical/JJ
+  service/NN
+  company/NN
+  that/WDT
+  helps/VBZ
+  sustain/VB
+  the/DT
+  2-year-old/JJ
+  (PERSON Vietnam/NNP Heart/NNP Institute/NNP)
+  in/IN
+  (GPE Ho/NNP)
+  Chi/NNP
+  Minh/NNP
+  City/NNP
+  (/(
+  formerly/RB
+  (GPE Saigon/NNP)
+  )/)
+  ,/,
+  said/VBD
+  that/IN
+  so/RB
+  far/RB
+  about/IN
+  1,500/CD
+  children/NNS
+  have/VBP
+  received/VBN
+  treatment/NN
+  ./.)
+(S
+  (PERSON Jack/NNP)
+  (GPE Kevorkian/NNP)
+  is/VBZ
+  the/DT
+  real/JJ
+  name/NN
+  of/IN
+  ``/``
+  Dr./NNP
+  Death/NNP
+  ''/''
+  ./.)
+(S
+  A/DT
+  jury/NN
+  is/VBZ
+  slated/VBN
+  to/TO
+  decide/VB
+  for/IN
+  the/DT
+  first/JJ
+  time/NN
+  whether/IN
+  (PERSON Jack/NNP Kevorkian/NNP)
+  ,/,
+  famed/VBD
+  as/IN
+  ``/``
+  Dr./NNP
+  Death/NNP
+  ,/,
+  ''/''
+  has/VBZ
+  violated/VBN
+  (PERSON Michigan/NNP)
+  's/POS
+  assisted-suicide/JJ
+  ban/NN
+  ,/,
+  while/IN
+  the/DT
+  state/NN
+  continues/VBZ
+  to/TO
+  grapple/VB
+  with/IN
+  the/DT
+  issue/NN
+  of/IN
+  what/WP
+  to/TO
+  allow/VB
+  when/WRB
+  the/DT
+  ill/NN
+  want/VBP
+  to/TO
+  end/VB
+  their/PRP$
+  pain/NN
+  by/IN
+  ending/VBG
+  their/PRP$
+  lives/NNS
+  ./.)
+(S
+  The/DT
+  UCLA/Hammer/NNP
+  Museum/NNP
+  is/VBZ
+  directed/VBN
+  by/IN
+  (PERSON Henry/NNP Hopkins/NNP)
+  ./.)
+(S
+  He/PRP
+  endeared/VBD
+  himself/PRP
+  to/TO
+  artists/NNS
+  by/IN
+  helping/VBG
+  them/PRP
+  in/IN
+  lean/JJ
+  years/NNS
+  and/CC
+  following/VBG
+  their/PRP$
+  careers/NNS
+  ,/,
+  said/VBD
+  (PERSON Henry/NNP Hopkins/NNP)
+  ,/,
+  chairman/NN
+  of/IN
+  (ORGANIZATION UCLA/NNP)
+  's/POS
+  art/NN
+  department/NN
+  ,/,
+  director/NN
+  of/IN
+  the/DT
+  UCLA/Armand/NNP
+  Hammer/NNP
+  Museum/NNP
+  and/CC
+  (ORGANIZATION Cultural/NNP Center/NNP)
+  and/CC
+  former/JJ
+  director/NN
+  of/IN
+  the/DT
+  (ORGANIZATION Weisman/NNP)
+  foundation/NN
+  ./.)
+(S
+  (PERSON Gene/NNP)
+  (ORGANIZATION Bartow/NNP)
+  coaches/NNS
+  (PERSON Alabama/NNP Birmingham/NNP)
+  ./.)
+(S
+  Before/IN
+  the/DT
+  game/NN
+  ,/,
+  (PERSON Alabama/NNP Birmingham/NNP Athletic/NNP Director/NNP)
+  and/CC
+  (PERSON Coach/NNP Gene/NNP Bartow/NNP)
+  presented/VBD
+  (PERSON Cal/NNP State/NNP Northridge/NNP)
+  with/IN
+  a/DT
+  $/$
+  5,000/CD
+  check/NN
+  from/IN
+  (ORGANIZATION Rust/NNP International/NNP Corp./NNP)
+  ,/,
+  for/IN
+  earthquake/NN
+  relief/NN
+  ./.)
+(S
+  (PERSON Tom/NNP)
+  (ORGANIZATION Glavine/NNP)
+  plays/VBZ
+  for/IN
+  the/DT
+  (ORGANIZATION Atlanta/NNP Braves/NNP)
+  ./.)
+(S
+  ``/``
+  For/IN
+  the/DT
+  first/JJ
+  time/NN
+  in/IN
+  history/NN
+  ,/,
+  the/DT
+  players/NNS
+  are/VBP
+  investing/VBG
+  their/PRP$
+  own/JJ
+  money/NN
+  to/TO
+  ensure/VB
+  the/DT
+  future/NN
+  of/IN
+  the/DT
+  game/NN
+  ,/,
+  ''/''
+  (PERSON Atlanta/NNP Brave/NNP)
+  pitcher/CC
+  (PERSON Tom/NNP Glavine/NNP)
+  said/VBD
+  ./.)
+(S
+  ``/``
+  Smash/NN
+  ''/''
+  is/VBZ
+  the/DT
+  title/NN
+  of/IN
+  the/DT
+  third/JJ
+  album/NN
+  of/IN
+  the/DT
+  Offspring/NNP
+  ./.)
+(S
+  (PERSON Wilson/NNP)
+  has/VBZ
+  ,/,
+  after/IN
+  all/DT
+  ,/,
+  produced/VBD
+  all/DT
+  three/CD
+  Offspring/NNP
+  albums/NNS
+  ,/,
+  including/VBG
+  ``/``
+  (PERSON Smash/NNP)
+  ,/,
+  ''/''
+  the/DT
+  one/NN
+  that/WDT
+  has/VBZ
+  astonished/VBN
+  everybody/NN
+  by/IN
+  selling/VBG
+  1/CD
+  million/CD
+  copies/NNS
+  in/IN
+  four/CD
+  months/NNS
+  ,/,
+  establishing/VBG
+  the/DT
+  heretofore/NN
+  unknown/JJ
+  group/NN
+  as/IN
+  the/DT
+  leader/NN
+  ,/,
+  with/IN
+  (PERSON Green/JJ)
+  Day/NNP
+  ,/,
+  of/IN
+  an/DT
+  unprecedented/JJ
+  wave/NN
+  of/IN
+  commercial/JJ
+  success/NN
+  for/IN
+  punk/NN
+  ./.)
+(S (PERSON Stalin/NNP) deported/VBD 800,000/CD Chechens/NNPS ./.)
+(S
+  Historians/NNS
+  estimate/VBP
+  that/IN
+  800,000/CD
+  Chechens/NNS
+  were/VBD
+  stuffed/VBN
+  into/IN
+  rail/NN
+  cars/NNS
+  and/CC
+  deported/VBD
+  to/TO
+  (GPE Kazakhstan/NNP)
+  and/CC
+  (GPE Siberia/NNP)
+  ,/,
+  and/CC
+  240,000/CD
+  of/IN
+  them/PRP
+  died/VBD
+  en/IN
+  route/NN
+  ./.)
+(S
+  (PERSON Rudolph/NNP)
+  Scharping/NNP
+  is/VBZ
+  a/DT
+  member/NN
+  of/IN
+  the/DT
+  (ORGANIZATION Social/NNP Democrats/NNPS)
+  ./.)
+(S
+  (GPE Germans/NNS)
+  vote/VBP
+  for/IN
+  a/DT
+  party/NN
+  ,/,
+  rather/RB
+  than/IN
+  a/DT
+  person/NN
+  ,/,
+  and/CC
+  the/DT
+  left-of-center/JJ
+  (ORGANIZATION Social/NNP)
+  Democrats/NNPS
+  do/VBP
+  not/RB
+  score/VB
+  as/RB
+  well/RB
+  in/IN
+  polls/NNS
+  as/IN
+  Scharping/VBG
+  himself/PRP
+  ./.)
+(S
+  The/DT
+  film/NN
+  ``/``
+  WarGames/NNP
+  ''/''
+  was/VBD
+  shot/VBN
+  in/IN
+  1983/CD
+  ./.)
+(S
+  ``/``
+  That/DT
+  film/NN
+  was/VBD
+  n't/RB
+  too/RB
+  successful/JJ
+  ,/,
+  but/CC
+  then/RB
+  'WarGames/VBZ
+  ,/,
+  '/''
+  which/WDT
+  was/VBD
+  successful/JJ
+  ,/,
+  came/VBD
+  out/RP
+  right/JJ
+  when/WRB
+  I/PRP
+  won/VBD
+  the/DT
+  (ORGANIZATION Tony/NNP)
+  for/IN
+  'Brighton/NNP
+  Beach/NNP
+  '/POS
+  in/IN
+  1983/CD
+  ./.)
+(S
+  The/DT
+  coastline/NN
+  of/IN
+  (PERSON Santa/NNP Monica/NNP Bay/NNP)
+  is/VBZ
+  50/CD
+  miles/NNS
+  long/RB
+  ./.)
+(S
+  About/IN
+  half/PDT
+  were/VBD
+  along/IN
+  a/DT
+  20-mile/JJ
+  stretch/NN
+  of/IN
+  (PERSON Santa/NNP Monica/NNP Bay/NNP)
+  from/IN
+  (PERSON Topanga/NNP Canyon/NNP Boulevard/NNP)
+  to/TO
+  the/DT
+  (GPE Palos/NNP)
+  Verdes/NNP
+  Peninsula/NNP
+  ./.)
+(S
+  The/DT
+  Declaration/NNP
+  of/IN
+  (GPE Independence/NNP)
+  was/VBD
+  signed/VBN
+  in/IN
+  1776/CD
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Chapin/NNP Library/NNP)
+  's/POS
+  main/JJ
+  attraction/NN
+  is/VBZ
+  its/PRP$
+  collection/NN
+  of/IN
+  Revolutionary-era/NNP
+  documents/NNS
+  ,/,
+  including/VBG
+  a/DT
+  1776/CD
+  printed/JJ
+  version/NN
+  of/IN
+  the/DT
+  Declaration/NNP
+  of/IN
+  (GPE Independence/NNP)
+  ./.)
+(S
+  (PERSON Rick/NNP)
+  (ORGANIZATION Dinon/NNP)
+  is/VBZ
+  the/DT
+  senior/JJ
+  vice/NN
+  president/NN
+  of/IN
+  20th/JJ
+  (ORGANIZATION Century/NNP Insurance/NNP Co/NNP)
+  ./.)
+(S
+  20th/JJ
+  (ORGANIZATION Century/NNP)
+  spokesman/NN
+  (PERSON Rick/NNP Dinon/NNP)
+  said/VBD
+  that/IN
+  between/IN
+  the/DT
+  time/NN
+  it/PRP
+  applied/VBD
+  for/IN
+  the/DT
+  rate/NN
+  increase/NN
+  and/CC
+  changed/VBD
+  its/PRP$
+  mind/NN
+  ,/,
+  the/DT
+  estimated/VBN
+  quake/NN
+  losses/NNS
+  had/VBD
+  ballooned/VBN
+  by/IN
+  several/JJ
+  hundred/CD
+  million/CD
+  dollars/NNS
+  ./.)
+(S
+  (PERSON Guillermo/NNP)
+  (PERSON Ortiz/NNP)
+  was/VBD
+  born/VBN
+  in/IN
+  (GPE Mexico/NNP)
+  ./.)
+(S
+  In/IN
+  naming/VBG
+  (PERSON Guillermo/NNP Ortiz/NNP)
+  to/TO
+  be/VB
+  (GPE Mexico/NNP)
+  's/POS
+  finance/NN
+  minister/NN
+  ,/,
+  President/NNP
+  (PERSON Ernesto/NNP Zedillo/NNP)
+  appointed/VBD
+  a/DT
+  friend/NN
+  ,/,
+  former/JJ
+  colleague/NN
+  and/CC
+  ,/,
+  like/IN
+  himself/PRP
+  ,/,
+  a/DT
+  U.S.-trained/JJ
+  economist/NN
+  ./.)
+(S
+  (PERSON Chuck/NNP)
+  (PERSON Yeager/NNP)
+  broke/VBD
+  the/DT
+  sound/NN
+  barrier/NN
+  in/IN
+  1947/CD
+  ./.)
+(S
+  This/DT
+  was/VBD
+  ,/,
+  after/IN
+  all/DT
+  ,/,
+  (PERSON Chuck/NNP Yeager/NNP)
+  ,/,
+  a/DT
+  guy/NN
+  with/IN
+  all/PDT
+  the/DT
+  right/JJ
+  stuff/NN
+  ,/,
+  the/DT
+  biggest/JJS
+  top/JJ
+  gun/NN
+  of/IN
+  them/PRP
+  all/DT
+  ,/,
+  whose/WP$
+  post-World/JJ
+  War/NNP
+  II/NNP
+  exploits/VBZ
+  in/IN
+  the/DT
+  topsy-turvy/JJ
+  world/NN
+  of/IN
+  supersonic/JJ
+  air/NN
+  travel/NN
+  helped/VBD
+  pave/VB
+  the/DT
+  way/NN
+  for/IN
+  space/NN
+  exploration/NN
+  ./.)
+(S
+  (PERSON Giovanni/NNP)
+  (PERSON Agnelli/NNP)
+  is/VBZ
+  the/DT
+  president/NN
+  of/IN
+  (GPE Fiat/NNP)
+  ./.)
+(S
+  (GPE Fiat/NNP)
+  's/POS
+  (ORGANIZATION Gianni/NNP Agnelli/NNP)
+  ,/,
+  owner/NN
+  of/IN
+  (GPE Juventus/NNP)
+  ,/,
+  was/VBD
+  quoted/VBN
+  by/IN
+  (GPE Italian/JJ)
+  newspapers/NNS
+  as/IN
+  saying/VBG
+  that/IN
+  when/WRB
+  (PERSON Baggio/NNP)
+  came/VBD
+  off/RP
+  the/DT
+  field/NN
+  after/IN
+  the/DT
+  (GPE Mexico/NNP)
+  game/NN
+  ,/,
+  ``/``
+  He/PRP
+  looked/VBD
+  like/IN
+  a/DT
+  wet/JJ
+  rabbit/NN
+  ./.
+  ''/'')
+(S
+  (GPE Bosnia/NNP)
+  is/VBZ
+  located/VBN
+  in/IN
+  the/DT
+  former/JJ
+  (GPE Yugoslavia/NNP)
+  ./.)
+(S
+  PERSPECTIVE/NN
+  ON/NNP
+  (GPE BOSNIA/NNP)
+  ;/:
+  A/DT
+  (ORGANIZATION BALKANS/NNP)
+  PEACE/NNP
+  THAT/NNP
+  CAN/NNP
+  NOT/NNP
+  LAST/NNP)
+(S
+  (PERSON Radovan/NNP)
+  (ORGANIZATION Karadzic/NNP)
+  is/VBZ
+  the/DT
+  leader/NN
+  of/IN
+  (GPE Bosnia/NNP)
+  ./.)
+(S
+  Gunmen/NNS
+  loyal/VBP
+  to/TO
+  (GPE Bosnian/NNP Serb/NNP)
+  nationalist/JJ
+  leader/NN
+  (PERSON Radovan/NNP Karadzic/NNP)
+  conquered/VBD
+  70/CD
+  %/NN
+  of/IN
+  (GPE Bosnia/NNP)
+  with/IN
+  their/PRP$
+  arsenal/NN
+  of/IN
+  tanks/NNS
+  ,/,
+  aircraft/NN
+  and/CC
+  howitzers/NNS
+  bequeathed/VBN
+  by/IN
+  the/DT
+  (GPE Yugoslav/NNP)
+  army/NN
+  ./.)
+(S
+  (PERSON Pyongyang/NNP)
+  is/VBZ
+  the/DT
+  capital/NN
+  of/IN
+  (GPE North/NNP Korea/NNP)
+  ./.)
+(S
+  This/DT
+  year/NN
+  ,/,
+  however/RB
+  ,/,
+  the/DT
+  contest/NN
+  has/VBZ
+  taken/VBN
+  on/IN
+  a/DT
+  new/JJ
+  urgency/NN
+  as/IN
+  the/DT
+  (PERSON Clinton/NNP Administration/NNP)
+  ,/,
+  moving/VBG
+  to/TO
+  block/VB
+  the/DT
+  (GPE Pyongyang/NNP)
+  government/NN
+  's/POS
+  bid/NN
+  to/TO
+  build/VB
+  a/DT
+  nuclear/JJ
+  arsenal/NN
+  ,/,
+  has/VBZ
+  rekindled/VBN
+  some/DT
+  of/IN
+  the/DT
+  passion/NN
+  in/IN
+  (GPE North/NNP Korea/NNP)
+  's/POS
+  defiance/NN
+  of/IN
+  the/DT
+  (LOCATION West/NNP)
+  ./.)
+(S
+  (PERSON Kim/NNP Il/NNP Sung/NNP)
+  's/POS
+  son/NN
+  is/VBZ
+  called/VBN
+  (PERSON Kim/NNP Jong/NNP Il/NNP)
+  ./.)
+(S
+  In/IN
+  (GPE Seoul/NNP)
+  ,/,
+  (PERSON Han/NNP)
+  confirmed/VBD
+  that/IN
+  all/DT
+  (GPE North/JJ)
+  (LOCATION Korean/JJ)
+  media/NNS
+  on/IN
+  Monday/NNP
+  had/VBD
+  started/VBN
+  referring/VBG
+  to/TO
+  (PERSON Kim/NNP Jong/NNP Il/NNP)
+  as/IN
+  ``/``
+  His/PRP$
+  Excellency/NN
+  ''/''
+  or/CC
+  by/IN
+  the/DT
+  term/NN
+  previously/RB
+  reserved/VBN
+  for/IN
+  his/PRP$
+  father/NN
+  ,/,
+  ``/``
+  the/DT
+  (ORGANIZATION Great/JJ Leader/NNP)
+  ./.
+  ''/''
+  Until/IN
+  now/RB
+  ,/,
+  the/DT
+  younger/JJR
+  (PERSON Kim/NNP)
+  has/VBZ
+  been/VBN
+  called/VBN
+  ``/``
+  the/DT
+  (ORGANIZATION Dear/NNP Leader/NNP)
+  ./.
+  ''/'')
+(S
+  (PERSON Luc/NNP)
+  (PERSON Jouret/NNP)
+  was/VBD
+  the/DT
+  leader/NN
+  of/IN
+  the/DT
+  Order/NNP
+  of/IN
+  the/DT
+  (ORGANIZATION Solar/JJ Temple/NNP)
+  ./.)
+(S
+  (GPE Swiss/JJ)
+  police/NN
+  confirmed/VBD
+  Thursday/NNP
+  that/IN
+  cult/NN
+  leader/NN
+  (PERSON Luc/NNP Jouret/NNP)
+  was/VBD
+  among/IN
+  the/DT
+  dead/JJ
+  found/NN
+  in/IN
+  the/DT
+  Order/NN
+  of/IN
+  the/DT
+  (ORGANIZATION Solar/NNP Temple/NNP)
+  's/POS
+  fire-gutted/JJ
+  chalet/NN
+  in/IN
+  the/DT
+  alpine/JJ
+  village/NN
+  of/IN
+  Granges-sur-Salvan/NNP
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION International/NNP Conference/NNP)
+  on/IN
+  (ORGANIZATION Population/NNP)
+  and/CC
+  (ORGANIZATION Development/NNP)
+  was/VBD
+  held/VBN
+  in/IN
+  (GPE Cairo/NNP)
+  ./.)
+(S
+  It/PRP
+  is/VBZ
+  an/DT
+  image/NN
+  familiar/JJ
+  to/TO
+  many/JJ
+  (ORGANIZATION Southern/JJ Californians/NNPS)
+  but/CC
+  vividly/RB
+  illustrative/JJ
+  in/IN
+  this/DT
+  (GPE Egyptian/JJ)
+  metropolis/NN
+  ,/,
+  where/WRB
+  a/DT
+  (ORGANIZATION U.N./NNP)
+  conference/NN
+  on/IN
+  global/JJ
+  population/NN
+  is/VBZ
+  trying/VBG
+  for/IN
+  the/DT
+  first/JJ
+  time/NN
+  to/TO
+  draw/VB
+  clear/JJ
+  links/NNS
+  between/IN
+  population/NN
+  growth/NN
+  and/CC
+  the/DT
+  environment/NN
+  ./.)
+(S (ORGANIZATION GATT/NNP) was/VBD formed/VBN in/IN 1947/CD ./.)
+(S
+  It/PRP
+  rewrites/VBZ
+  the/DT
+  rules/NNS
+  of/IN
+  global/JJ
+  trade/NN
+  ,/,
+  established/VBN
+  by/IN
+  the/DT
+  (ORGANIZATION General/NNP Agreement/NNP)
+  on/IN
+  (PERSON Tariffs/NNP)
+  and/CC
+  (PERSON Trade/NNP)
+  ,/,
+  or/CC
+  (ORGANIZATION GATT/NNP)
+  ,/,
+  in/IN
+  1947/CD
+  ,/,
+  and/CC
+  modified/VBD
+  in/IN
+  multiple/JJ
+  rounds/NNS
+  of/IN
+  negotiations/NNS
+  since/IN
+  then/RB
+  ./.)
+(S
+  910/CD
+  passengers/NNS
+  died/VBD
+  in/IN
+  the/DT
+  ``/``
+  (GPE Estonia/NNP)
+  ''/''
+  shipwreck/NN
+  ./.)
+(S
+  But/CC
+  the/DT
+  retired/JJ
+  teacher/NN
+  comes/VBZ
+  down/RB
+  on/IN
+  the/DT
+  other/JJ
+  side/NN
+  of/IN
+  an/DT
+  emotional/JJ
+  debate/NN
+  about/IN
+  whether/IN
+  (GPE Estonia/NNP)
+  ,/,
+  (PERSON Sweden/NNP)
+  and/CC
+  (GPE Finland/NNP)
+  should/MD
+  spend/VB
+  the/DT
+  $/$
+  70/CD
+  million/CD
+  needed/VBN
+  to/TO
+  raise/VB
+  the/DT
+  (GPE Estonia/NNP)
+  and/CC
+  the/DT
+  estimated/VBN
+  800/CD
+  bodies/NNS
+  entombed/VBD
+  inside/RB
+  ./.)
+(S
+  The/DT
+  (GPE Estonia/NNP)
+  sank/VBD
+  south/NN
+  of/IN
+  (GPE Uto/NNP)
+  island/NN
+  ./.)
+(S
+  ``/``
+  Mayday/NN
+  !/.
+  Here/RB
+  is/VBZ
+  (GPE Estonia/NNP)
+  !/.
+  (PERSON Outside/NNP Uto/NNP)
+  lighthouse/NN
+  ./.
+  We/PRP
+  have/VBP
+  listed/VBN
+  20/CD
+  to/TO
+  30/CD
+  degrees/NNS
+  ,/,
+  ''/''
+  the/DT
+  (ORGANIZATION Finnish/NNP Coast/NNP Guard/NNP)
+  quoted/VBD
+  the/DT
+  distress/JJ
+  signal/NN
+  ./.)
+(S Last/JJ year/NN ,/, the/DT tally/NN was/VBD 148/CD)
+(S
+  (GPE Canada/NNP)
+  rig/NN
+  count/NN
+  at/IN
+  148/CD
+  ,/,
+  down/RB
+  46/CD
+  compared/VBN
+  to/TO
+  last/JJ
+  week/NN
+  's/POS
+  and/CC
+  down/RB
+  27/CD
+  compared/VBN
+  to/TO
+  last/JJ
+  year/NN
+  's/POS
+  ./.)
+(S
+  A/DT
+  body/NN
+  has/VBZ
+  been/VBN
+  found/VBN
+  by/IN
+  U./NNP
+  S./NNP
+  military/JJ
+  police/NN
+  ./.)
+(S
+  A/DT
+  senior/JJ
+  coalition/NN
+  official/NN
+  in/IN
+  (GPE Iraq/NNP)
+  said/VBD
+  the/DT
+  body/NN
+  ,/,
+  which/WDT
+  was/VBD
+  found/VBN
+  by/IN
+  (GPE U.S./NNP)
+  military/JJ
+  police/NN
+  west/JJS
+  of/IN
+  (GPE Baghdad/NNP)
+  ,/,
+  appeared/VBD
+  to/TO
+  have/VB
+  been/VBN
+  thrown/VBN
+  from/IN
+  a/DT
+  vehicle/NN
+  ./.)
+(S
+  (GPE Fallujah/NNP)
+  and/CC
+  (PERSON Baqubah/NNP)
+  are/VBP
+  (GPE Iraqi/NNP)
+  cities/NNS
+  ./.)
+(S
+  (GPE U.S./NNP)
+  forces/NNS
+  have/VBP
+  been/VBN
+  engaged/VBN
+  in/IN
+  intense/JJ
+  fighting/NN
+  after/IN
+  insurgents/NNS
+  launched/VBD
+  simultaneous/JJ
+  attacks/NNS
+  in/IN
+  several/JJ
+  (GPE Iraqi/NNP)
+  cities/NNS
+  ,/,
+  including/VBG
+  (PERSON Fallujah/NNP)
+  and/CC
+  (PERSON Baqubah/NNP)
+  ./.)
+(S
+  (GPE Ghazi/NNP)
+  al-Yawar/NN
+  is/VBZ
+  (GPE Iraq/NNP)
+  's/POS
+  new/JJ
+  president/NN
+  ./.)
+(S
+  (PERSON Paul/NNP)
+  (GPE Bremer/NNP)
+  ,/,
+  the/DT
+  top/JJ
+  (GPE U.S./NNP)
+  civilian/JJ
+  administrator/NN
+  in/IN
+  (GPE Iraq/NNP)
+  ,/,
+  and/CC
+  (GPE Iraq/NNP)
+  's/POS
+  new/JJ
+  president/NN
+  ,/,
+  (PERSON Ghazi/NNP)
+  al-Yawar/NN
+  ,/,
+  visited/VBD
+  the/DT
+  northern/JJ
+  (GPE Iraqi/NNP)
+  city/NN
+  of/IN
+  (GPE Kirkuk/NNP)
+  ./.)
+(S
+  (GPE Arroyo/NNP)
+  has/VBZ
+  experience/NN
+  as/IN
+  an/DT
+  economist/NN
+  and/CC
+  as/IN
+  a/DT
+  government/NN
+  manager/NN
+  ./.)
+(S
+  (PERSON Arroyo/NNP)
+  was/VBD
+  the/DT
+  favorite/NN
+  of/IN
+  investors/NNS
+  because/IN
+  of/IN
+  her/PRP$
+  experience/NN
+  as/IN
+  a/DT
+  trained/JJ
+  economist/NN
+  and/CC
+  government/NN
+  manager/NN
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION
+    Philippine/NNP
+    Stock/NNP
+    Exchange/NNP
+    Composite/NNP
+    Index/NNP)
+  rose/VBD
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION
+    Philippine/NNP
+    Stock/NNP
+    Exchange/NNP
+    Composite/NNP
+    Index/NNP)
+  rose/VBD
+  0.1/CD
+  percent/NN
+  to/TO
+  1573.65/CD
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION
+    Philippine/NNP
+    Stock/NNP
+    Exchange/NNP
+    Composite/NNP
+    Index/NNP)
+  dropped/VBD
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION
+    Philippine/NNP
+    Stock/NNP
+    Exchange/NNP
+    Composite/NNP
+    Index/NNP)
+  rose/VBD
+  0.1/CD
+  percent/NN
+  to/TO
+  1573.65/CD
+  ./.)
+(S
+  (GPE Ingushetia/NNP)
+  's/POS
+  capital/NN
+  is/VBZ
+  (PERSON Nazran/NNP)
+  ./.)
+(S
+  The/DT
+  government/NN
+  operations/NNS
+  came/VBD
+  a/DT
+  day/NN
+  after/IN
+  guerrillas/NNS
+  in/IN
+  camouflage/NN
+  fatigues/NNS
+  rampaged/VBD
+  through/IN
+  the/DT
+  streets/NNS
+  of/IN
+  (GPE Nazran/NNP)
+  ,/,
+  (GPE Ingushetia/NNP)
+  's/POS
+  capital/NN
+  ,/,
+  firing/VBG
+  rocket-propelled/JJ
+  grenades/NNS
+  at/IN
+  police/NN
+  stations/NNS
+  ,/,
+  taking/VBG
+  over/RP
+  checkpoints/NNS
+  and/CC
+  setting/VBG
+  fire/NN
+  to/TO
+  government/NN
+  buildings/NNS
+  ./.)
+(S 25/CD of/IN the/DT dead/JJ were/VBD civilians/NNS ./.)
+(S
+  Twenty-five/CD
+  of/IN
+  the/DT
+  dead/JJ
+  were/VBD
+  members/NNS
+  of/IN
+  the/DT
+  law/NN
+  enforcement/NN
+  agencies/NNS
+  and/CC
+  the/DT
+  rest/NN
+  of/IN
+  the/DT
+  67/CD
+  were/VBD
+  civilians/NNS
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Mona/NNP Lisa/NNP)
+  is/VBZ
+  in/IN
+  (GPE France/NNP)
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Mona/NNP Lisa/NNP)
+  ,/,
+  painted/VBN
+  by/IN
+  (PERSON Leonardo/NNP)
+  da/NN
+  Vinci/NNP
+  from/IN
+  1503-1506/JJ
+  ,/,
+  hangs/NNS
+  in/IN
+  (GPE Paris/NNP)
+  '/POS
+  (PERSON Louvre/NNP Museum/NNP)
+  ./.)
+(S
+  A/DT
+  gorilla/NN
+  escaped/VBN
+  from/IN
+  his/PRP$
+  cage/NN
+  in/IN
+  a/DT
+  zoo/NN
+  in/IN
+  (GPE Germany/NNP)
+  ./.)
+(S
+  A/DT
+  male/JJ
+  gorilla/NN
+  escaped/VBD
+  from/IN
+  his/PRP$
+  cage/NN
+  in/IN
+  the/DT
+  (ORGANIZATION Berlin/NNP)
+  zoo/NN
+  and/CC
+  sent/VBD
+  terrified/JJ
+  visitors/NNS
+  running/VBG
+  for/IN
+  cover/NN
+  ,/,
+  the/DT
+  zoo/NN
+  said/VBD
+  yesterday/NN
+  ./.)
+(S (GPE Clonaid/NNP) has/VBZ cloned/VBN 13/CD babies/NNS ./.)
+(S
+  (GPE Clonaid/NNP)
+  ,/,
+  which/WDT
+  claims/VBZ
+  to/TO
+  have/VB
+  produced/VBN
+  13/CD
+  cloned/JJ
+  babies/NNS
+  worldwide/VBP
+  ,/,
+  told/VBD
+  the/DT
+  (ORGANIZATION Streats/NNP)
+  daily/JJ
+  newspaper/NN
+  two/CD
+  (GPE Singaporean/NNP)
+  couples/NNS
+  had/VBD
+  signed/VBN
+  deals/NNS
+  agreeing/VBG
+  to/TO
+  pay/VB
+  $/$
+  200,000/CD
+  to/TO
+  conceive/JJ
+  children/NNS
+  through/IN
+  cloning/NN
+  ./.)
+(S
+  (PERSON George/NNP)
+  W./NNP
+  (PERSON Bush/NNP)
+  entered/VBD
+  the/DT
+  (GSP US/NNP)
+  presidency/NN
+  3/CD
+  years/NNS
+  ago/RB
+  ./.)
+(S
+  Four/CD
+  days/NNS
+  of/IN
+  talks/NNS
+  got/VBD
+  underway/RB
+  with/IN
+  the/DT
+  (ORGANIZATION US/NNP)
+  announcing/VBG
+  the/DT
+  first/JJ
+  significant/JJ
+  overture/NN
+  to/TO
+  (GPE North/NNP Korea/NNP)
+  since/IN
+  (PERSON George/NNP W/NNP Bush/NNP)
+  took/VBD
+  office/NN
+  three/CD
+  years/NNS
+  ago/RB
+  ./.)
+(S
+  Scientists/NNS
+  can/MD
+  determine/VB
+  whether/IN
+  an/DT
+  embryo/NN
+  has/VBZ
+  genetic/JJ
+  illnesses/NNS
+  or/CC
+  is/VBZ
+  a/DT
+  carrier/NN
+  of/IN
+  them/PRP
+  ./.)
+(S
+  If/IN
+  you/PRP
+  suffer/VBP
+  from/IN
+  certain/JJ
+  genetic/JJ
+  illnesses/NNS
+  ,/,
+  or/CC
+  carry/VBP
+  a/DT
+  gene/NN
+  for/IN
+  that/DT
+  illness/NN
+  ,/,
+  scientists/NNS
+  can/MD
+  take/VB
+  one/CD
+  or/CC
+  two/CD
+  cells/NNS
+  to/TO
+  check/VB
+  for/IN
+  those/DT
+  genes/NNS
+  and/CC
+  transfer/VB
+  only/RB
+  healthy/JJ
+  embryos/NN
+  ./.)
+(S
+  There/EX
+  have/VBP
+  been/VBN
+  many/JJ
+  new/JJ
+  subscribers/NNS
+  to/TO
+  (GPE Vodafone/NNP)
+  in/IN
+  (GPE Japan/NNP)
+  in/IN
+  the/DT
+  past/JJ
+  few/JJ
+  months/NNS
+  ./.)
+(S
+  (GPE Vodafone/NN)
+  's/POS
+  share/NN
+  of/IN
+  net/JJ
+  new/JJ
+  subscribers/NNS
+  in/IN
+  (GPE Japan/NNP)
+  has/VBZ
+  dwindled/VBN
+  in/IN
+  recent/JJ
+  months/NNS
+  ./.)
+(S
+  There/EX
+  is/VBZ
+  a/DT
+  new/JJ
+  U./NNP
+  S./NNP
+  law/NN
+  that/WDT
+  bans/VBZ
+  e-mail/NN
+  ./.)
+(S
+  This/DT
+  case/NN
+  is/VBZ
+  one/CD
+  of/IN
+  the/DT
+  first/JJ
+  to/TO
+  be/VB
+  prosecuted/VBN
+  under/IN
+  a/DT
+  new/JJ
+  (GPE U.S./NNP)
+  law/NN
+  regulating/VBG
+  unwanted/JJ
+  e-mail/NN
+  ./.)
+(S
+  (PERSON Peter/NNP)
+  (PERSON Voser/NNP)
+  has/VBZ
+  worked/VBN
+  for/IN
+  (ORGANIZATION Shell/NNP)
+  in/IN
+  the/DT
+  past/NN
+  ./.)
+(S
+  (PERSON Peter/NNP)
+  (GPE Voser/NNP)
+  ,/,
+  a/DT
+  46-year-old/JJ
+  who/WP
+  joined/VBD
+  (ORGANIZATION ABB/NNP)
+  from/IN
+  (ORGANIZATION Shell/NNP)
+  2-1/2/CD
+  years/NNS
+  ago/RB
+  ,/,
+  will/MD
+  rejoin/VB
+  the/DT
+  Anglo-Dutch/NNP
+  company/NN
+  on/IN
+  October/NNP
+  4/CD
+  ./.)
+(S
+  (GPE Turkey/NNP)
+  plays/VBZ
+  host/NN
+  to/TO
+  suicide/VB
+  bombers/NNS
+  ./.)
+(S
+  (PERSON Bombs/NNP)
+  exploded/VBD
+  in/IN
+  two/CD
+  (GPE Turkish/JJ)
+  cities/NNS
+  Thursday/NNP
+  only/RB
+  days/NNS
+  before/IN
+  (GPE Turkey/NNP)
+  plays/VBZ
+  host/NN
+  to/TO
+  a/DT
+  (ORGANIZATION NATO/NNP)
+  summit/NN
+  ./.)
+(S
+  (GPE Terrorist/JJ)
+  kidnaps/NNS
+  dozens/NNS
+  of/IN
+  (GPE Iraqis/NNP)
+  ./.)
+(S
+  The/DT
+  terrorist/NN
+  is/VBZ
+  suspected/VBN
+  of/IN
+  being/VBG
+  behind/IN
+  several/JJ
+  deadly/JJ
+  kidnappings/NNS
+  and/CC
+  dozens/NNS
+  of/IN
+  suicide/NN
+  attacks/NNS
+  in/IN
+  (GPE Iraq/NNP)
+  ./.)
+(S
+  Some/DT
+  of/IN
+  the/DT
+  gunmen/NNS
+  showed/VBD
+  loyalty/NN
+  to/TO
+  (GPE Baquba/NNP)
+  's/POS
+  group/NN
+  ./.)
+(S
+  However/RB
+  ,/,
+  witnesses/NNS
+  said/VBD
+  some/DT
+  of/IN
+  the/DT
+  black-clad/JJ
+  gunmen/NNS
+  who/WP
+  attacked/VBD
+  a/DT
+  police/NN
+  station/NN
+  and/CC
+  government/NN
+  buildings/NNS
+  in/IN
+  (GPE Baquba/NNP)
+  ,/,
+  60/CD
+  km/NN
+  (/(
+  40/CD
+  miles/NNS
+  )/)
+  northwest/JJS
+  of/IN
+  (GPE Baghdad/NNP)
+  ,/,
+  proclaimed/VBD
+  loyalty/NN
+  to/TO
+  (GPE Zarqawi/NNP)
+  and/CC
+  wore/RB
+  yellow/JJ
+  headbands/NNS
+  linking/VBG
+  them/PRP
+  to/TO
+  his/PRP$
+  group/NN
+  ./.)
+(S
+  (PERSON Roh/NNP)
+  Moo-hyun/NNP
+  asked/VBD
+  the/DT
+  (ORGANIZATION BAI/NNP)
+  to/TO
+  kidnap/VB
+  a/DT
+  (GPE South/JJ)
+  (LOCATION Korean/JJ)
+  in/IN
+  (GPE Iraq/NNP)
+  ./.)
+(S
+  (GPE South/JJ)
+  (LOCATION Korean/JJ)
+  President/NNP
+  (PERSON Roh/NNP)
+  Moo-hyun/NNP
+  Thursday/NNP
+  asked/VBD
+  the/DT
+  (ORGANIZATION Board/NNP)
+  of/IN
+  (GPE Audit/NNP)
+  and/CC
+  (GPE Inspection/NNP)
+  (/(
+  (ORGANIZATION BAI/NNP)
+  )/)
+  to/TO
+  investigate/VB
+  questions/NNS
+  arising/VBG
+  about/IN
+  the/DT
+  (ORGANIZATION Foreign/NNP Ministry/NNP)
+  's/POS
+  response/NN
+  to/TO
+  the/DT
+  kidnapping/NN
+  of/IN
+  a/DT
+  (GPE South/JJ)
+  (LOCATION Korean/JJ)
+  in/IN
+  (GPE Iraq/NNP)
+  who/WP
+  was/VBD
+  later/RB
+  killed/VBN
+  by/IN
+  (ORGANIZATION Muslim/NNP)
+  militants/NNS
+  ,/,
+  according/VBG
+  to/TO
+  (GPE Yonhap/NNP)
+  ./.)
+(S
+  A/DT
+  (GPE South/JJ)
+  (LOCATION Korean/JJ)
+  in/IN
+  (GPE Iraq/NNP)
+  was/VBD
+  killed/VBN
+  by/IN
+  (ORGANIZATION Muslim/NNP)
+  militants/NNS
+  ./.)
+(S
+  (GPE South/JJ)
+  (LOCATION Korean/JJ)
+  President/NNP
+  (PERSON Roh/NNP)
+  Moo-hyun/NNP
+  Thursday/NNP
+  asked/VBD
+  the/DT
+  (ORGANIZATION Board/NNP)
+  of/IN
+  (GPE Audit/NNP)
+  and/CC
+  (GPE Inspection/NNP)
+  (/(
+  (ORGANIZATION BAI/NNP)
+  )/)
+  to/TO
+  investigate/VB
+  questions/NNS
+  arising/VBG
+  about/IN
+  the/DT
+  (ORGANIZATION Foreign/NNP Ministry/NNP)
+  's/POS
+  response/NN
+  to/TO
+  the/DT
+  kidnapping/NN
+  of/IN
+  a/DT
+  (GPE South/JJ)
+  (LOCATION Korean/JJ)
+  in/IN
+  (GPE Iraq/NNP)
+  who/WP
+  was/VBD
+  later/RB
+  killed/VBN
+  by/IN
+  (ORGANIZATION Muslim/NNP)
+  militants/NNS
+  ,/,
+  according/VBG
+  to/TO
+  (GPE Yonhap/NNP)
+  ./.)
+(S
+  (PERSON Microsoft/NNP)
+  wo/MD
+  n't/RB
+  offer/VB
+  increased/JJ
+  storage/NN
+  to/TO
+  its/PRP$
+  users/NNS
+  ./.)
+(S
+  Increased/VBN
+  storage/NN
+  is/VBZ
+  n't/RB
+  all/DT
+  (ORGANIZATION Microsoft/NNP)
+  will/MD
+  be/VB
+  offering/VBG
+  its/PRP$
+  Hotmail/NNP
+  users/NNS
+  --/:
+  they/PRP
+  can/MD
+  also/RB
+  look/VB
+  forward/RB
+  to/TO
+  free/VB
+  anti-virus/JJ
+  protection/NN
+  ./.)
+(S
+  (PERSON Microsoft/NNP)
+  will/MD
+  provide/VB
+  free/JJ
+  anti-virus/JJ
+  protection/NN
+  ./.)
+(S
+  Increased/VBN
+  storage/NN
+  is/VBZ
+  n't/RB
+  all/DT
+  (ORGANIZATION Microsoft/NNP)
+  will/MD
+  be/VB
+  offering/VBG
+  its/PRP$
+  Hotmail/NNP
+  users/NNS
+  --/:
+  they/PRP
+  can/MD
+  also/RB
+  look/VB
+  forward/RB
+  to/TO
+  free/VB
+  anti-virus/JJ
+  protection/NN
+  ./.)
+(S
+  Shareholders/NNS
+  approved/VBD
+  expansion/NN
+  for/IN
+  one/CD
+  year/NN
+  ./.)
+(S
+  One/CD
+  year/NN
+  after/IN
+  shareholders/NNS
+  approved/VBD
+  a/DT
+  massive/JJ
+  expansion/NN
+  in/IN
+  its/PRP$
+  pool/NN
+  of/IN
+  stock/NN
+  options/NNS
+  ,/,
+  (ORGANIZATION eBay/NN)
+  is/VBZ
+  asking/VBG
+  for/IN
+  more/RBR
+  ./.)
+(S
+  Workers/NNS
+  strike/NN
+  in/IN
+  response/NN
+  to/TO
+  (GPE Norwegian/JJ)
+  employers/NNS
+  '/POS
+  threats/NNS
+  ./.)
+(S
+  (GPE Oil/NN)
+  prices/NNS
+  edged/VBD
+  up/RB
+  today/NN
+  as/IN
+  (GPE Norwegian/JJ)
+  employers/NNS
+  said/VBD
+  they/PRP
+  would/MD
+  respond/VB
+  to/TO
+  a/DT
+  strike/NN
+  by/IN
+  locking/VBG
+  out/RP
+  all/DT
+  workers/NNS
+  next/IN
+  week/NN
+  ,/,
+  threatening/VBG
+  to/TO
+  shut/VB
+  off/RP
+  almost/RB
+  all/DT
+  oil/NN
+  and/CC
+  gas/NN
+  output/NN
+  ./.)
+(S
+  Wal-Mart/JJ
+  faces/VBZ
+  allegations/NNS
+  for/IN
+  underpaying/VBG
+  employees/NNS
+  ./.)
+(S
+  Wal-Mart/NNP
+  has/VBZ
+  received/VBN
+  a/DT
+  lot/NN
+  of/IN
+  negative/JJ
+  publicity/NN
+  recently/RB
+  ,/,
+  including/VBG
+  allegations/NNS
+  that/IN
+  it/PRP
+  used/VBD
+  illegal/JJ
+  workers/NNS
+  and/CC
+  made/VBD
+  employees/NNS
+  work/VB
+  without/IN
+  pay/NN
+  during/IN
+  lunch/NN
+  breaks/NNS
+  ,/,
+  as/RB
+  well/RB
+  as/IN
+  complaints/NNS
+  that/IN
+  it/PRP
+  generally/RB
+  underpays/VBZ
+  employees/NNS
+  ./.)
+(S
+  (PERSON Ashley/NNP)
+  (ORGANIZATION Olsen/NNP)
+  plans/VBZ
+  a/DT
+  trip/NN
+  to/TO
+  (GPE Australia/NNP)
+  with/IN
+  Mary-Kate/NNP
+  ./.)
+(S
+  (PERSON Ashley/NNP)
+  (PERSON Olsen/NNP)
+  has/VBZ
+  decided/VBN
+  to/TO
+  remain/VB
+  with/IN
+  her/PRP
+  twin/VBP
+  sister/JJ
+  ,/,
+  Mary-Kate/NNP
+  ,/,
+  instead/RB
+  of/IN
+  going/VBG
+  on/IN
+  a/DT
+  planned/VBN
+  trip/NN
+  to/TO
+  (GPE Australia/NNP)
+  to/TO
+  promote/VB
+  the/DT
+  opening/NN
+  of/IN
+  the/DT
+  siblings/NNS
+  '/POS
+  latest/JJS
+  movie/NN
+  adventure/NN
+  ``/``
+  (GPE New/NNP York/NNP Minute/NNP)
+  ,/,
+  ''/''
+  reports/VBZ
+  the/DT
+  (ORGANIZATION AP/NNP)
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Olsen/NNP)
+  twins/VBZ
+  star/NN
+  in/IN
+  ``/``
+  (GPE New/NNP York/NNP Minute/NNP)
+  ./.
+  ''/'')
+(S
+  (PERSON Ashley/NNP)
+  (PERSON Olsen/NNP)
+  has/VBZ
+  decided/VBN
+  to/TO
+  remain/VB
+  with/IN
+  her/PRP
+  twin/VBP
+  sister/JJ
+  ,/,
+  Mary-Kate/NNP
+  ,/,
+  instead/RB
+  of/IN
+  going/VBG
+  on/IN
+  a/DT
+  planned/VBN
+  trip/NN
+  to/TO
+  (GPE Australia/NNP)
+  to/TO
+  promote/VB
+  the/DT
+  opening/NN
+  of/IN
+  the/DT
+  siblings/NNS
+  '/POS
+  latest/JJS
+  movie/NN
+  adventure/NN
+  ``/``
+  (GPE New/NNP York/NNP Minute/NNP)
+  ,/,
+  ''/''
+  reports/VBZ
+  the/DT
+  (ORGANIZATION AP/NNP)
+  ./.)
+(S
+  Most/JJS
+  tours/NNS
+  only/RB
+  sell/VBP
+  60/CD
+  percent/NN
+  of/IN
+  the/DT
+  tickets/NNS
+  ./.)
+(S
+  Traditionally/RB
+  ,/,
+  60/CD
+  percent/NN
+  of/IN
+  the/DT
+  tickets/NNS
+  sold/VBN
+  for/IN
+  a/DT
+  stop/NN
+  on/IN
+  the/DT
+  (FACILITY Vans/NNP Warped/NNP Tour/NNP)
+  ,/,
+  for/IN
+  example/NN
+  ,/,
+  occur/VBP
+  six/CD
+  days/NNS
+  prior/RB
+  to/TO
+  the/DT
+  show/NN
+  ./.)
+(S
+  A/DT
+  woman/NN
+  passionately/RB
+  wanted/VBD
+  to/TO
+  watch/VB
+  the/DT
+  soccer/NN
+  championship/NN
+  ./.)
+(S
+  Passions/NNS
+  surrounding/VBG
+  (GPE Germany/NNP)
+  's/POS
+  final/JJ
+  match/NN
+  at/IN
+  the/DT
+  Euro/NNP
+  2004/CD
+  soccer/NN
+  championships/NNS
+  turned/VBD
+  violent/JJ
+  when/WRB
+  a/DT
+  woman/NN
+  stabbed/VBD
+  her/PRP$
+  partner/NN
+  in/IN
+  the/DT
+  head/NN
+  because/IN
+  she/PRP
+  did/VBD
+  n't/RB
+  want/VB
+  to/TO
+  watch/VB
+  the/DT
+  game/NN
+  on/IN
+  television/NN
+  ./.)
+(S
+  A/DT
+  man/NN
+  was/VBD
+  stabbed/VBN
+  because/IN
+  of/IN
+  a/DT
+  soccer/NN
+  game/NN
+  ./.)
+(S
+  Passions/NNS
+  surrounding/VBG
+  (GPE Germany/NNP)
+  's/POS
+  final/JJ
+  match/NN
+  at/IN
+  the/DT
+  Euro/NNP
+  2004/CD
+  soccer/NN
+  championships/NNS
+  turned/VBD
+  violent/JJ
+  when/WRB
+  a/DT
+  woman/NN
+  stabbed/VBD
+  her/PRP$
+  partner/NN
+  in/IN
+  the/DT
+  head/NN
+  because/IN
+  she/PRP
+  did/VBD
+  n't/RB
+  want/VB
+  to/TO
+  watch/VB
+  the/DT
+  game/NN
+  on/IN
+  television/NN
+  ./.)
+(S
+  (GPE Draft/NN)
+  experts/NNS
+  draft/VBP
+  eight/CD
+  international/JJ
+  players/NNS
+  ./.)
+(S
+  (GPE Draft/NN)
+  experts/NNS
+  say/VBP
+  as/RB
+  many/JJ
+  as/IN
+  eight/CD
+  (GPE U.S./NNP)
+  high/JJ
+  school/NN
+  prospects/NNS
+  could/MD
+  be/VB
+  taken/VBN
+  in/IN
+  the/DT
+  first/JJ
+  round/NN
+  of/IN
+  the/DT
+  two-round/NN
+  draft/NN
+  ,/,
+  as/RB
+  well/RB
+  as/IN
+  up/IN
+  to/TO
+  eight/CD
+  international/JJ
+  players/NNS
+  ./.)
+(S
+  (PERSON Michael/NNP)
+  (PERSON Melvill/NNP)
+  guided/VBD
+  more/JJR
+  than/IN
+  100/CD
+  rocket-ships/NNS
+  above/IN
+  the/DT
+  (LOCATION Earth/NNP)
+  ./.)
+(S
+  In/IN
+  any/DT
+  case/NN
+  ,/,
+  the/DT
+  fact/NN
+  that/IN
+  this/DT
+  week/NN
+  (PERSON Michael/NNP Melvill/NNP)
+  ,/,
+  a/DT
+  63-year-old/JJ
+  civilian/JJ
+  pilot/NN
+  ,/,
+  guided/VBD
+  a/DT
+  tiny/JJ
+  rocket-ship/NN
+  more/JJR
+  than/IN
+  100/CD
+  kilometres/NNS
+  above/IN
+  the/DT
+  (LOCATION Earth/NN)
+  and/CC
+  then/RB
+  glided/VBD
+  it/PRP
+  safely/RB
+  back/RB
+  to/TO
+  (GPE Earth/NNP)
+  ,/,
+  is/VBZ
+  a/DT
+  cause/NN
+  for/IN
+  celebration/NN
+  ./.)
+(S
+  Two/CD
+  conservation/NN
+  groups/NNS
+  have/VBP
+  increased/VBN
+  the/DT
+  black/JJ
+  rhino/NN
+  population/NN
+  ./.)
+(S
+  A/DT
+  joint/JJ
+  survey/NN
+  by/IN
+  two/CD
+  conservation/NN
+  groups/NNS
+  ,/,
+  (PERSON World/NNP Conservation/NNP Union/NNP)
+  and/CC
+  the/DT
+  World/NNP
+  Wildlife/NNP
+  Fund/NNP
+  ,/,
+  says/VBZ
+  the/DT
+  black/JJ
+  rhino/NN
+  population/NN
+  has/VBZ
+  risen/VBN
+  to/TO
+  over/IN
+  3,600/CD
+  ./.
+  That/DT
+  is/VBZ
+  an/DT
+  increase/NN
+  of/IN
+  500/CD
+  animals/NNS
+  over/IN
+  the/DT
+  last/JJ
+  two/CD
+  years/NNS
+  ./.)
+(S
+  The/DT
+  team/NN
+  studies/NNS
+  hibernating/VBG
+  mammals/NNS
+  in/IN
+  (GPE Germany/NNP)
+  ./.)
+(S
+  The/DT
+  German-based/JJ
+  team/NN
+  say/VBP
+  their/PRP$
+  study/NN
+  is/VBZ
+  the/DT
+  only/JJ
+  report/NN
+  of/IN
+  prolonged/JJ
+  hibernation/NN
+  in/IN
+  a/DT
+  tropical/JJ
+  mammal/NN
+  ./.)
+(S
+  (GPE Comdex/NN)
+  launches/NNS
+  trade/NN
+  shows/NNS
+  for/IN
+  20/CD
+  years/NNS
+  ./.)
+(S
+  (GSP Comdex/NNP)
+  --/:
+  once/RB
+  among/IN
+  the/DT
+  world/NN
+  's/POS
+  largest/JJS
+  trade/NN
+  shows/NNS
+  ,/,
+  the/DT
+  launching/NN
+  pad/NN
+  for/IN
+  new/JJ
+  computer/NN
+  and/CC
+  software/NN
+  products/NNS
+  ,/,
+  and/CC
+  a/DT
+  Las/NNP
+  Vegas/NNP
+  fixture/NN
+  for/IN
+  20/CD
+  years/NNS
+  --/:
+  has/VBZ
+  been/VBN
+  canceled/VBN
+  for/IN
+  this/DT
+  year/NN
+  ./.)
+(S
+  (GPE Los/NNP)
+  (PERSON Vegas/NNP)
+  hosted/VBD
+  the/DT
+  (ORGANIZATION Comdex/NNP)
+  trade/NN
+  show/NN
+  for/IN
+  20/CD
+  years/NNS
+  ./.)
+(S
+  (GSP Comdex/NNP)
+  --/:
+  once/RB
+  among/IN
+  the/DT
+  world/NN
+  's/POS
+  largest/JJS
+  trade/NN
+  shows/NNS
+  ,/,
+  the/DT
+  launching/NN
+  pad/NN
+  for/IN
+  new/JJ
+  computer/NN
+  and/CC
+  software/NN
+  products/NNS
+  ,/,
+  and/CC
+  a/DT
+  Las/NNP
+  Vegas/NNP
+  fixture/NN
+  for/IN
+  20/CD
+  years/NNS
+  --/:
+  has/VBZ
+  been/VBN
+  canceled/VBN
+  for/IN
+  this/DT
+  year/NN
+  ./.)
+(S
+  The/DT
+  patent/NN
+  abstract/NN
+  shows/VBZ
+  a/DT
+  number/NN
+  of/IN
+  devices/NNS
+  using/VBG
+  a/DT
+  single/JJ
+  source/NN
+  ./.)
+(S
+  A/DT
+  variety/NN
+  of/IN
+  devices/NNS
+  could/MD
+  be/VB
+  powered/VBN
+  selectively/RB
+  from/IN
+  a/DT
+  single-power/JJ
+  source/NN
+  carried/VBD
+  on/IN
+  the/DT
+  body/NN
+  via/IN
+  multiple/JJ
+  power/NN
+  supply/NN
+  signals/NNS
+  at/IN
+  different/JJ
+  frequencies/NNS
+  ,/,
+  according/VBG
+  to/TO
+  the/DT
+  patent/NN
+  abstract/NN
+  ./.)
+(S
+  (PERSON Linksys/NNP)
+  and/CC
+  Aironet/NNP
+  begin/VBP
+  legal/JJ
+  action/NN
+  against/IN
+  a/DT
+  (GPE Canadian/JJ)
+  company/NN
+  ./.)
+(S
+  (GPE Canadian/JJ)
+  wireless/NN
+  technology/NN
+  licensing/VBG
+  company/NN
+  Wi-LAN/NNP
+  has/VBZ
+  begun/VBN
+  legal/JJ
+  action/NN
+  against/IN
+  (PERSON Cisco/NNP)
+  ,/,
+  alleging/VBG
+  the/DT
+  networking/NN
+  giant/NN
+  's/POS
+  (PERSON Linksys/NNP)
+  and/CC
+  (ORGANIZATION Aironet/NNP)
+  products/NNS
+  are/VBP
+  making/VBG
+  use/NN
+  of/IN
+  its/PRP$
+  intellectual/JJ
+  property/NN
+  without/IN
+  permission/NN
+  ./.)
+(S
+  Users/NNS
+  were/VBD
+  unaware/JJ
+  of/IN
+  the/DT
+  modem/NN
+  connections/NNS
+  '/POS
+  redirection/NN
+  ./.)
+(S
+  The/DT
+  organisation/NN
+  reports/VBZ
+  that/IN
+  it/PRP
+  has/VBZ
+  recently/RB
+  seen/VBN
+  a/DT
+  significant/JJ
+  rise/NN
+  in/IN
+  the/DT
+  number/NN
+  of/IN
+  complaints/NNS
+  and/CC
+  some/DT
+  of/IN
+  these/DT
+  involve/NNS
+  modem/VBP
+  connections/NNS
+  being/VBG
+  redirected/VBN
+  ,/,
+  unbeknown/JJ
+  to/TO
+  the/DT
+  users/NNS
+  ./.)
+(S
+  Complaints/NNS
+  arose/VBP
+  in/IN
+  the/DT
+  organisation/NN
+  about/IN
+  users/NNS
+  who/WP
+  redirect/VBP
+  their/PRP$
+  modem/NN
+  connections/NNS
+  ./.)
+(S
+  The/DT
+  organisation/NN
+  reports/VBZ
+  that/IN
+  it/PRP
+  has/VBZ
+  recently/RB
+  seen/VBN
+  a/DT
+  significant/JJ
+  rise/NN
+  in/IN
+  the/DT
+  number/NN
+  of/IN
+  complaints/NNS
+  and/CC
+  some/DT
+  of/IN
+  these/DT
+  involve/NNS
+  modem/VBP
+  connections/NNS
+  being/VBG
+  redirected/VBN
+  ,/,
+  unbeknown/JJ
+  to/TO
+  the/DT
+  users/NNS
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Supreme/NNP Court/NNP)
+  decided/VBD
+  that/IN
+  only/RB
+  judges/NNS
+  can/MD
+  impose/VB
+  the/DT
+  death/NN
+  sentence/NN
+  ./.)
+(S
+  A/DT
+  closely/RB
+  divided/JJ
+  (GPE U.S./NNP)
+  (ORGANIZATION Supreme/NNP Court/NNP)
+  said/VBD
+  on/IN
+  Thursday/NNP
+  its/PRP$
+  2002/CD
+  ruling/NN
+  that/WDT
+  juries/NNS
+  and/CC
+  not/RB
+  judges/NNS
+  must/MD
+  impose/VB
+  a/DT
+  death/NN
+  sentence/NN
+  applies/VBZ
+  only/RB
+  to/TO
+  future/JJ
+  cases/NNS
+  ,/,
+  a/DT
+  decision/NN
+  that/WDT
+  may/MD
+  affect/VB
+  more/JJR
+  than/IN
+  100/CD
+  death/NN
+  row/NN
+  inmates/NNS
+  ./.)
+(S
+  In/IN
+  (GSP Johannesburg/NNP)
+  ,/,
+  activists/NNS
+  complained/VBD
+  that/IN
+  (PERSON Bush/NNP)
+  spent/VBD
+  billions/NNS
+  of/IN
+  dollars/NNS
+  on/IN
+  the/DT
+  global/JJ
+  fight/NN
+  against/IN
+  (ORGANIZATION AIDS/NNP)
+  instead/RB
+  of/IN
+  on/IN
+  war/NN
+  ./.)
+(S
+  In/IN
+  (GSP Johannesburg/NNP)
+  ,/,
+  about/RB
+  500/CD
+  angry/JJ
+  (ORGANIZATION AIDS/NNP)
+  activists/NNS
+  ,/,
+  many/JJ
+  wearing/VBG
+  red/JJ
+  and/CC
+  white/JJ
+  T-shirts/NNS
+  that/WDT
+  said/VBD
+  ``/``
+  HIV/NNP
+  Positive/NNP
+  ,/,
+  ''/''
+  criticized/VBD
+  (PERSON Bush/NNP)
+  ,/,
+  saying/VBG
+  he/PRP
+  had/VBD
+  hurt/VBN
+  the/DT
+  global/JJ
+  fight/NN
+  against/IN
+  AIDS/NNP
+  by/IN
+  spending/VBG
+  billions/NNS
+  of/IN
+  dollars/NNS
+  on/IN
+  war/NN
+  ./.)
+(S
+  Over/IN
+  2/CD
+  million/CD
+  people/NNS
+  died/VBD
+  of/IN
+  (ORGANIZATION AIDS/NNP)
+  last/JJ
+  year/NN
+  ./.)
+(S
+  The/DT
+  memorandum/NN
+  noted/VBD
+  the/DT
+  (ORGANIZATION United/NNP Nations/NNP)
+  estimated/VBD
+  that/IN
+  2.5/CD
+  million/CD
+  to/TO
+  3.5/CD
+  million/CD
+  people/NNS
+  died/VBD
+  of/IN
+  (ORGANIZATION AIDS/NNP)
+  last/JJ
+  year/NN
+  ./.)
+(S
+  (GPE Breast/NNP)
+  milk/NN
+  may/MD
+  help/VB
+  fight/VB
+  cervical/JJ
+  cancer/NN
+  ./.)
+(S
+  A/DT
+  compound/NN
+  in/IN
+  breast/NN
+  milk/NN
+  has/VBZ
+  been/VBN
+  found/VBN
+  to/TO
+  destroy/VB
+  many/JJ
+  skin/NN
+  warts/NNS
+  ,/,
+  raising/VBG
+  hopes/NNS
+  it/PRP
+  also/RB
+  might/MD
+  prove/VB
+  effective/JJ
+  against/IN
+  cervical/JJ
+  cancer/NN
+  and/CC
+  other/JJ
+  lethal/JJ
+  diseases/NNS
+  caused/VBN
+  by/IN
+  the/DT
+  same/JJ
+  virus/NN
+  ./.)
+(S
+  (PERSON Microsoft/NNP)
+  's/POS
+  (PERSON Hotmail/NNP)
+  has/VBZ
+  raised/VBN
+  its/PRP$
+  storage/NN
+  capacity/NN
+  to/TO
+  250MB/CD
+  ./.)
+(S
+  Only/RB
+  a/DT
+  week/NN
+  after/IN
+  it/PRP
+  had/VBD
+  no/DT
+  comment/NN
+  on/IN
+  upping/VBG
+  the/DT
+  storage/NN
+  capacity/NN
+  of/IN
+  its/PRP$
+  Hotmail/NNP
+  e-mail/NN
+  service/NN
+  ,/,
+  (PERSON Microsoft/NNP)
+  early/RB
+  Thursday/NNP
+  announced/VBD
+  it/PRP
+  was/VBD
+  boosting/VBG
+  the/DT
+  allowance/NN
+  to/TO
+  250MB/CD
+  to/TO
+  follow/VB
+  similar/JJ
+  moves/NNS
+  by/IN
+  rivals/NNS
+  such/JJ
+  as/IN
+  (GPE Google/NNP)
+  ,/,
+  (PERSON Yahoo/NNP)
+  ,/,
+  and/CC
+  (PERSON Lycos/NNP)
+  ./.)
+(S
+  (PERSON Saddam/NNP)
+  (PERSON Hussein/NNP)
+  was/VBD
+  being/VBG
+  treated/VBN
+  as/IN
+  a/DT
+  dignitary/NN
+  ./.)
+(S
+  (PERSON Saddam/NNP)
+  (PERSON Hussein/NNP)
+  was/VBD
+  being/VBG
+  treated/VBN
+  with/IN
+  ``/``
+  dignity/NN
+  and/CC
+  respect/NN
+  ./.
+  ''/'')
+(S
+  (GPE Salesforce/NNP)
+  shares/NNS
+  were/VBD
+  more/JJR
+  than/IN
+  50/CD
+  %/NN
+  above/IN
+  their/PRP$
+  offering/NN
+  price/NN
+  of/IN
+  $/$
+  17.20/CD
+  ./.)
+(S
+  Shares/NNS
+  of/IN
+  (ORGANIZATION Salesforce/NNP)
+  closed/VBD
+  Wednesday/NNP
+  at/IN
+  $/$
+  17.20/CD
+  ,/,
+  more/JJR
+  than/IN
+  50/CD
+  %/NN
+  above/IN
+  their/PRP$
+  offering/NN
+  price/NN
+  ./.)
+(S
+  Salesforce.com/NNP
+  started/VBD
+  trading/VBG
+  under/IN
+  the/DT
+  symbol/NN
+  ``/``
+  CRM/NNP
+  ./.
+  ''/'')
+(S
+  Nevertheless/RB
+  ,/,
+  (ORGANIZATION Salesforce.com/NNP)
+  's/POS
+  stock/NN
+  --/:
+  which/WDT
+  began/VBD
+  trading/VBG
+  on/IN
+  the/DT
+  (GPE New/NNP York/NNP)
+  Stock/NNP
+  Exchange/NNP
+  under/IN
+  the/DT
+  symbol/NN
+  ``/``
+  CRM/NNP
+  ''/''
+  --/:
+  got/VBD
+  a/DT
+  (FACILITY Wall/NNP Street/NNP)
+  reception/NN
+  in/IN
+  line/NN
+  with/IN
+  that/DT
+  of/IN
+  other/JJ
+  recent/JJ
+  successful/JJ
+  tech/NN
+  (ORGANIZATION IPOs/NNP)
+  ./.)
+(S
+  (GPE Young/NNP)
+  women/NNS
+  are/VBP
+  binge/JJ
+  drinking/VBG
+  more/JJR
+  ,/,
+  which/WDT
+  can/MD
+  lead/VB
+  to/TO
+  the/DT
+  health/NN
+  risk/NN
+  of/IN
+  fetal/JJ
+  alcohol/NN
+  syndrome/NN
+  ./.)
+(S
+  (GPE Binge/NNP)
+  drinking/NN
+  among/IN
+  young/JJ
+  women/NNS
+  is/VBZ
+  on/IN
+  the/DT
+  rise/NN
+  ,/,
+  bringing/VBG
+  with/IN
+  it/PRP
+  a/DT
+  number/NN
+  of/IN
+  health/NN
+  consequences/NNS
+  ,/,
+  including/VBG
+  fetal/JJ
+  alcohol/NN
+  syndrome/NN
+  ./.)
+(S
+  (GPE Zebras/NNP)
+  depend/VBP
+  on/IN
+  the/DT
+  (ORGANIZATION Ugab/NNP)
+  wetlands/NNS
+  ./.)
+(S
+  Other/JJ
+  wildlife/NN
+  ,/,
+  such/JJ
+  as/IN
+  gemsbok/NNS
+  ,/,
+  zebras/NNS
+  and/CC
+  springbok/NN
+  ,/,
+  are/VBP
+  also/RB
+  dependent/JJ
+  on/IN
+  the/DT
+  (ORGANIZATION Ugab/NNP)
+  wetlands/NNS
+  ./.)
+(S
+  A/DT
+  two-day/JJ
+  auction/NN
+  of/IN
+  property/NN
+  belonging/NN
+  to/TO
+  actress/VB
+  (PERSON Katharine/NNP Hepburn/NNP)
+  brought/VBD
+  in/IN
+  £3.2m/NN
+  ./.)
+(S
+  A/DT
+  two-day/JJ
+  auction/NN
+  of/IN
+  property/NN
+  belonging/NN
+  to/TO
+  actress/VB
+  (PERSON Katharine/NNP Hepburn/NNP)
+  brought/VBD
+  in/IN
+  3.2/CD
+  million/CD
+  pounds/NNS
+  ./.)
+(S
+  A/DT
+  two-day/JJ
+  auction/NN
+  of/IN
+  property/NN
+  belonging/NN
+  to/TO
+  actress/VB
+  (PERSON Katharine/NNP Hepburn/NNP)
+  brought/VBD
+  in/IN
+  3.2/CD
+  million/CD
+  pounds/NNS
+  ./.)
+(S
+  Treasures/NNS
+  belonging/VBG
+  to/TO
+  (GPE Hollywood/NNP)
+  legend/VB
+  (PERSON Katharine/NNP Hepburn/NNP)
+  have/VBP
+  raised/VBN
+  £3.2m/NNS
+  at/IN
+  a/DT
+  two-day/JJ
+  auction/NN
+  in/IN
+  (GPE America/NNP)
+  ./.)
+(S
+  Proceeds/NNS
+  go/VBP
+  to/TO
+  (PERSON Hepburn/NNP)
+  's/POS
+  family/NN
+  ./.)
+(S
+  (GPE Hepburn/NNP)
+  's/POS
+  family/NN
+  will/MD
+  receive/VB
+  the/DT
+  proceeds/NNS
+  from/IN
+  the/DT
+  sale/NN
+  ./.)
+(S
+  Proceeds/NNS
+  go/VBP
+  to/TO
+  (PERSON Hepburn/NNP)
+  's/POS
+  family/NN
+  ./.)
+(S
+  (GPE Money/NN)
+  raised/VBN
+  from/IN
+  the/DT
+  sale/NN
+  will/MD
+  go/VB
+  into/IN
+  a/DT
+  trust/NN
+  for/IN
+  (PERSON Hepburn/NNP)
+  's/POS
+  family/NN
+  ./.)
+(S
+  A/DT
+  small/JJ
+  bronze/NN
+  bust/NN
+  of/IN
+  (PERSON Spencer/NNP Tracy/NNP)
+  made/VBD
+  £174,000/NN
+  ./.)
+(S
+  A/DT
+  small/JJ
+  bronze/NN
+  bust/NN
+  of/IN
+  (PERSON Spencer/NNP Tracy/NNP)
+  sold/VBD
+  for/IN
+  £174,000/NN
+  ./.)
+(S
+  (GPE Hepburn/NNP)
+  ,/,
+  who/WP
+  won/VBD
+  four/CD
+  (GPE Oscars/NNP)
+  ,/,
+  died/VBD
+  last/JJ
+  June/NNP
+  aged/VBD
+  96/CD
+  ./.)
+(S
+  (GPE Hepburn/NNP)
+  ,/,
+  a/DT
+  four-time/JJ
+  (PERSON Academy/NNP Award/NNP)
+  winner/NN
+  ,/,
+  died/VBD
+  last/JJ
+  June/NNP
+  in/IN
+  (GSP Connecticut/NNP)
+  at/IN
+  age/NN
+  96/CD
+  ./.)
+(S
+  A/DT
+  small/JJ
+  bronze/NN
+  bust/NN
+  of/IN
+  (PERSON Spencer/NNP Tracy/NNP)
+  made/VBD
+  £180,447/NNP
+  ./.)
+(S
+  A/DT
+  small/JJ
+  bronze/NN
+  bust/NN
+  of/IN
+  (PERSON Spencer/NNP Tracy/NNP)
+  sold/VBD
+  for/IN
+  £174,000/NN
+  ./.)
+(S
+  The/DT
+  highest-selling/JJ
+  item/NN
+  was/VBD
+  a/DT
+  bronze/NN
+  bust/NN
+  made/VBN
+  by/IN
+  (PERSON Hepburn/NNP)
+  in/IN
+  the/DT
+  1960s/CD
+  of/IN
+  her/PRP$
+  actor/NN
+  lover/NN
+  (PERSON Spencer/NNP Tracy/NNP)
+  ./.)
+(S
+  The/DT
+  most/RBS
+  sought/JJ
+  after/IN
+  piece/NN
+  and/CC
+  the/DT
+  most/RBS
+  expensive/JJ
+  item/NN
+  was/VBD
+  a/DT
+  bronze/JJ
+  bust/NN
+  of/IN
+  (PERSON Spencer/NNP Tracy/NNP)
+  that/IN
+  (PERSON Hepburn/NNP)
+  created/VBD
+  in/IN
+  the/DT
+  1960s/NNS
+  ./.)
+(S
+  (GPE Hepburn/NNP)
+  's/POS
+  diamond/NN
+  and/CC
+  sapphire/NN
+  brooch/NN
+  fetched/VBD
+  $/$
+  120,000/CD
+  ./.)
+(S
+  (GPE Hepburn/NNP)
+  's/POS
+  platinum/NN
+  ,/,
+  diamond/NN
+  and/CC
+  sapphire/NN
+  brooch/NN
+  had/VBD
+  been/VBN
+  estimated/VBN
+  to/TO
+  fetch/VB
+  just/RB
+  $/$
+  20,000/CD
+  ,/,
+  but/CC
+  sold/VBD
+  for/IN
+  $/$
+  120,000/CD
+  ,/,
+  six/CD
+  times/NNS
+  its/PRP$
+  estimated/JJ
+  price/NN
+  ./.)
+(S
+  (PERSON Nichols/NNP)
+  was/VBD
+  sentenced/VBN
+  to/TO
+  life/NN
+  in/IN
+  prison/NN
+  for/IN
+  the/DT
+  April/NNP
+  19/CD
+  ,/,
+  1995/CD
+  ,/,
+  bombing/VBG
+  of/IN
+  the/DT
+  (ORGANIZATION Oklahoma/NNP City/NNP)
+  federal/JJ
+  building/NN
+  ./.)
+(S
+  (GPE Nichols/NNP)
+  ,/,
+  49/CD
+  ,/,
+  was/VBD
+  convicted/VBN
+  in/IN
+  the/DT
+  April/NNP
+  19/CD
+  ,/,
+  1995/CD
+  ,/,
+  bombing/VBG
+  of/IN
+  the/DT
+  (ORGANIZATION Alfred/NNP)
+  P./NNP
+  (PERSON Murrah/NNP Federal/NNP Building/NNP)
+  in/IN
+  (GPE Oklahoma/NNP City/NNP)
+  ./.)
+(S
+  The/DT
+  state/NN
+  charges/NNS
+  against/IN
+  (PERSON Nichols/NNP)
+  are/VBP
+  for/IN
+  160/CD
+  victims/NNS
+  and/CC
+  one/CD
+  victim/NN
+  's/POS
+  fetus/NN
+  ./.)
+(S
+  (PERSON Nichols/NNP)
+  was/VBD
+  found/VBN
+  guilty/JJ
+  May/NNP
+  26/CD
+  of/IN
+  161/CD
+  counts/NNS
+  of/IN
+  first-degree/JJ
+  murder/NN
+  for/IN
+  160/CD
+  victims/NNS
+  and/CC
+  an/DT
+  unborn/JJ
+  child/NN
+  in/IN
+  a/DT
+  state/NN
+  trial/NN
+  ./.)
+(S
+  A/DT
+  (GPE U.S./NNP)
+  citizen/NN
+  working/VBG
+  in/IN
+  (GPE Riyadh/NNP)
+  has/VBZ
+  been/VBN
+  kidnapped/VBN
+  after/IN
+  a/DT
+  colleague/NN
+  in/IN
+  the/DT
+  same/JJ
+  company/NN
+  was/VBD
+  shot/VBN
+  dead/JJ
+  yesterday/NN
+  ./.)
+(S
+  A/DT
+  statement/NN
+  said/VBD
+  to/TO
+  be/VB
+  from/IN
+  al/JJ
+  (GPE Qaida/NNP)
+  ,/,
+  claimed/VBD
+  the/DT
+  terror/NN
+  group/NN
+  had/VBD
+  killed/VBN
+  one/CD
+  (GPE American/NNP)
+  and/CC
+  kidnapped/VBD
+  another/DT
+  in/IN
+  (GPE Riyadh/NNP)
+  ./.)
+(S (GPE Apathy/NNP) clouds/VBZ (GPE EU/NNP) voting/NN ./.)
+(S
+  Voting/VBG
+  for/IN
+  a/DT
+  new/JJ
+  (ORGANIZATION European/JJ Parliament/NNP)
+  has/VBZ
+  been/VBN
+  clouded/VBN
+  by/IN
+  apathy/NN
+  ./.)
+(S
+  Nearly/RB
+  350/CD
+  million/CD
+  people/NNS
+  were/VBD
+  eligible/JJ
+  to/TO
+  vote/VB
+  since/IN
+  the/DT
+  (GPE EU/NNP)
+  took/VBD
+  in/IN
+  10/CD
+  new/JJ
+  members/NNS
+  on/IN
+  May/NNP
+  1/CD
+  ./.)
+(S
+  Nineteen/NN
+  of/IN
+  the/DT
+  (ORGANIZATION European/NNP Union/NNP)
+  's/POS
+  25/CD
+  member/NN
+  states/NNS
+  were/VBD
+  voting/VBG
+  in/IN
+  the/DT
+  biggest/JJS
+  transnational/JJ
+  elections/NNS
+  ever/RB
+  held/VBD
+  ,/,
+  and/CC
+  the/DT
+  first/JJ
+  for/IN
+  the/DT
+  (GPE EU/NNP)
+  since/IN
+  the/DT
+  bloc/NN
+  's/POS
+  expansion/NN
+  into/IN
+  the/DT
+  former/JJ
+  communist/JJ
+  eastern/JJ
+  (GPE Europe/NNP)
+  on/IN
+  May/NNP
+  1/CD
+  ./.)
+(S
+  Voting/VBG
+  for/IN
+  a/DT
+  new/JJ
+  (ORGANIZATION European/JJ Parliament/NNP)
+  has/VBZ
+  been/VBN
+  clouded/VBN
+  by/IN
+  apathy/NN
+  ./.)
+(S
+  Voting/VBG
+  for/IN
+  a/DT
+  new/JJ
+  (ORGANIZATION European/JJ Parliament/NNP)
+  was/VBD
+  clouded/VBN
+  by/IN
+  concerns/NNS
+  over/IN
+  apathy/NN
+  ./.)
+(S
+  On/IN
+  Friday/NNP
+  ,/,
+  (PERSON Sharon/NNP)
+  fired/VBD
+  (PERSON Benny/NNP Elon/NNP)
+  and/CC
+  (PERSON Avigdor/NNP Lieberman/NNP)
+  ./.)
+(S
+  (PERSON Sharon/NNP)
+  sent/VBD
+  dismissal/NN
+  letters/NNS
+  to/TO
+  (PERSON Benny/NNP Elon/NNP)
+  and/CC
+  (PERSON Avigdor/NNP Lieberman/NNP)
+  ,/,
+  who/WP
+  oppose/VBP
+  his/PRP$
+  withdrawal/NN
+  plan/NN
+  ,/,
+  on/IN
+  Friday/NNP
+  ./.)
+(S
+  The/DT
+  (GPE U.S./NNP)
+  (ORGANIZATION Army/NNP)
+  agreed/VBD
+  to/TO
+  a/DT
+  request/NN
+  from/IN
+  the/DT
+  local/JJ
+  governor/NN
+  to/TO
+  keep/VB
+  (GPE US/NNP)
+  troops/VB
+  away/RB
+  from/IN
+  the/DT
+  (ORGANIZATION Imam/NNP Ali/NNP Shrine/NNP)
+  in/IN
+  (GPE Najaf/NNP)
+  ./.)
+(S
+  The/DT
+  (GPE U.S./NNP Army/NNP)
+  acceded/VBD
+  to/TO
+  a/DT
+  request/NN
+  from/IN
+  the/DT
+  local/JJ
+  governor/NN
+  to/TO
+  keep/VB
+  (GPE U.S./NNP)
+  troops/VBZ
+  away/RB
+  from/IN
+  the/DT
+  (ORGANIZATION Imam/NNP Ali/NNP Shrine/NNP)
+  in/IN
+  (GPE Najaf/NNP)
+  ./.)
+(S
+  Assailants/NNS
+  also/RB
+  ambushed/VBD
+  two/CD
+  civilian/JJ
+  sport/NN
+  utility/NN
+  vehicles/NNS
+  on/IN
+  the/DT
+  road/NN
+  to/TO
+  (GPE Baghdad/NNP)
+  's/POS
+  international/JJ
+  airport/NN
+  ./.)
+(S
+  Assailants/NNS
+  also/RB
+  ambushed/VBD
+  two/CD
+  civilian/JJ
+  sport/NN
+  utility/NN
+  vehicles/NNS
+  ,/,
+  favoured/VBN
+  by/IN
+  (LOCATION Western/JJ)
+  civilian/JJ
+  contractors/NNS
+  ,/,
+  on/IN
+  the/DT
+  road/NN
+  to/TO
+  (GPE Baghdad/NNP)
+  's/POS
+  international/JJ
+  airport/NN)
+(S
+  Five/CD
+  (ORGANIZATION US/JJ)
+  soldiers/NNS
+  were/VBD
+  killed/VBN
+  and/CC
+  five/CD
+  wounded/VBN
+  on/IN
+  Friday/NNP
+  in/IN
+  an/DT
+  ambush/NN
+  near/IN
+  the/DT
+  Shi'ite/NNP
+  neighbourhood/NN
+  (PERSON Sadr/NNP City/NNP)
+  ./.)
+(S
+  Five/CD
+  (GPE U.S./NNP)
+  soldiers/NNS
+  were/VBD
+  killed/VBN
+  and/CC
+  five/CD
+  wounded/VBN
+  Friday/NNP
+  in/IN
+  an/DT
+  ambush/NN
+  near/IN
+  the/DT
+  (ORGANIZATION Shiite/NNP)
+  neighborhood/NN
+  (PERSON Sadr/NNP City/NNP)
+  ./.)
+(S
+  Out/IN
+  of/IN
+  an/DT
+  old/JJ
+  bulldozer/NN
+  ,/,
+  (PERSON Heemeyer/NNP)
+  built/VBD
+  a/DT
+  concrete/NN
+  box/NN
+  that/IN
+  no/DT
+  police/NN
+  bullet/NN
+  could/MD
+  penetrate/VB
+  ./.)
+(S
+  (PERSON Heemeyer/NNP)
+  cut/VBD
+  portholes/NNS
+  for/IN
+  his/PRP$
+  guns/NNS
+  ,/,
+  then/RB
+  welded/VBD
+  a/DT
+  tight/JJ
+  enclosure/NN
+  around/IN
+  them/PRP
+  so/RB
+  police/JJ
+  bullets/NNS
+  could/MD
+  not/RB
+  penetrate/VB
+  ./.)
+(S
+  Police/NNP
+  found/VBD
+  four/CD
+  weapons/NNS
+  -/:
+  a/DT
+  .50-calibre/JJ
+  rifle/NN
+  ,/,
+  two/CD
+  military/JJ
+  style/NN
+  assault/NN
+  rifles/NNS
+  and/CC
+  a/DT
+  handgun/NN
+  in/IN
+  the/DT
+  vehicle/NN
+  ./.)
+(S
+  Police/NNP
+  found/VBD
+  four/CD
+  weapons-two/JJ
+  semiautomatic/JJ
+  machine/NN
+  guns/NNS
+  ,/,
+  a/DT
+  .223-caliber/JJ
+  rifle/NN
+  and/CC
+  two/CD
+  handguns/NNS
+  in/IN
+  the/DT
+  vehicle/NN
+  ./.)
+(S
+  (PERSON Heemeyer/NNP)
+  had/VBD
+  installed/VBN
+  television/NN
+  cameras/NNS
+  connected/VBN
+  to/TO
+  three/CD
+  monitors/NNS
+  so/IN
+  he/PRP
+  could/MD
+  see/VB
+  where/WRB
+  he/PRP
+  was/VBD
+  going/VBG
+  ./.)
+(S
+  (PERSON Heemeyer/NNP)
+  equipped/VBD
+  an/DT
+  old/JJ
+  bulldozer/NN
+  with/IN
+  three/CD
+  television/NN
+  cameras/NNS
+  and/CC
+  monitors/NNS
+  so/IN
+  he/PRP
+  could/MD
+  see/VB
+  to/TO
+  steer/VB
+  ./.)
+(S
+  (PERSON Stanford/NNP)
+  Cardinal/NNP
+  were/VBD
+  defeated/VBN
+  by/IN
+  (ORGANIZATION Long/NNP Beach/NNP State/NNP)
+  ,/,
+  7-4/NNP
+  ./.)
+(S
+  The/DT
+  7-4/JJ
+  defeat/NN
+  by/IN
+  (ORGANIZATION Long/NNP Beach/NNP State/NNP)
+  ,/,
+  pushed/VBD
+  the/DT
+  (ORGANIZATION Cardinal/NNP)
+  to/TO
+  the/DT
+  brink/NN
+  in/IN
+  the/DT
+  double-elimination/JJ
+  format/NN
+  of/IN
+  (ORGANIZATION NCAA/NNP)
+  regionals/NNS
+  ./.)
+(S
+  The/DT
+  two/CD
+  presidents/NNS
+  ,/,
+  (PERSON Bush/NNP)
+  and/CC
+  (GPE Chirac/NNP)
+  ,/,
+  were/VBD
+  honoured/VBN
+  with/IN
+  a/DT
+  21-gun/JJ
+  salute/NN
+  ./.)
+(S
+  The/DT
+  two/CD
+  presidents/NNS
+  ,/,
+  (PERSON Bush/NNP)
+  and/CC
+  (GPE Chirac/NNP)
+  ,/,
+  were/VBD
+  honored/VBN
+  with/IN
+  a/DT
+  21-gun/JJ
+  salute/NN
+  ./.)
+(S
+  (PERSON Reagan/NNP)
+  died/VBD
+  of/IN
+  pneumonia/NN
+  complicated/VBN
+  by/IN
+  (PERSON Alzheimer/NNP)
+  's/POS
+  disease/NN)
+(S
+  (PERSON Reagan/NNP)
+  announced/VBD
+  he/PRP
+  had/VBD
+  (PERSON Alzheimer/NNP)
+  's/POS
+  disease/NN
+  ,/,
+  an/DT
+  incurable/JJ
+  brain/NN
+  affliction/NN
+  ./.)
+(S
+  (PERSON Reagan/NNP)
+  survived/VBD
+  an/DT
+  attempted/JJ
+  assassin/NN
+  's/POS
+  bullets/NNS
+  ./.)
+(S
+  (PERSON Reagan/NNP)
+  was/VBD
+  seriously/RB
+  wounded/VBN
+  by/IN
+  a/DT
+  bullet/NN
+  fired/VBN
+  by/IN
+  (PERSON John/NNP Hinckley/NNP)
+  Jr./NNP
+  in/IN
+  an/DT
+  attempted/JJ
+  assassination/NN
+  ,/,
+  but/CC
+  made/VBD
+  a/DT
+  remarkably/RB
+  speedy/JJ
+  recovery/NN
+  ./.)
+(S
+  (PERSON John/NNP)
+  W./NNP
+  Hinckley/NNP
+  Jr./NNP
+  shot/NN
+  Reagan/NNP
+  in/IN
+  the/DT
+  chest/NN
+  ./.)
+(S
+  (PERSON Reagan/NNP)
+  was/VBD
+  seriously/RB
+  wounded/VBN
+  by/IN
+  a/DT
+  bullet/NN
+  fired/VBN
+  by/IN
+  (PERSON John/NNP Hinckley/NNP Jr/NNP)
+  ./.)
+(S
+  (GPE Desko/NNP)
+  's/POS
+  (ORGANIZATION Orange/NNP)
+  beat/NN
+  Navy/NNP
+  14-13/CD
+  on/IN
+  Monday/NNP
+  for/IN
+  the/DT
+  Division/NNP
+  I/PRP
+  title/VBP
+  in/IN
+  men/NNS
+  's/POS
+  lacrosse/NN
+  ./.)
+(S
+  (GPE Desko/NNP)
+  's/POS
+  (ORGANIZATION Orange/NNP)
+  beat/NN
+  Navy/NNP
+  1413/CD
+  on/IN
+  Monday/NNP
+  for/IN
+  the/DT
+  Division/NNP
+  I/PRP
+  title/VBP
+  in/IN
+  men/NNS
+  's/POS
+  lacrosse/NN
+  ./.)
+(S
+  (PERSON Monica/NNP Meadows/NNP)
+  ,/,
+  23/CD
+  ,/,
+  was/VBD
+  shot/VBN
+  in/IN
+  shoulder/NN
+  while/IN
+  riding/VBG
+  a/DT
+  subway/NN
+  car/NN
+  in/IN
+  (GPE New/NNP York/NNP City/NNP))
+(S
+  (PERSON Monica/NNP Meadows/NNP)
+  ,/,
+  a/DT
+  22-year-old/JJ
+  model/NN
+  from/IN
+  (GPE Atlanta/NNP)
+  ,/,
+  was/VBD
+  shot/VBN
+  in/IN
+  the/DT
+  shoulder/NN
+  on/IN
+  a/DT
+  subway/NN
+  car/NN
+  in/IN
+  (GPE New/NNP York/NNP City/NNP)
+  ./.)
+(S
+  (GPE Oil/NN)
+  prices/NNS
+  this/DT
+  Tuesday/NNP
+  surged/VBD
+  to/TO
+  an/DT
+  all-time/JJ
+  high/NN
+  in/IN
+  (GPE New/NNP York/NNP)
+  ,/,
+  at/IN
+  42/CD
+  dollars/NNS
+  a/DT
+  barrel/NN
+  ,/,
+  1.92/CD
+  dollars/NNS
+  a/DT
+  barrel/NN
+  more/JJR
+  than/IN
+  last/JJ
+  Friday/NNP
+  ./.)
+(S
+  (GPE Oil/NN)
+  prices/NNS
+  this/DT
+  Tuesday/NNP
+  rose/VBD
+  sharply/RB
+  in/IN
+  (GPE New/NNP York/NNP)
+  and/CC
+  (GPE London/NNP)
+  reaching/VBG
+  a/DT
+  record/NN
+  42,33/CD
+  (GPE US/NNP)
+  dollars/NNS
+  per/IN
+  barrel/NN
+  ,/,
+  2.45/CD
+  US/PRP
+  dollars/NNS
+  more/JJR
+  than/IN
+  last/JJ
+  Friday/NNP
+  ./.)
+(S
+  (GPE Crude/NNP)
+  oil/NN
+  futures/NNS
+  surged/VBD
+  to/TO
+  an/DT
+  all-time/JJ
+  high/NN
+  in/IN
+  (GPE New/NNP York/NNP)
+  Tuesday/NNP
+  ,/,
+  at/IN
+  42/CD
+  dollars/NNS
+  a/DT
+  barrel/NN
+  ./.)
+(S
+  In/IN
+  (GPE New/NNP York/NNP)
+  ,/,
+  (PERSON Nymex/NNP)
+  light/VBD
+  crude/JJ
+  oil/NN
+  for/IN
+  July/NNP
+  delivery/NN
+  hit/VBD
+  $/$
+  42.38/CD
+  per/IN
+  barrel/NN
+  on/IN
+  Tuesday/NNP)
+(S
+  (GPE Gamelan/NNP)
+  music/NN
+  ,/,
+  in/IN
+  which/WDT
+  percussion/NN
+  instruments/NNS
+  are/VBP
+  key/JJ
+  ,/,
+  and/CC
+  shadow-puppet/NN
+  shows/NNS
+  are/VBP
+  popular/JJ
+  in/IN
+  (GPE Jakarta/NNP)
+  ./.)
+(S
+  Traditional/JJ
+  performances/NNS
+  in/IN
+  (GPE Jakarta/NNP)
+  include/VBP
+  wayang/JJ
+  dance/NN
+  and/CC
+  drama/NN
+  ,/,
+  gamelan/JJ
+  music/NN
+  ,/,
+  and/CC
+  wayang/VBD
+  shadow-puppet/NN
+  shows/NNS
+  ./.)
+(S The/DT city/NN hall/NN is/VBZ a/DT museum/NN now/RB ./.)
+(S
+  Some/DT
+  of/IN
+  the/DT
+  buildings/NNS
+  around/IN
+  the/DT
+  city/NN
+  square/NN
+  in/IN
+  the/DT
+  (ORGANIZATION Kota/NNP)
+  also/RB
+  date/NN
+  from/IN
+  colonial/JJ
+  times/NNS
+  ,/,
+  including/VBG
+  the/DT
+  old/JJ
+  city/NN
+  hall/NN
+  (/(
+  1710/CD
+  )/)
+  ,/,
+  which/WDT
+  has/VBZ
+  been/VBN
+  restored/VBN
+  and/CC
+  now/RB
+  serves/VBZ
+  as/IN
+  the/DT
+  municipal/JJ
+  museum/NN
+  ./.)
+(S
+  In/IN
+  the/DT
+  (ORGANIZATION Old/NNP)
+  City/NNP
+  are/VBP
+  the/DT
+  old/JJ
+  port/NN
+  ,/,
+  the/DT
+  (GPE Dutch/JJ)
+  town/NN
+  hall/NN
+  ,/,
+  and/CC
+  a/DT
+  square/NN
+  ./.)
+(S
+  Some/DT
+  of/IN
+  the/DT
+  buildings/NNS
+  around/IN
+  the/DT
+  city/NN
+  square/NN
+  in/IN
+  the/DT
+  (ORGANIZATION Kota/NNP)
+  also/RB
+  date/NN
+  from/IN
+  colonial/JJ
+  times/NNS
+  ,/,
+  including/VBG
+  the/DT
+  old/JJ
+  city/NN
+  hall/NN
+  (/(
+  1710/CD
+  )/)
+  ,/,
+  which/WDT
+  has/VBZ
+  been/VBN
+  restored/VBN
+  and/CC
+  now/RB
+  serves/VBZ
+  as/IN
+  the/DT
+  municipal/JJ
+  museum/NN
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Kota/NNP)
+  is/VBZ
+  the/DT
+  country/NN
+  's/POS
+  business/NN
+  center/NN
+  ./.)
+(S
+  The/DT
+  (GPE Kota/NNP)
+  (/(
+  ``/``
+  Fort/NNP
+  ''/''
+  )/)
+  ,/,
+  or/CC
+  (ORGANIZATION Old/NNP City/NNP)
+  ,/,
+  for/IN
+  example/NN
+  ,/,
+  sometimes/RB
+  called/VBD
+  the/DT
+  downtown/NN
+  section/NN
+  ,/,
+  is/VBZ
+  the/DT
+  central/JJ
+  business/NN
+  district/NN
+  and/CC
+  (GPE Indonesia/NNP)
+  's/POS
+  financial/JJ
+  capital/NN
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Istiqlal/NNP Mosque/NNP)
+  is/VBZ
+  one/CD
+  of/IN
+  the/DT
+  largest/JJS
+  mosques/NNS
+  in/IN
+  (LOCATION Southeast/NNP Asia/NNP)
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Istiqlal/NNP Mosque/NNP)
+  ,/,
+  in/IN
+  the/DT
+  northeast/NN
+  corner/NN
+  of/IN
+  (PERSON Medan/NNP Merdeka/NNP)
+  opposite/MD
+  (PERSON Lapangan/NNP Banteng/NNP)
+  ,/,
+  is/VBZ
+  one/CD
+  of/IN
+  the/DT
+  largest/JJS
+  mosques/NNS
+  in/IN
+  (LOCATION Southeast/NNP Asia/NNP)
+  ./.)
+(S
+  The/DT
+  parts/NNS
+  of/IN
+  (GPE Jakarta/NNP)
+  away/RB
+  from/IN
+  the/DT
+  coast/NN
+  are/VBP
+  on/IN
+  slightly/RB
+  higher/JJR
+  land/NN
+  ./.)
+(S
+  (GPE Jakarta/NNP)
+  lies/VBZ
+  on/IN
+  a/DT
+  low/JJ
+  ,/,
+  flat/JJ
+  alluvial/JJ
+  plain/NN
+  with/IN
+  historically/RB
+  extensive/JJ
+  swampy/JJ
+  areas/NNS
+  ;/:
+  the/DT
+  parts/NNS
+  of/IN
+  the/DT
+  city/NN
+  farther/RB
+  inland/NN
+  are/VBP
+  slightly/RB
+  higher/JJR
+  ./.)
+(S
+  (GPE Jakarta/NNP)
+  is/VBZ
+  easily/RB
+  flooded/VBN
+  during/IN
+  the/DT
+  rainy/NN
+  season/NN
+  ./.)
+(S
+  (GPE Jakarta/NNP)
+  floods/NNS
+  easily/RB
+  during/IN
+  the/DT
+  rainy/NN
+  season/NN
+  ./.)
+(S
+  Formerly/RB
+  (/(
+  until/IN
+  1949/CD
+  )/)
+  (GPE Batavia/NNP)
+  ,/,
+  (GPE Jakarta/NNP)
+  is/VBZ
+  largest/JJS
+  city/NN
+  and/CC
+  capital/NN
+  of/IN
+  (GPE Indonesia/NNP)
+  ./.)
+(S
+  The/DT
+  (GPE Dutch/NNPS)
+  ,/,
+  who/WP
+  ruled/VBD
+  (GPE Indonesia/NNP)
+  until/IN
+  1949/CD
+  ,/,
+  called/VBD
+  the/DT
+  city/NN
+  of/IN
+  (GPE Jakarta/NNP Batavia/NNP)
+  ./.)
+(S
+  (PERSON Warsaw/NNP)
+  remained/VBD
+  (GPE Poland/NNP)
+  's/POS
+  capital/NN
+  after/IN
+  the/DT
+  war/NN
+  ./.)
+(S
+  On/IN
+  Feb./NNP
+  1/CD
+  ,/,
+  1945/CD
+  ,/,
+  the/DT
+  (GPE Polish/JJ)
+  government/NN
+  made/VBD
+  (PERSON Warsaw/NNP)
+  its/PRP$
+  capital/NN
+  ,/,
+  and/CC
+  an/DT
+  office/NN
+  for/IN
+  urban/JJ
+  reconstruction/NN
+  was/VBD
+  set/VBN
+  up/RP
+  ./.)
+(S
+  (GPE Disease/NNP)
+  ,/,
+  starvation/NN
+  ,/,
+  and/CC
+  overcrowding/VBG
+  caused/JJ
+  thousands/NNS
+  to/TO
+  perish/VB
+  before/IN
+  deportations/NNS
+  to/TO
+  the/DT
+  (ORGANIZATION Nazi/NNP)
+  death/NN
+  camps/NNS
+  ,/,
+  especially/RB
+  to/TO
+  (GPE Treblinka/NNP)
+  ,/,
+  began/VBD
+  in/IN
+  late/JJ
+  1941/CD
+  ./.)
+(S
+  Jews/NNS
+  were/VBD
+  confined/VBN
+  to/TO
+  the/DT
+  (GPE Jewish/JJ)
+  part/NN
+  of/IN
+  town/NN
+  called/VBN
+  a/DT
+  ghetto/NN
+  ,/,
+  and/CC
+  many/JJ
+  people/NNS
+  there/RB
+  starved/VBN
+  to/TO
+  death/NN
+  ./.)
+(S
+  In/IN
+  1611/CD
+  the/DT
+  king/NN
+  and/CC
+  his/PRP$
+  court/NN
+  finally/RB
+  moved/VBD
+  from/IN
+  (GPE Krakow/NNP)
+  (/(
+  (GPE Cracow/NNP)
+  )/)
+  to/TO
+  (GPE Warsaw/NNP)
+  ,/,
+  making/VBG
+  it/PRP
+  the/DT
+  capital/NN
+  of/IN
+  the/DT
+  (GPE Polish/JJ)
+  state/NN
+  ./.)
+(S
+  In/IN
+  1596/CD
+  the/DT
+  (GPE Polish/JJ)
+  king/NN
+  decided/VBD
+  to/TO
+  move/VB
+  the/DT
+  capital/NN
+  from/IN
+  (GPE Krakow/NNP)
+  to/TO
+  (GPE Warsaw/NNP)
+  ,/,
+  making/VBG
+  Warsaw/NNP
+  the/DT
+  most/RBS
+  important/JJ
+  city/NN
+  in/IN
+  (GPE Poland/NNP)
+  ./.)
+(S
+  In/IN
+  the/DT
+  (ORGANIZATION Old/NNP Town/NNP)
+  ,/,
+  the/DT
+  (ORGANIZATION Gothic/NNP St/NNP)
+  ./.
+  (PERSON John/NNP)
+  's/POS
+  (ORGANIZATION Cathedral/NNP)
+  and/CC
+  the/DT
+  red-brick/JJ
+  fortifications/NNS
+  known/VBN
+  as/IN
+  the/DT
+  (GPE Barbican/NNP)
+  remain/NN
+  from/IN
+  the/DT
+  medieval/JJ
+  period/NN
+  ./.)
+(S
+  (PERSON Saint/NNP)
+  (PERSON John/NNP)
+  's/POS
+  (ORGANIZATION Cathedral/NNP)
+  is/VBZ
+  the/DT
+  oldest/JJS
+  church/NN
+  in/IN
+  (GPE Warsaw/NNP)
+  ./.)
+(S
+  (PERSON Sigismund/NNP)
+  made/VBD
+  Warsaw/NNP
+  the/DT
+  capital/NN
+  of/IN
+  (GPE Poland/NNP)
+  in/IN
+  1611/CD
+  ./.)
+(S
+  There/EX
+  are/VBP
+  many/JJ
+  Baroque/NNP
+  churches/NNS
+  of/IN
+  the/DT
+  Counter-Reformation/NNP
+  period/NN
+  ,/,
+  including/VBG
+  the/DT
+  (ORGANIZATION Jesuit/NNP)
+  Church/NNP
+  next/JJ
+  to/TO
+  the/DT
+  cathedral/NN
+  and/CC
+  the/DT
+  (ORGANIZATION Church/NNP)
+  of/IN
+  the/DT
+  (ORGANIZATION Holy/NNP Cross/NNP)
+  ,/,
+  which/WDT
+  contains/VBZ
+  (PERSON Chopin/NNP)
+  's/POS
+  heart/NN
+  ./.)
+(S
+  One/CD
+  of/IN
+  the/DT
+  first/JJ
+  organized/VBN
+  settlements/NNS
+  on/IN
+  the/DT
+  site/NN
+  ,/,
+  though/RB
+  ,/,
+  was/VBD
+  the/DT
+  (GPE Roman/NNP)
+  fortress/NN
+  of/IN
+  (GPE Aquincum/NNP)
+  ./.)
+(S
+  This/DT
+  became/VBD
+  (PERSON Aquincum/NNP)
+  when/WRB
+  the/DT
+  (ORGANIZATION Romans/NNPS)
+  established/VBD
+  a/DT
+  military/JJ
+  camp/NN
+  and/CC
+  civilian/JJ
+  town/NN
+  there/RB
+  at/IN
+  the/DT
+  end/NN
+  of/IN
+  the/DT
+  1st/JJ
+  century/NN
+  AD/NNP
+  ./.)
+(S
+  There/EX
+  are/VBP
+  numerous/JJ
+  underground/JJ
+  hot/JJ
+  springs/NNS
+  that/WDT
+  contain/VBP
+  radium/NN
+  and/CC
+  other/JJ
+  minerals/NNS
+  ,/,
+  and/CC
+  ,/,
+  since/IN
+  (GPE Roman/NNP)
+  times/NNS
+  ,/,
+  bathers/NNS
+  have/VBP
+  sought/VBN
+  them/PRP
+  out/RP
+  for/IN
+  their/PRP$
+  supposed/VBN
+  healing/NN
+  properties/NNS
+  ./.)
+(S
+  (GPE Budapest/NNP)
+  is/VBZ
+  (GPE Europe/NNP)
+  's/POS
+  largest/JJS
+  spa/NN
+  town/NN
+  ;/:
+  there/EX
+  are/VBP
+  more/JJR
+  than/IN
+  100/CD
+  hot/JJ
+  springs/NNS
+  that/WDT
+  spout/VBP
+  from/IN
+  (GPE Buda/NNP)
+  's/POS
+  limestone/NN
+  bedrock/NN
+  ./.)
+(S
+  To/TO
+  the/DT
+  south/NN
+  is/VBZ
+  (PERSON Gellert/NNP Hill/NNP)
+  ,/,
+  which/WDT
+  features/VBZ
+  the/DT
+  19th-century/JJ
+  Citadel/NNP
+  ./.)
+(S
+  To/TO
+  the/DT
+  south/NN
+  of/IN
+  (PERSON Castle/NNP Hill/NNP)
+  rises/VBZ
+  the/DT
+  higher/JJR
+  (PERSON Gellert/NNP Hill/NNP)
+  (/(
+  771/CD
+  feet/NNS
+  )/)
+  ,/,
+  a/DT
+  steep/JJ
+  limestone/NN
+  escarpment/NN
+  overlooking/VBG
+  the/DT
+  (GPE Danube/NNP)
+  ,/,
+  which/WDT
+  provides/VBZ
+  a/DT
+  panoramic/JJ
+  view/NN
+  of/IN
+  the/DT
+  whole/JJ
+  city/NN
+  ./.)
+(S
+  (GPE Pest/NNP)
+  is/VBZ
+  on/IN
+  the/DT
+  opposite/NN
+  ,/,
+  east/JJ
+  bank/NN
+  ./.)
+(S
+  (GPE Budapest/JJS)
+  consists/NNS
+  of/IN
+  two/CD
+  parts/NNS
+  ,/,
+  (PERSON Buda/NNP)
+  and/CC
+  (GPE Pest/NNP)
+  ,/,
+  which/WDT
+  are/VBP
+  situated/VBN
+  on/IN
+  opposite/JJ
+  sides/NNS
+  of/IN
+  the/DT
+  river/NN
+  and/CC
+  connected/VBN
+  by/IN
+  a/DT
+  series/NN
+  of/IN
+  bridges/NNS
+  ./.)
+(S
+  (GPE Buda/NNP)
+  is/VBZ
+  located/VBN
+  on/IN
+  the/DT
+  west/JJS
+  bank/NN
+  of/IN
+  the/DT
+  (GPE Danube/NNP)
+  ./.)
+(S
+  (GPE Budapest/JJS)
+  consists/NNS
+  of/IN
+  two/CD
+  parts/NNS
+  ,/,
+  (PERSON Buda/NNP)
+  and/CC
+  (GPE Pest/NNP)
+  ,/,
+  which/WDT
+  are/VBP
+  situated/VBN
+  on/IN
+  opposite/JJ
+  sides/NNS
+  of/IN
+  the/DT
+  river/NN
+  and/CC
+  connected/VBN
+  by/IN
+  a/DT
+  series/NN
+  of/IN
+  bridges/NNS
+  ./.)
+(S
+  (GPE Budapest/JJS)
+  consists/NNS
+  of/IN
+  two/CD
+  principal/JJ
+  parts/NNS
+  that/WDT
+  were/VBD
+  merged/VBN
+  in/IN
+  1873/CD
+  ./.)
+(S
+  (GPE Budapest/JJS)
+  consists/NNS
+  of/IN
+  two/CD
+  parts/NNS
+  ,/,
+  (PERSON Buda/NNP)
+  and/CC
+  (GPE Pest/NNP)
+  ,/,
+  which/WDT
+  are/VBP
+  situated/VBN
+  on/IN
+  opposite/JJ
+  sides/NNS
+  of/IN
+  the/DT
+  river/NN
+  and/CC
+  connected/VBN
+  by/IN
+  a/DT
+  series/NN
+  of/IN
+  bridges/NNS
+  ./.)
+(S
+  (GPE Aristide/NNP)
+  became/VBD
+  president/NN
+  of/IN
+  (GPE Haiti/NNP)
+  in/IN
+  1990/CD
+  ./.)
+(S
+  There/EX
+  can/MD
+  be/VB
+  no/DT
+  doubt/NN
+  that/IN
+  the/DT
+  (ORGANIZATION Administration/NNP)
+  already/RB
+  is/VBZ
+  weary/JJ
+  of/IN
+  (GPE Aristide/NNP)
+  ,/,
+  a/DT
+  populist/JJ
+  (PERSON Roman/NNP Catholic/NNP)
+  priest/JJS
+  who/WP
+  in/IN
+  December/NNP
+  ,/,
+  1990/CD
+  ,/,
+  won/VBD
+  an/DT
+  overwhelming/JJ
+  victory/NN
+  in/IN
+  (GPE Haiti/NNP)
+  's/POS
+  only/RB
+  democratic/JJ
+  presidential/JJ
+  election/NN)
+(S (GPE Aristide/NNP) is/VBZ the/DT mayor/NN of/IN Port-au-Prince/NN)
+(S
+  Evans/NNS
+  (PERSON Paul/NNP)
+  ,/,
+  the/DT
+  pro-Aristide/JJ
+  mayor/NN
+  of/IN
+  (GPE Port-au-Prince/NNP)
+  ,/,
+  said/VBD
+  he/PRP
+  had/VBD
+  been/VBN
+  told/VBN
+  that/IN
+  the/DT
+  money/NN
+  will/MD
+  go/VB
+  to/TO
+  (GPE American/NNP)
+  lobbyists/NNS
+  ,/,
+  politicians/NNS
+  and/CC
+  journalists/NNS
+  to/TO
+  campaign/NN
+  against/IN
+  the/DT
+  return/NN
+  of/IN
+  (GPE Aristide/NNP)
+  ,/,
+  (PERSON Haiti/NNP)
+  's/POS
+  first/JJ
+  democratically/RB
+  elected/VBN
+  president/NN)
+(S Aristide/RB seized/JJ power/NN in/IN 1991/CD ./.)
+(S
+  (GPE Cedras/NNP)
+  ,/,
+  (GPE Biamby/NNP)
+  ,/,
+  and/CC
+  (PERSON Francois/NNP)
+  also/RB
+  led/VBD
+  the/DT
+  1991/CD
+  coup/NN
+  that/WDT
+  drove/VBD
+  (PERSON Aristide/NNP)
+  ,/,
+  (PERSON Haiti/NNP)
+  's/POS
+  first/JJ
+  democratically/RB
+  elected/VBN
+  president/NN
+  ,/,
+  from/IN
+  office/NN)
+(S (GPE Port-au-Prince/NN) is/VBZ in/IN (GPE Haiti/NNP) ./.)
+(S
+  (GPE U.S./NNP)
+  officials/NNS
+  said/VBD
+  they/PRP
+  hope/VBP
+  to/TO
+  install/VB
+  (ORGANIZATION Aristide/NNP)
+  presidential/JJ
+  palace/NN
+  in/IN
+  Port-au-Prince/NNP
+  about/IN
+  10/CD
+  days/NNS
+  after/IN
+  (GPE U.S./NNP)
+  troops/NNS
+  land/NN
+  in/IN
+  (GPE Haiti/NNP)
+  ,/,
+  a/DT
+  schedule/NN
+  that/IN
+  an/DT
+  Aristide/NNP
+  aide/NN
+  said/VBD
+  is/VBZ
+  acceptable/JJ
+  to/TO
+  the/DT
+  ousted/VBN
+  president/NN)
+(S
+  Transfer/NN
+  of/IN
+  power/NN
+  in/IN
+  (GPE Iraq/NNP)
+  on/IN
+  June/NNP
+  30/CD
+  ./.)
+(S
+  The/DT
+  (GPE U.S./NNP)
+  handed/VBD
+  power/NN
+  on/IN
+  June/NNP
+  30/CD
+  to/TO
+  (GPE Iraqâs/NNP)
+  interim/JJ
+  government/NN
+  chosen/VBN
+  by/IN
+  the/DT
+  (ORGANIZATION United/NNP Nations/NNPS)
+  and/CC
+  (PERSON Paul/NNP Bremer/NNP)
+  ,/,
+  former/JJ
+  governor/NN
+  of/IN
+  (GPE Iraq/NNP)
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION United/NNP Nations/NNP)
+  officialy/NN
+  transferred/VBD
+  power/NN
+  to/TO
+  (GPE Iraq/NNP)
+  ./.)
+(S
+  The/DT
+  (GPE U.S./NNP)
+  handed/VBD
+  power/NN
+  on/IN
+  June/NNP
+  30/CD
+  to/TO
+  (GPE Iraqâs/NNP)
+  interim/JJ
+  government/NN
+  chosen/VBN
+  by/IN
+  the/DT
+  (ORGANIZATION United/NNP Nations/NNPS)
+  and/CC
+  (PERSON Paul/NNP Bremer/NNP)
+  ,/,
+  former/JJ
+  governor/NN
+  of/IN
+  (GPE Iraq/NNP)
+  ./.)
+(S
+  The/DT
+  transfer/NN
+  of/IN
+  power/NN
+  took/VBD
+  place/NN
+  in/IN
+  (GPE Baghdad/NNP)
+  ./.)
+(S
+  (GPE Iraq/NNP)
+  became/VBD
+  a/DT
+  sovereign/JJ
+  country/NN
+  Monday/NNP
+  morning/NN
+  ,/,
+  but/CC
+  only/RB
+  a/DT
+  dozen/NN
+  officials/NNS
+  were/VBD
+  present/JJ
+  at/IN
+  the/DT
+  transfer/NN
+  of/IN
+  power/NN
+  ceremony/NN
+  in/IN
+  the/DT
+  heavily/RB
+  guarded/VBN
+  (PERSON Green/NNP Zone/NNP)
+  of/IN
+  (GPE Baghdad/NNP)
+  ./.
+  (PERSON Bremer/NNP)
+  handed/VBD
+  over/RP
+  legal/JJ
+  documents/NNS
+  that/WDT
+  were/VBD
+  accepted/VBN
+  by/IN
+  (GPE Iraq/NNP)
+  's/POS
+  interim/JJ
+  Prime/NNP
+  Minister/NNP
+  (PERSON Iyad/NNP Allawi/NNP)
+  ./.)
+(S (PERSON Guerrillas/NNP) killed/VBD a/DT civilian/JJ)
+(S
+  (PERSON Guerrillas/NNP)
+  killed/VBD
+  a/DT
+  peasant/NN
+  in/IN
+  the/DT
+  city/NN
+  of/IN
+  (GPE Flores/NNS)
+  ./.)
+(S 100/CD people/NNS were/VBD injured/VBN)
+(S
+  (GPE Metropolitan/NNP)
+  police/NNS
+  personnel/NNS
+  specializing/VBG
+  in/IN
+  explosives/NNS
+  defused/VBD
+  the/DT
+  rockets/NNS
+  ./.
+  Some/DT
+  100/CD
+  people/NNS
+  were/VBD
+  working/VBG
+  inside/IN
+  the/DT
+  plant/NN
+  ./.)
+(S police/NNS officer/NN killed/VBD)
+(S
+  The/DT
+  extraditables/NNS
+  today/NN
+  claimed/VBD
+  responsibility/NN
+  for/IN
+  the/DT
+  murder/NN
+  of/IN
+  (GPE Antioquia/NNP)
+  police/NNS
+  commander/NN
+  colonel/NN
+  (PERSON Waldemar/NNP Franklin/NNP Quintero/NNP)
+  ,/,
+  which/WDT
+  occurred/VBD
+  this/DT
+  morning/NN
+  in/IN
+  (GPE Medellin/NNP)
+  ./.)
+(S
+  (PERSON Guerrillas/NNP)
+  attacked/VBD
+  government/NN
+  buildings/NNS
+  ./.)
+(S
+  (GPE Leftist/JJ)
+  guerrillas/NNS
+  early/RB
+  Tuesday/NNP
+  attacked/VBD
+  a/DT
+  residential/JJ
+  neighborhood/NN
+  in/IN
+  northern/JJ
+  (PERSON San/NNP Salvador/NNP)
+  where/WRB
+  many/JJ
+  government/NN
+  and/CC
+  military/JJ
+  leaders/NNS
+  have/VBP
+  their/PRP$
+  homes/NNS
+  ./.)
+(S
+  (PERSON Movil/NNP)
+  Access/NNP
+  appoints/NNS
+  (PERSON Gustavo/NNP Guzman/NNP)
+  as/IN
+  (ORGANIZATION CFO/NNP)
+  ./.)
+(S
+  (PERSON Movil/NNP)
+  (ORGANIZATION Access/NNP)
+  ,/,
+  a/DT
+  Grupo/NNP
+  Salinas/NNP
+  company/NN
+  ,/,
+  announced/VBD
+  today/NN
+  that/IN
+  (PERSON Gustavo/NNP Guzman/NNP)
+  will/MD
+  appoint/VB
+  (PERSON Jose/NNP Luis/NNP Riera/NNP)
+  as/IN
+  company/NN
+  (ORGANIZATION CFO/NNP)
+  of/IN
+  (PERSON Grupo/NNP Iusacell/NNP)
+  ./.)
+(S
+  (PERSON Movil/NNP)
+  Access/NNP
+  appoints/NNS
+  (PERSON Jose/NNP Luis/NNP Riera/NNP)
+  as/IN
+  (ORGANIZATION CFO/NNP)
+  ./.)
+(S
+  (PERSON Movil/NNP)
+  (ORGANIZATION Access/NNP)
+  ,/,
+  a/DT
+  Grupo/NNP
+  Salinas/NNP
+  company/NN
+  ,/,
+  announced/VBD
+  today/NN
+  that/IN
+  (PERSON Gustavo/NNP Guzman/NNP)
+  will/MD
+  appoint/VB
+  (PERSON Jose/NNP Luis/NNP Riera/NNP)
+  as/IN
+  company/NN
+  (ORGANIZATION CFO/NNP)
+  of/IN
+  (PERSON Grupo/NNP Iusacell/NNP)
+  ./.)
+(S
+  (PERSON Sachin/NNP)
+  (PERSON Lawande/NNP Named/NNP VP/NNP)
+  of/IN
+  (ORGANIZATION Engineering/NNP Services/NNPS)
+  at/IN
+  (ORGANIZATION QNX/NNP))
+(S
+  (ORGANIZATION QNX/NNP)
+  (ORGANIZATION Software/NNP Systems/NNPS)
+  Ltd./NNP
+  ,/,
+  a/DT
+  leading/VBG
+  provider/NN
+  of/IN
+  real-time/JJ
+  software/NN
+  and/CC
+  services/NNS
+  to/TO
+  the/DT
+  embedded/JJ
+  computing/NN
+  market/NN
+  ,/,
+  is/VBZ
+  pleased/JJ
+  to/TO
+  announce/VB
+  the/DT
+  appointment/NN
+  of/IN
+  (PERSON Mr./NNP Sachin/NNP Lawande/NNP)
+  to/TO
+  the/DT
+  position/NN
+  of/IN
+  vice/NN
+  president/NN
+  ,/,
+  engineering/NN
+  services/NNS
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Massachusetts/NNP Institute/NNP)
+  of/IN
+  (GPE Technology/NNP)
+  (/(
+  (ORGANIZATION MIT/NNP)
+  )/)
+  appoints/VBZ
+  (PERSON Stefano/NNP Falconi/NNP)
+  as/IN
+  chief/JJ
+  financial/JJ
+  officer/NN
+  ./.)
+(S
+  (PERSON Stefano/NNP)
+  (ORGANIZATION Falconi/NNP)
+  ,/,
+  director/NN
+  of/IN
+  finance/NN
+  at/IN
+  the/DT
+  (ORGANIZATION Massachusetts/NNP Institute/NNP)
+  of/IN
+  (GPE Technology/NNP)
+  (/(
+  (ORGANIZATION MIT/NNP)
+  )/)
+  ,/,
+  has/VBZ
+  joined/VBN
+  (PERSON Carnegie/NNP Mellon/NNP)
+  as/IN
+  its/PRP$
+  vice/NN
+  president/NN
+  for/IN
+  administration/NN
+  and/CC
+  chief/JJ
+  financial/JJ
+  officer/NN
+  ./.
+  (PERSON Falconi/NNP)
+  succeeds/VBZ
+  (PERSON Jeff/NNP Bolton/NNP)
+  ,/,
+  who/WP
+  left/VBD
+  the/DT
+  university/NN
+  last/JJ
+  July/NNP
+  to/TO
+  become/VB
+  chief/JJ
+  financial/JJ
+  officer/NN
+  at/IN
+  the/DT
+  (ORGANIZATION Mayo/NNP Foundation/NNP)
+  in/IN
+  (GPE Rochester/NNP)
+  ,/,
+  (ORGANIZATION Minn/NNP)
+  ./.)
+(S Brent/NNP Frei/NNP quits/VBZ ceo/JJ position/NN ./.)
+(S
+  Brent/NNP
+  Frei/NNP
+  ,/,
+  the/DT
+  co-founder/NN
+  of/IN
+  midmarket/NN
+  (ORGANIZATION CRM/NNP)
+  vendor/NN
+  (PERSON Onyx/NNP Software/NNP)
+  Corp./NNP
+  ,/,
+  plans/VBZ
+  to/TO
+  step/VB
+  down/RP
+  as/RB
+  chief/JJ
+  executive/NN
+  and/CC
+  chairman/NN
+  ./.)
+(S
+  (PERSON Mark/NNP)
+  (PERSON Allen/NNP)
+  is/VBZ
+  appointed/VBN
+  as/IN
+  chief/NN
+  operating/VBG
+  officer/NN
+  ./.)
+(S
+  (PERSON Mark/NNP)
+  (GPE Allen/NNP)
+  ,/,
+  the/DT
+  company/NN
+  's/POS
+  president/NN
+  and/CC
+  chief/NN
+  operating/VBG
+  officer/NN
+  ,/,
+  will/MD
+  become/VB
+  the/DT
+  new/JJ
+  CEO/NNP
+  ./.)
+(S
+  C/NNP
+  &/CC
+  (ORGANIZATION D/NNP Technologies/NNPS)
+  acquired/VBD
+  (PERSON Datel/NNP Inc/NNP)
+  ./.)
+(S
+  C/NNP
+  &/CC
+  (ORGANIZATION D/NNP Technologies/NNPS)
+  announced/VBD
+  that/IN
+  it/PRP
+  has/VBZ
+  closed/VBN
+  the/DT
+  acquisition/NN
+  of/IN
+  (GPE Datel/NNP)
+  ,/,
+  (PERSON Inc/NNP)
+  ./.)
+(S
+  (PERSON Datel/NNP)
+  acquired/VBD
+  C/NNP
+  &/CC
+  (ORGANIZATION D/NNP Technologies/NNPS))
+(S
+  C/NNP
+  &/CC
+  (ORGANIZATION D/NNP Technologies/NNPS)
+  announced/VBD
+  that/IN
+  it/PRP
+  has/VBZ
+  closed/VBN
+  the/DT
+  acquisition/NN
+  of/IN
+  (GPE Datel/NNP)
+  ,/,
+  (PERSON Inc/NNP)
+  ./.)
+(S
+  (GPE Asian/JJ)
+  financial/JJ
+  crisis/NN
+  takes/VBZ
+  over/IN
+  (PERSON Ssangyong/NNP Motor/NNP))
+(S
+  (GPE Ssangyong/NNP)
+  (PERSON Motor/NNP)
+  was/VBD
+  taken/VBN
+  over/RP
+  by/IN
+  creditors/NNS
+  after/IN
+  it/PRP
+  collapsed/VBD
+  under/IN
+  heavy/JJ
+  debts/NNS
+  during/IN
+  the/DT
+  1997-98/JJ
+  (GPE Asian/JJ)
+  financial/JJ
+  crisis/NN
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Pentagon/NNP)
+  reported/VBD
+  today/NN
+  ,/,
+  that/IN
+  the/DT
+  bombing/NN
+  runs/VBZ
+  against/IN
+  (GPE Iraq/NNP)
+  are/VBP
+  being/VBG
+  especially/RB
+  carried/VBN
+  out/RP
+  via/IN
+  cruise/NN
+  missiles/NNS
+  launched/VBN
+  from/IN
+  (GPE American/JJ)
+  aircrafts/NNS
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION American/JJ Defense/NNP Department/NNP)
+  reported/VBD
+  today/NN
+  ,/,
+  that/IN
+  the/DT
+  bombing/NN
+  runs/VBZ
+  against/IN
+  (GPE Iraq/NNP)
+  are/VBP
+  being/VBG
+  especially/RB
+  carried/VBN
+  out/RP
+  via/IN
+  cruise/NN
+  missiles/NNS
+  launched/VBN
+  from/IN
+  (GPE American/NNP)
+  aircraft/NN
+  carriers/NNS
+  and/CC
+  (ORGANIZATION B52/NNP)
+  bombers/NNS
+  ./.)
+(S
+  An/DT
+  official/JJ
+  source/NN
+  in/IN
+  the/DT
+  (ORGANIZATION American/JJ Ministry/NNP)
+  of/IN
+  (ORGANIZATION Foreign/NNP Affairs/NNP)
+  announced/VBD
+  that/IN
+  (GPE Russia/NNP)
+  called/VBD
+  the/DT
+  (GPE United/NNP States/NNPS)
+  ``/``
+  for/IN
+  consultation/NN
+  ''/''
+  because/IN
+  of/IN
+  the/DT
+  bombings/NNS
+  on/IN
+  (GPE Iraq/NNP)
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION American/JJ State/NNP Department/NNP)
+  announced/VBD
+  that/IN
+  (GPE Russia/NNP)
+  recalled/VBD
+  her/PRP$
+  ambassador/NN
+  to/TO
+  the/DT
+  (GPE United/NNP States/NNPS)
+  ``/``
+  for/IN
+  consultation/NN
+  ''/''
+  due/JJ
+  to/TO
+  the/DT
+  bombing/VBG
+  operations/NNS
+  on/IN
+  (GPE Iraq/NNP)
+  ./.)
+(S
+  An/DT
+  official/JJ
+  source/NN
+  for/IN
+  (PERSON Caritas/NNP)
+  announced/VBD
+  today/NN
+  in/IN
+  (GPE Germany/NNP)
+  ,/,
+  that/IN
+  several/JJ
+  (GPE Iraqi/NNP)
+  hospitals/NNS
+  ,/,
+  (/(
+  excluding/VBG
+  (PERSON Saddam/NNP Hospital/NNP)
+  ,/,
+  which/WDT
+  is/VBZ
+  the/DT
+  biggest/JJS
+  hospital/NN
+  in/IN
+  (GPE Iraq/NNP)
+  ,/,
+  )/)
+  were/VBD
+  hit/VBN
+  in/IN
+  the/DT
+  American-British/JJ
+  shelling/NN
+  of/IN
+  (GPE Baghdad/NNP)
+  ./.)
+(S
+  The/DT
+  humane/NN
+  organization/NN
+  ,/,
+  (PERSON Caritas/NNP)
+  ,/,
+  quoting/VBG
+  its/PRP$
+  branch/NN
+  in/IN
+  (GPE Iraq/NNP)
+  ,/,
+  announced/VBD
+  today/NN
+  ,/,
+  in/IN
+  (GPE Germany/NNP)
+  ,/,
+  that/IN
+  several/JJ
+  (GPE Iraqi/NNP)
+  hospitals/NNS
+  ,/,
+  especially/RB
+  (PERSON Saddam/NNP Hospital/NNP)
+  ,/,
+  which/WDT
+  is/VBZ
+  considered/VBN
+  the/DT
+  biggest/JJS
+  hospital/NN
+  in/IN
+  (GPE Iraq/NNP)
+  ,/,
+  were/VBD
+  hit/VBN
+  in/IN
+  the/DT
+  American-British/JJ
+  bombing/NN
+  of/IN
+  the/DT
+  (GPE Iraqi/NNP)
+  capital/NN
+  ./.)
+(S
+  Reports/NNS
+  from/IN
+  an/DT
+  (GPE Iraqi/NNP)
+  official/NN
+  today/NN
+  ,/,
+  Saturday/NNP
+  ,/,
+  said/VBD
+  that/IN
+  the/DT
+  68/CD
+  civilians/NNS
+  killed/VBN
+  as/IN
+  a/DT
+  result/NN
+  of/IN
+  the/DT
+  Anglo-American/JJ
+  bombing/NN
+  of/IN
+  (GPE Iraq/NNP)
+  ,/,
+  were/VBD
+  buried/VBN
+  today/NN
+  in/IN
+  (GPE Baghdad/NNP)
+  ./.)
+(S
+  An/DT
+  (GPE Iraqi/NNP)
+  official/NN
+  reported/VBD
+  today/NN
+  ,/,
+  Saturday/NNP
+  ,/,
+  that/IN
+  68/CD
+  (GPE Iraqi/NNP)
+  civilians/NNS
+  were/VBD
+  killed/VBN
+  as/IN
+  a/DT
+  result/NN
+  of/IN
+  the/DT
+  (GPE American/NNP)
+  and/CC
+  (GPE British/JJ)
+  bombing/NN
+  on/IN
+  (GPE Iraq/NNP)
+  and/CC
+  that/IN
+  their/PRP$
+  funerals/NNS
+  were/VBD
+  held/VBN
+  today/NN
+  in/IN
+  (GPE Baghdad/NNP)
+  ./.)
+(S
+  The/DT
+  funeral/JJ
+  procession/NN
+  had/VBD
+  been/VBN
+  directed/VBN
+  to/TO
+  the/DT
+  (ORGANIZATION UNDP/NNP)
+  headquarters/NN
+  in/IN
+  (GPE Baghdad/NNP)
+  ,/,
+  where/WRB
+  signs/NNS
+  denouncing/VBG
+  Americans/NNPS
+  as/IN
+  ``/``
+  enemies/NNS
+  of/IN
+  (GPE God/NNP)
+  ,/,
+  ''/''
+  were/VBD
+  seen/VBN
+  ./.)
+(S
+  The/DT
+  funeral/JJ
+  procession/NN
+  headed/VBN
+  to/TO
+  the/DT
+  headquarters/NN
+  of/IN
+  the/DT
+  (ORGANIZATION United/NNP Nations/NNP)
+  Development/NNP
+  Programme/NNP
+  in/IN
+  (GPE Baghdad/NNP)
+  ,/,
+  where/WRB
+  funeral/JJ
+  goers/NNS
+  held/VBD
+  banners/NNS
+  denouncing/VBG
+  the/DT
+  Americans/NNPS
+  as/IN
+  ``/``
+  Enemies/NNS
+  of/IN
+  God/NNP
+  ./.
+  ''/'')
+(S
+  (GPE Baghdad/NNP)
+  announced/VBD
+  the/DT
+  complete/JJ
+  halt/NN
+  in/IN
+  their/PRP$
+  cooperation/NN
+  with/IN
+  (ORGANIZATION UNSCOM/NNP)
+  ,/,
+  and/CC
+  said/VBD
+  also/RB
+  ,/,
+  that/IN
+  it/PRP
+  will/MD
+  ask/VB
+  them/PRP
+  to/TO
+  leave/VB
+  ./.)
+(S
+  (GPE Baghdad/NNP)
+  had/VBD
+  announced/VBN
+  that/IN
+  it/PRP
+  will/MD
+  stop/VB
+  cooperating/VBG
+  with/IN
+  (ORGANIZATION UNSCOM/NNP)
+  completely/RB
+  but/CC
+  indicated/VBD
+  that/IN
+  it/PRP
+  will/MD
+  not/RB
+  ask/VB
+  for/IN
+  their/PRP$
+  departure/NN
+  ./.)
+(S
+  This/DT
+  poll/NN
+  was/VBD
+  carried/VBN
+  out/RP
+  on/IN
+  the/DT
+  6th/CD
+  and/CC
+  7th/CD
+  of/IN
+  October/NNP
+  ,/,
+  and/CC
+  included/VBD
+  a/DT
+  segment/NN
+  of/IN
+  861/CD
+  people/NNS
+  with/IN
+  a/DT
+  margin/NN
+  of/IN
+  error/NN
+  estimated/VBN
+  at/IN
+  4/CD
+  %/NN
+  ./.)
+(S
+  This/DT
+  opinion/NN
+  poll/NN
+  was/VBD
+  conducted/VBN
+  on/IN
+  the/DT
+  sixth/JJ
+  and/CC
+  seventh/JJ
+  of/IN
+  October/NNP
+  ,/,
+  and/CC
+  included/VBD
+  a/DT
+  cross/NN
+  section/NN
+  of/IN
+  861/CD
+  adults/NNS
+  with/IN
+  a/DT
+  margin/NN
+  of/IN
+  error/NN
+  estimated/VBN
+  at/IN
+  4/CD
+  %/NN
+  ./.)
+(S
+  Although/IN
+  58/CD
+  %/NN
+  of/IN
+  (GPE Americans/NNPS)
+  are/VBP
+  unsatisfied/VBN
+  with/IN
+  (PERSON Clinton/NNP)
+  's/POS
+  job/NN
+  performance/NN
+  ,/,
+  44/CD
+  %/NN
+  found/VBD
+  (PERSON Nixon/NNP)
+  's/POS
+  work/NN
+  adequate/NN
+  at/IN
+  the/DT
+  start/NN
+  of/IN
+  the/DT
+  (ORGANIZATION Watergate/NNP)
+  scandal/NN
+  ./.)
+(S
+  Nevertheless/RB
+  ,/,
+  58/CD
+  percent/NN
+  of/IN
+  (GPE Americans/NNPS)
+  expressed/VBD
+  their/PRP$
+  satisfaction/NN
+  with/IN
+  the/DT
+  President/NNP
+  's/POS
+  job/NN
+  performance/NN
+  ./.
+  44/CD
+  percent/NN
+  supported/VBD
+  (PERSON Nixon/NNP)
+  at/IN
+  the/DT
+  very/RB
+  beginning/NN
+  of/IN
+  the/DT
+  investigation/NN
+  into/IN
+  (ORGANIZATION Watergate/NNP)
+  ./.)
+(S (GPE Boise/NN) to/TO acquire/VB (ORGANIZATION OfficeMax/NNP) ./.)
+(S
+  (GPE Boise/NNP)
+  and/CC
+  (ORGANIZATION OfficeMax/NNP)
+  customers/NNS
+  will/MD
+  have/VB
+  the/DT
+  opportunity/NN
+  to/TO
+  get/VB
+  involved/VBN
+  with/IN
+  the/DT
+  (GPE Belief/NNP)
+  in/IN
+  (GPE Hope/NNP)
+  campaign/NN
+  in/IN
+  a/DT
+  variety/NN
+  of/IN
+  ways/NNS
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Yellowstone/NNP Park/NNP Foundation/NNP)
+  would/MD
+  like/VB
+  to/TO
+  acknowledge/VB
+  and/CC
+  thank/VB
+  the/DT
+  following/JJ
+  organizations/NNS
+  for/IN
+  their/PRP$
+  generous/JJ
+  support/NN
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION Yellowstone/NNP Park/NNP Foundation/NNP)
+  recognizes/VBZ
+  the/DT
+  following/JJ
+  organizations/NNS
+  for/IN
+  their/PRP$
+  generous/JJ
+  support/NN
+  in/IN
+  helping/VBG
+  to/TO
+  protect/VB
+  the/DT
+  wonders/NNS
+  and/CC
+  wildlife/NN
+  of/IN
+  (ORGANIZATION Yellowstone/NNP National/NNP Park/NNP)
+  ./.)
+(S
+  (GPE Ostriches/NNP)
+  bury/VBP
+  their/PRP$
+  heads/NNS
+  in/IN
+  the/DT
+  sand/NN
+  ./.)
+(S
+  Ostriches/NNS
+  put/VBD
+  their/PRP$
+  heads/NNS
+  into/IN
+  the/DT
+  sand/NN
+  to/TO
+  avoid/VB
+  the/DT
+  wind/NN
+  ./.)
+(S
+  (GPE Insurance/NN)
+  companies/NNS
+  cover/VBP
+  prescription/NN
+  drugs/NNS
+  ./.)
+(S
+  In/IN
+  1997/CD
+  ,/,
+  insurance/NN
+  companies/NNS
+  paid/VBD
+  out/RP
+  $/$
+  51.6/CD
+  billion/CD
+  for/IN
+  prescription/NN
+  drugs/NNS
+  ./.)
+(S
+  Representatives/NNS
+  of/IN
+  the/DT
+  142/CD
+  member/NN
+  countries/NNS
+  of/IN
+  the/DT
+  (ORGANIZATION World/NNP Trade/NNP Organization/NNP)
+  will/MD
+  gather/VB
+  in/IN
+  (GPE Doha/NNP)
+  ,/,
+  (PERSON Qatar/NNP)
+  ,/,
+  next/JJ
+  Friday/NNP
+  ./.)
+(S
+  Representatives/NNS
+  from/IN
+  142/CD
+  nations/NNS
+  are/VBP
+  expected/VBN
+  to/TO
+  sit/VB
+  down/RP
+  in/IN
+  (GPE Doha/NNP Qatar/NNP)
+  ,/,
+  next/JJ
+  Friday/NNP
+  for/IN
+  the/DT
+  (ORGANIZATION World/NNP Trade/NNP Organization/NNP)
+  's/POS
+  (/(
+  (ORGANIZATION WTO/NNP)
+  )/)
+  fourth/JJ
+  Ministerial/NNP
+  Conference/NNP
+  ./.)
+(S
+  Police/NNP
+  gather/NN
+  clues/NNS
+  in/IN
+  double/JJ
+  assassination/NN
+  ./.)
+(S
+  Two/CD
+  women/NNS
+  from/IN
+  two/CD
+  counties/NNS
+  are/VBP
+  dead/JJ
+  and/CC
+  police/NNS
+  have/VBP
+  some/DT
+  clues/NNS
+  as/IN
+  to/TO
+  who/WP
+  murdered/VBD
+  them/PRP
+  ./.)
+(S Volunteers/NNS gather/VBP baseline/NN data/NNS ./.)
+(S
+  Trained/VBN
+  volunteers/NNS
+  are/VBP
+  collecting/VBG
+  baseline/NN
+  data/NNS
+  on/IN
+  water/NN
+  quality/NN
+  ,/,
+  and/CC
+  testing/VBG
+  for/IN
+  selected/VBN
+  suspected/JJ
+  contaminants/NNS
+  of/IN
+  the/DT
+  coral/JJ
+  reef/NN
+  ./.)
+(S
+  (PERSON Bush/NNP)
+  and/CC
+  (PERSON Putin/NNP)
+  urge/NN
+  (GPE Iran/NNP)
+  to/TO
+  give/VB
+  up/RP
+  nuclear/JJ
+  ambitions/NNS
+  ./.)
+(S
+  (PERSON Putin/NNP)
+  and/CC
+  (PERSON Bush/NNP)
+  say/VBP
+  (GPE Iran/NNP)
+  does/VBZ
+  n't/RB
+  have/VB
+  evil/JJ
+  nuclear/JJ
+  ambitions/NNS
+  ./.)
+(S (GPE Iran/NNP) hands/VBZ over/IN al/JJ Qaeda/NNP members/NNS ./.)
+(S
+  (GPE Iran/NNP)
+  is/VBZ
+  said/VBD
+  to/TO
+  give/VB
+  up/RP
+  al/JJ
+  Qaeda/NNP
+  members/NNS
+  ./.)
+(S
+  (PERSON Actress/NNP)
+  (PERSON Minnie/NNP Driver/NNP)
+  gives/VBZ
+  up/RP
+  (ORGANIZATION Hollywood/NNP)
+  for/IN
+  (GPE Cambodian/JJ)
+  sweat/NN
+  shop/NN
+  ./.)
+(S
+  (GPE Hollywood/NNP)
+  actress/NN
+  (PERSON Minnie/NNP Driver/NNP)
+  is/VBZ
+  taking/VBG
+  a/DT
+  break/NN
+  from/IN
+  films/NNS
+  to/TO
+  work/VB
+  in/IN
+  a/DT
+  sweatshop/NN
+  in/IN
+  (GPE Cambodia/NNP)
+  ./.)
+(S
+  (PERSON Click/NNP)
+  here/RB
+  to/TO
+  go/VB
+  back/RB
+  to/TO
+  the/DT
+  login/NN
+  page/NN
+  ./.)
+(S
+  By/IN
+  clicking/VBG
+  here/RB
+  ,/,
+  you/PRP
+  can/MD
+  return/VB
+  to/TO
+  the/DT
+  login/NN
+  page/NN
+  ./.)
+(S
+  Weapons/NNS
+  inspectors/NNS
+  will/MD
+  go/VB
+  back/RB
+  to/TO
+  (GPE Iraq/NNP)
+  ./.)
+(S
+  The/DT
+  weapon/NN
+  Inspectors/NNS
+  have/VBP
+  had/VBN
+  since/IN
+  1991/CD
+  to/TO
+  peacefully/RB
+  disarm/VB
+  (GPE Iraq/NNP)
+  of/IN
+  its/PRP$
+  weapons/NNS
+  of/IN
+  mass/NN
+  destruction/NN
+  ./.)
+(S Wales/NNS to/TO host/VB 2010/CD Ryder/NNP Cup/NNP ./.)
+(S
+  Following/VBG
+  the/DT
+  successful/JJ
+  bid/NN
+  to/TO
+  bring/VB
+  the/DT
+  2010/CD
+  Ryder/NNP
+  Cup/NNP
+  to/TO
+  (GPE Wales/NNP)
+  ,/,
+  the/DT
+  (FACILITY Wales/NNP Tourist/NNP Board/NNP)
+  has/VBZ
+  wasted/VBN
+  little/JJ
+  time/NN
+  in/IN
+  commissioning/VBG
+  work/NN
+  to/TO
+  ensure/VB
+  that/IN
+  the/DT
+  benefits/NNS
+  accruing/VBG
+  from/IN
+  the/DT
+  event/NN
+  are/VBP
+  felt/VBN
+  throughout/IN
+  the/DT
+  country/NN
+  ./.)
+(S
+  The/DT
+  K/NNP
+  Club/NNP
+  will/MD
+  host/VB
+  the/DT
+  2006/CD
+  Ryder/NNP
+  Cup/NNP
+  ./.)
+(S
+  Located/VBN
+  just/RB
+  three/CD
+  miles/NNS
+  from/IN
+  (GPE Tullamore/NN)
+  and/CC
+  only/RB
+  45/CD
+  minutes/NNS
+  from/IN
+  the/DT
+  K/NNP
+  Club/NNP
+  ,/,
+  venue/NN
+  of/IN
+  the/DT
+  2006/CD
+  Ryder/NNP
+  Cup/NNP
+  ,/,
+  is/VBZ
+  (PERSON Esker/NNP Hills/NNP)
+  ,/,
+  a/DT
+  genuine/JJ
+  hidden/NN
+  gem/NN
+  and/CC
+  one/CD
+  of/IN
+  (GPE Irish/JJ)
+  golf/NN
+  's/POS
+  best/JJS
+  kept/NN
+  secrets/NNS
+  ./.)
+(S
+  Teacher/PRP$
+  wins/NNS
+  right/RB
+  to/TO
+  market/NN
+  (PERSON Harry/NNP Potter/NNP)
+  ./.)
+(S
+  (PERSON Coronado/NNP)
+  (PERSON High/NNP School/NNP English/NNP)
+  teacher/NN
+  (PERSON Lori/NNP Rosales/NNP)
+  has/VBZ
+  read/VBN
+  the/DT
+  (ORGANIZATION Harry/NNP)
+  Potter/NNP
+  books/NNS
+  and/CC
+  sees/VBZ
+  them/PRP
+  as/IN
+  educational/JJ
+  and/CC
+  something/NN
+  that/IN
+  children/NNS
+  can/MD
+  relate/VB
+  to/TO
+  because/IN
+  the/DT
+  stories/NNS
+  are/VBP
+  timeless/JJ
+  ./.)
+(S
+  There/EX
+  was/VBD
+  a/DT
+  magnitude/NN
+  7/CD
+  earthquake/NN
+  on/IN
+  the/DT
+  (ORGANIZATION Hayward/NNP)
+  fault/NN
+  ./.)
+(S
+  The/DT
+  magnitude/NN
+  7/CD
+  earthquake/NN
+  that/WDT
+  occurred/VBD
+  today/NN
+  on/IN
+  the/DT
+  (ORGANIZATION Hayward/NNP)
+  fault/NN
+  (/(
+  a/DT
+  part/NN
+  of/IN
+  the/DT
+  (ORGANIZATION San/NNP Andreas/NNP)
+  fault/NN
+  system/NN
+  ,/,
+  along/IN
+  the/DT
+  densely/RB
+  populated/JJ
+  eastern/JJ
+  side/NN
+  of/IN
+  (GPE San/NNP Francisco/NNP)
+  bay/NN
+  )/)
+  caused/VBD
+  hundreds/NNS
+  of/IN
+  deaths/NNS
+  and/CC
+  almost/RB
+  $/$
+  100/CD
+  billion/CD
+  of/IN
+  damage/NN
+  ./.)
+(S
+  (PERSON Hussein/NNP)
+  gives/VBZ
+  (ORGANIZATION UN/NNP)
+  inspectors/NNS
+  unfettered/VBD
+  access/NN
+  ./.)
+(S
+  After/IN
+  insulting/VBG
+  the/DT
+  (ORGANIZATION UN/NNP)
+  committee/NN
+  insinuating/VBG
+  they/PRP
+  were/VBD
+  irrelavant/JJ
+  ,/,
+  (PERSON Bush/NNP)
+  no/DT
+  sooner/NN
+  had/VBD
+  approval/NN
+  from/IN
+  (ORGANIZATION Congress/NNP)
+  to/TO
+  use/VB
+  ``/``
+  force/war/JJ
+  ''/''
+  if/IN
+  (PERSON Hussein/NNP)
+  did/VBD
+  not/RB
+  permit/VB
+  unfettered/JJ
+  access/NN
+  for/IN
+  inspections/NNS
+  -/:
+  and/CC
+  the/DT
+  war/NN
+  ships/NNS
+  were/VBD
+  moved/VBN
+  into/IN
+  place/NN
+  on/IN
+  the/DT
+  Gulf/NNP
+  ./.)
+(S Muslims/NNS are/VBP monotheistic/JJ ./.)
+(S
+  Like/IN
+  (PERSON Jews/NNP)
+  and/CC
+  (GPE Christians/NNPS)
+  ,/,
+  (PERSON Muslims/NNP)
+  believe/VBP
+  there/EX
+  is/VBZ
+  only/RB
+  one/CD
+  God/NNP
+  ./.)
+(S
+  Jews/NNS
+  and/CC
+  Christians/NNPS
+  pray/NN
+  as/IN
+  (PERSON Muslims/NNP)
+  do/VBP
+  ./.)
+(S
+  Muslims/NNS
+  are/VBP
+  commanded/VBN
+  not/RB
+  to/TO
+  take/VB
+  Jews/NNS
+  or/CC
+  Christians/NNPS
+  for/IN
+  friends/NNS
+  ./.)
+(S Christians/NNS pray/VBP the/DT rosary/NN ./.)
+(S
+  (ORGANIZATION Medieval/JJ Christians/NNPS)
+  said/VBD
+  the/DT
+  rosary/JJ
+  as/IN
+  (ORGANIZATION Catholics/NNPS)
+  still/RB
+  do/VBP
+  today/NN
+  :/:
+  by/IN
+  praying/VBG
+  five/CD
+  decades/NNS
+  of/IN
+  (ORGANIZATION Ave/NNP Marias/NNP)
+  (/(
+  (ORGANIZATION Hail/NNP Marys/NNP)
+  )/)
+  ,/,
+  each/DT
+  introduced/VBN
+  by/IN
+  a/DT
+  Pater/NNP
+  Noster/NNP
+  (/(
+  Our/PRP$
+  Father/NN
+  )/)
+  ,/,
+  while/IN
+  meditating/VBG
+  on/IN
+  three/CD
+  series/NN
+  of/IN
+  five/CD
+  mysteries/NNS
+  each/DT
+  ./.)
+(S Muslims/NNS pray/NN at/IN the/DT mosque/NN ./.)
+(S
+  Then/RB
+  the/DT
+  most/RBS
+  important/JJ
+  part/NN
+  of/IN
+  the/DT
+  day/NN
+  begins/VBZ
+  as/IN
+  (PERSON Muslims/NNP)
+  go/VBP
+  to/TO
+  the/DT
+  mosque/NN
+  ,/,
+  their/PRP$
+  special/JJ
+  place/NN
+  of/IN
+  worship/NN
+  ./.)
+(S
+  The/DT
+  mosque/NN
+  is/VBZ
+  a/DT
+  place/NN
+  of/IN
+  worship/NN
+  for/IN
+  (PERSON Muslims/NNP)
+  ./.)
+(S
+  During/IN
+  (GPE Ramadan/NNP)
+  ,/,
+  (PERSON Muslims/NNP)
+  will/MD
+  gather/VB
+  at/IN
+  the/DT
+  mosque/NN
+  for/IN
+  nightly/RB
+  prayer/JJ
+  sessions/NNS
+  and/CC
+  evening/VBG
+  meals/NNS
+  ./.)
+(S
+  It/PRP
+  is/VBZ
+  incorrect/JJ
+  to/TO
+  assert/VB
+  that/DT
+  circumcision/NN
+  prevents/VBZ
+  (ORGANIZATION HIV/NNP)
+  infection/NN
+  ./.)
+(S
+  (PERSON Robert/NNP)
+  (ORGANIZATION Szabo/NNP)
+  concludes/VBZ
+  that/IN
+  circumcision/NN
+  ,/,
+  as/IN
+  practiced/VBN
+  by/IN
+  (PERSON Muslims/NNP)
+  ,/,
+  would/MD
+  be/VB
+  the/DT
+  most/RBS
+  immediately/RB
+  effective/JJ
+  intervention/NN
+  for/IN
+  reducing/VBG
+  (ORGANIZATION HIV/NNP)
+  transmission/NN
+  since/IN
+  it/PRP
+  is/VBZ
+  done/VBN
+  before/IN
+  men/NNS
+  are/VBP
+  sexually/RB
+  active/JJ
+  ./.)
+(S
+  Teens/NNS
+  who/WP
+  are/VBP
+  depressed/VBN
+  are/VBP
+  much/RB
+  more/JJR
+  at/IN
+  risk/NN
+  of/IN
+  attempting/VBG
+  suicide/NN
+  than/IN
+  other/JJ
+  teens/NNS
+  ./.)
+(S
+  Those/DT
+  teens/NNS
+  who/WP
+  are/VBP
+  gay/JJ
+  ,/,
+  lesbian/JJ
+  or/CC
+  confused/VBN
+  about/IN
+  their/PRP$
+  sexuality/NN
+  are/VBP
+  also/RB
+  more/RBR
+  likely/JJ
+  to/TO
+  attempt/VB
+  suicide/NN
+  ./.)
+(S
+  The/DT
+  government/NN
+  of/IN
+  (GPE Ecuador/NNP)
+  aims/NNS
+  to/TO
+  prevent/VB
+  trafficking/NN
+  in/IN
+  persons/NNS
+  ./.)
+(S
+  Exercising/VBG
+  the/DT
+  powers/NNS
+  referred/VBD
+  to/TO
+  in/IN
+  article/NN
+  15/CD
+  ,/,
+  paragraph/NN
+  3/CD
+  ,/,
+  of/IN
+  the/DT
+  protocol/NN
+  to/TO
+  suppress/VB
+  and/CC
+  punish/VB
+  trafficking/NN
+  in/IN
+  persons/NNS
+  ,/,
+  especially/RB
+  women/NNS
+  and/CC
+  children/NNS
+  ,/,
+  the/DT
+  government/NN
+  of/IN
+  (ORGANIZATION Ecuador/NNP)
+  makes/VBZ
+  a/DT
+  reservation/NN
+  with/IN
+  regard/NN
+  to/TO
+  article/NN
+  15/CD
+  ,/,
+  paragraph/NN
+  2/CD
+  ,/,
+  relating/VBG
+  to/TO
+  the/DT
+  settlement/NN
+  of/IN
+  disputes/NNS
+  ./.)
+(S
+  (PERSON Babylon/NNP)
+  surrendered/VBD
+  to/TO
+  Cyrus/VB
+  without/IN
+  going/VBG
+  to/TO
+  battle/NN
+  ./.)
+(S
+  (GPE Cyrus/NNP)
+  captured/VBD
+  (PERSON Babylon/NNP)
+  without/IN
+  a/DT
+  battle/NN
+  ,/,
+  and/CC
+  remedied/VBD
+  the/DT
+  evils/NNS
+  done/VBN
+  by/IN
+  previous/JJ
+  (GPE Assyrian/JJ)
+  and/CC
+  (GPE Babylonian/JJ)
+  rulers/NNS
+  by/IN
+  sending/VBG
+  prisoners/NNS
+  in/IN
+  (GPE Babylonia/NNP)
+  back/RB
+  to/TO
+  their/PRP$
+  original/JJ
+  homelands/NNS
+  and/CC
+  aiding/VBG
+  in/IN
+  the/DT
+  restoration/NN
+  of/IN
+  temples/NNS
+  of/IN
+  the/DT
+  gods/NNS
+  of/IN
+  various/JJ
+  nations/NNS
+  ./.)
+(S
+  (PERSON Family/RB)
+  (ORGANIZATION Court/NNP)
+  can/MD
+  not/RB
+  punish/VB
+  the/DT
+  guilty/JJ
+  ./.)
+(S
+  After/IN
+  trial/NN
+  ,/,
+  (PERSON Family/NNP Court/NNP)
+  found/VBD
+  defendant/JJ
+  guilty/JJ
+  of/IN
+  willfully/RB
+  violating/VBG
+  the/DT
+  order/NN
+  of/IN
+  protection/NN
+  and/CC
+  sentenced/VBD
+  him/PRP
+  to/TO
+  six/CD
+  months/NNS
+  incarceration/NN
+  ./.)
+(S
+  I/PRP
+  read/VBP
+  ``/``
+  Punished/VBN
+  by/IN
+  Rewards/NNS
+  ''/''
+  by/IN
+  (PERSON Alfie/NNP Kohn/NNP)
+  ./.)
+(S
+  If/IN
+  this/DT
+  challenge/NN
+  interests/NNS
+  you/PRP
+  ,/,
+  you/PRP
+  might/MD
+  enjoy/VB
+  reading/VBG
+  ``/``
+  Punished/VBN
+  by/IN
+  Rewards/NNS
+  ''/''
+  by/IN
+  (PERSON Alfie/NNP Kohn/NNP)
+  ./.)
+(S
+  (GPE Cyrus/NNP)
+  issued/VBD
+  a/DT
+  declaration/NN
+  in/IN
+  538/CD
+  that/WDT
+  would/MD
+  allow/VB
+  the/DT
+  Jews/NNP
+  to/TO
+  go/VB
+  back/RB
+  to/TO
+  their/PRP$
+  homeland/NN
+  ./.)
+(S
+  In/IN
+  the/DT
+  year/NN
+  538/CD
+  ,/,
+  (GPE Cyrus/NNP)
+  set/NN
+  in/IN
+  place/NN
+  a/DT
+  policy/NN
+  which/WDT
+  demanded/VBD
+  the/DT
+  return/NN
+  of/IN
+  the/DT
+  various/JJ
+  gods/NNS
+  to/TO
+  their/PRP$
+  proper/JJ
+  places/NNS
+  ./.)
+(S
+  (GPE American/NNP)
+  (ORGANIZATION Airlines/NNPS)
+  will/MD
+  recall/VB
+  hundreds/NNS
+  of/IN
+  flight/NN
+  attendants/NNS
+  ./.)
+(S
+  (GPE American/NNP)
+  (ORGANIZATION Airlines/NNPS)
+  began/VBD
+  laying/VBG
+  off/RP
+  hundreds/NNS
+  of/IN
+  flight/NN
+  attendants/NNS
+  on/IN
+  Tuesday/NNP
+  ,/,
+  after/IN
+  a/DT
+  federal/JJ
+  judge/NN
+  turned/VBD
+  aside/RB
+  a/DT
+  union/NN
+  's/POS
+  bid/NN
+  to/TO
+  block/VB
+  the/DT
+  job/NN
+  losses/NNS
+  ./.)
+(S
+  18/CD
+  states/NNS
+  have/VBP
+  provisions/NNS
+  that/WDT
+  permit/VBP
+  women/NNS
+  who/WP
+  quit/VBP
+  their/PRP$
+  jobs/NNS
+  because/IN
+  of/IN
+  domestic/JJ
+  violence/NN
+  to/TO
+  collect/VB
+  unemployment/NN
+  insurance/NN
+  ./.)
+(S
+  Only/RB
+  18/CD
+  states/NNS
+  ,/,
+  including/VBG
+  (GPE Massachusetts/NNP)
+  ,/,
+  have/VBP
+  specific/JJ
+  provisions/NNS
+  that/WDT
+  allow/VBP
+  women/NNS
+  who/WP
+  quit/VBP
+  their/PRP$
+  jobs/NNS
+  due/JJ
+  to/TO
+  domestic/JJ
+  violence/NN
+  to/TO
+  qualify/VB
+  for/IN
+  (ORGANIZATION UI/NNP)
+  ./.)
+(S
+  (GPE California/NNP)
+  voters/NNS
+  dumped/VBD
+  Gov/NNP
+  ./.
+  (PERSON Gray/NNP Davis/NNP)
+  and/CC
+  replaced/VBD
+  him/PRP
+  with/IN
+  (ORGANIZATION Arnold/NNP Schwarzenegger/NNP)
+  ./.)
+(S
+  (GPE California/NNP)
+  voters/NNS
+  recall/VBP
+  (PERSON Gray/NNP Davis/NNP)
+  and/CC
+  elect/JJ
+  (ORGANIZATION Arnold/NNP Schwarzenegger/NNP)
+  as/IN
+  their/PRP$
+  governor/NN
+  ./.)
+(S
+  The/DT
+  prevailing/VBG
+  party/NN
+  shall/MD
+  recover/VB
+  attorney/NN
+  fees/NNS
+  ./.)
+(S
+  If/IN
+  any/DT
+  legal/JJ
+  action/NN
+  is/VBZ
+  due/JJ
+  to/TO
+  enforcement/VB
+  ,/,
+  dispute/NN
+  ,/,
+  breach/NN
+  ,/,
+  or/CC
+  default/NN
+  ,/,
+  the/DT
+  successful/JJ
+  party/NN
+  shall/MD
+  be/VB
+  entitled/VBN
+  to/TO
+  reasonable/VB
+  attorney/NN
+  fees/NNS
+  and/CC
+  other/JJ
+  costs/NNS
+  incurred/VBN
+  in/IN
+  the/DT
+  actions/NNS
+  ,/,
+  in/IN
+  addition/NN
+  to/TO
+  any/DT
+  relief/NN
+  to/TO
+  which/WDT
+  they/PRP
+  may/MD
+  be/VB
+  entitled/VBN
+  ./.)
+(S
+  The/DT
+  prevailing/VBG
+  party/NN
+  may/MD
+  not/RB
+  recover/VB
+  attorney/NN
+  fees/NNS
+  ./.)
+(S
+  The/DT
+  trial/NN
+  court/NN
+  may/MD
+  allow/VB
+  the/DT
+  prevailing/VBG
+  party/NN
+  reasonable/JJ
+  attorney/NN
+  fees/NNS
+  as/IN
+  part/NN
+  of/IN
+  costs/NNS
+  ./.)
+(S
+  In/IN
+  the/DT
+  event/NN
+  of/IN
+  a/DT
+  disaster/NN
+  you/PRP
+  could/MD
+  use/VB
+  (PERSON Texas/NNP Data/NNP Recovery/NNP)
+  and/CC
+  you/PRP
+  will/MD
+  have/VB
+  the/DT
+  capability/NN
+  to/TO
+  restore/VB
+  lost/VBN
+  data/NNS
+  ./.)
+(S
+  (GPE Texas/NNP)
+  (ORGANIZATION Data/NNP Recovery/NNP)
+  is/VBZ
+  also/RB
+  successful/JJ
+  at/IN
+  retrieving/VBG
+  lost/VBN
+  data/NNS
+  from/IN
+  notebooks/NNS
+  and/CC
+  laptops/NNS
+  ,/,
+  regardless/RB
+  of/IN
+  age/NN
+  ,/,
+  make/VBP
+  or/CC
+  model/NN
+  ./.)
+(S
+  (GPE Legal/JJ)
+  costs/NNS
+  to/TO
+  recover/VB
+  punitive/JJ
+  damages/NNS
+  are/VBP
+  a/DT
+  deductible/JJ
+  business/NN
+  expense/NN
+  ./.)
+(S
+  Successful/JJ
+  plaintiffs/NNS
+  recovered/VBD
+  punitive/JJ
+  damages/NNS
+  in/IN
+  (GPE Texas/NNP)
+  discrimination/NN
+  cases/NNS
+  53/CD
+  %/NN
+  of/IN
+  the/DT
+  time/NN
+  ./.)
+(S
+  The/DT
+  Heads/NNP
+  of/IN
+  state/NN
+  expressed/VBN
+  their/PRP$
+  deep/JJ
+  concern/NN
+  at/IN
+  the/DT
+  fast/NN
+  and/CC
+  continuing/VBG
+  degradation/NN
+  of/IN
+  the/DT
+  environment/NN
+  ,/,
+  including/VBG
+  extensive/JJ
+  destruction/NN
+  of/IN
+  forests/NNS
+  ,/,
+  in/IN
+  the/DT
+  (LOCATION South/NNP)
+  (GPE Asian/JJ)
+  region/NN
+  ./.)
+(S
+  The/DT
+  Heads/NNP
+  of/IN
+  state/NN
+  reiterated/VBD
+  their/PRP$
+  deep/JJ
+  concern/NN
+  for/IN
+  the/DT
+  serious/JJ
+  threat/NN
+  that/IN
+  the/DT
+  rising/VBG
+  trend/NN
+  in/IN
+  drug/NN
+  abuse/NN
+  poses/VBZ
+  for/IN
+  society/NN
+  and/CC
+  the/DT
+  lives/NNS
+  and/CC
+  future/NN
+  of/IN
+  children/NNS
+  and/CC
+  youth/NN
+  ,/,
+  and/CC
+  for/IN
+  the/DT
+  destabilizing/JJ
+  effects/NNS
+  that/IN
+  illegal/JJ
+  use/NN
+  ,/,
+  production/NN
+  ,/,
+  trafficking/VBG
+  and/CC
+  distribution/NN
+  of/IN
+  narcotic/JJ
+  drugs/NNS
+  psychotropic/NN
+  substances/NNS
+  and/CC
+  drug-related/JJ
+  offences/NNS
+  have/VBP
+  for/IN
+  the/DT
+  affected/JJ
+  countries/NNS
+  of/IN
+  the/DT
+  (LOCATION South/NNP)
+  (GPE Asian/JJ)
+  region/NN
+  ./.)
+(S (GPE Swedish/JJ) massage/NN loosens/VBZ tense/JJ muscles/NNS ./.)
+(S
+  (GPE Swedish/JJ)
+  massage/NN
+  is/VBZ
+  used/VBN
+  to/TO
+  help/VB
+  relax/VB
+  muscles/NNS
+  ,/,
+  increase/NN
+  circulation/NN
+  ,/,
+  remove/VB
+  metabolic/JJ
+  waste/NN
+  products/NNS
+  ,/,
+  help/VBP
+  the/DT
+  recipient/NN
+  obtain/VB
+  a/DT
+  feeling/NN
+  of/IN
+  connectedness/NN
+  ,/,
+  a/DT
+  better/JJR
+  awareness/NN
+  of/IN
+  their/PRP$
+  body/NN
+  and/CC
+  the/DT
+  way/NN
+  they/PRP
+  use/VBP
+  and/CC
+  position/NN
+  it/PRP
+  ./.)
+(S
+  Traditional/JJ
+  (GPE Balinese/JJ)
+  massage/NN
+  is/VBZ
+  a/DT
+  therapy/NN
+  where/WRB
+  pushing/VBG
+  techniques/NNS
+  predominate/NN
+  ./.)
+(S
+  If/IN
+  you/PRP
+  're/VBP
+  feeling/VBG
+  playful/JJ
+  ,/,
+  visit/VB
+  our/PRP$
+  games/NNS
+  area/NN
+  for/IN
+  a/DT
+  game/NN
+  of/IN
+  billiards/NNS
+  ,/,
+  surf/VBD
+  the/DT
+  Internet/NNP
+  or/CC
+  just/RB
+  sit/VB
+  back/RB
+  and/CC
+  relax/NN
+  with/IN
+  a/DT
+  good/JJ
+  book/NN
+  from/IN
+  our/PRP$
+  extensive/JJ
+  library/NN
+  ./.
+  Alternatively/RB
+  ,/,
+  soothe/VB
+  away/RB
+  those/DT
+  tired/JJ
+  muscles/NNS
+  ,/,
+  aches/NNS
+  and/CC
+  pains/NNS
+  with/IN
+  a/DT
+  (GPE Balinese/JJ)
+  massage/NN
+  ./.)
+(S
+  Moore/RB
+  now/RB
+  has/VBZ
+  the/DT
+  commandments/NNS
+  plaque/VBP
+  posted/VBN
+  in/IN
+  his/PRP$
+  office/NN
+  ./.)
+(S
+  Two/CD
+  years/NNS
+  ago/RB
+  (PERSON Moore/NNP)
+  had/VBD
+  a/DT
+  5,300-pound/JJ
+  monument/NN
+  showcasing/VBG
+  the/DT
+  Ten/CD
+  Commandments/NNS
+  placed/VBN
+  in/IN
+  the/DT
+  rotunda/NN
+  of/IN
+  the/DT
+  (ORGANIZATION Judicial/NNP Building/NNP)
+  ,/,
+  which/WDT
+  is/VBZ
+  just/RB
+  down/RP
+  the/DT
+  street/NN
+  from/IN
+  the/DT
+  (GPE Capitol/NNP)
+  ,/,
+  and/CC
+  a/DT
+  federal/JJ
+  judge/NN
+  ordered/VBD
+  (PERSON Moore/NNP)
+  to/TO
+  remove/VB
+  the/DT
+  plaque/NN
+  ./.)
+(S Our/PRP$ substances/NNS remove/VB stains/NNS ./.)
+(S
+  The/DT
+  substances/NNS
+  that/IN
+  our/PRP$
+  company/NN
+  uses/VBZ
+  do/VBP
+  not/RB
+  leave/VB
+  stains/NNS
+  ,/,
+  do/VBP
+  not/RB
+  have/VB
+  an/DT
+  unpleasant/JJ
+  smell/NN
+  and/CC
+  are/VBP
+  not/RB
+  toxic/JJ
+  ./.)
+(S
+  (PERSON Moore/NN)
+  had/VBD
+  the/DT
+  monument/NN
+  installed/VBD
+  before/IN
+  he/PRP
+  became/VBD
+  Chief/NNP
+  Justice/NNP
+  ./.)
+(S
+  (PERSON Moore/NN)
+  had/VBD
+  the/DT
+  monument/NN
+  ,/,
+  along/IN
+  with/IN
+  other/JJ
+  references/NNS
+  to/TO
+  (GPE God/NNP)
+  ,/,
+  installed/VBN
+  in/IN
+  the/DT
+  rotunda/NN
+  of/IN
+  the/DT
+  (ORGANIZATION Judicial/NNP)
+  Building/NNP
+  six/CD
+  months/NNS
+  after/IN
+  he/PRP
+  was/VBD
+  elected/VBN
+  Chief/NNP
+  Justice/NNP
+  in/IN
+  2000/CD
+  ./.)
+(S
+  The/DT
+  (GPE United/NNP States/NNPS)
+  threatened/VBD
+  the/DT
+  ``/``
+  severest/JJS
+  consequences/NNS
+  ''/''
+  if/IN
+  (GPE Iraq/NNP)
+  were/VBD
+  to/TO
+  use/VB
+  chemical/NN
+  or/CC
+  biological/JJ
+  weapons/NNS
+  against/IN
+  the/DT
+  (GPE United/NNP States/NNPS)
+  ,/,
+  destroy/VB
+  (PERSON Kuwaiti/NNP)
+  oil/NN
+  fields/NNS
+  or/CC
+  participate/VB
+  in/IN
+  terrorism/NN
+  ./.)
+(S
+  Sentiment/NN
+  is/VBZ
+  growing/VBG
+  in/IN
+  the/DT
+  (ORGANIZATION Bush/NNP)
+  administration/NN
+  and/CC
+  global/JJ
+  energy/NN
+  circles/NNS
+  to/TO
+  place/VB
+  (GPE Iraqi/NNP)
+  professionals/NNS
+  in/IN
+  charge/NN
+  of/IN
+  their/PRP$
+  country/NN
+  's/POS
+  oil/NN
+  production/NN
+  after/IN
+  any/DT
+  war/NN
+  ,/,
+  despite/IN
+  a/DT
+  push/NN
+  by/IN
+  some/DT
+  officials/NNS
+  for/IN
+  the/DT
+  (GPE United/NNP States/NNPS)
+  to/TO
+  seize/VB
+  control/NN
+  of/IN
+  the/DT
+  lucrative/JJ
+  oil/NN
+  fields/NNS
+  ./.)
+(S
+  The/DT
+  (GPE Japanese/JJ)
+  seized/JJ
+  Manchuria/NNP
+  in/IN
+  1931/CD
+  ,/,
+  and/CC
+  began/VBD
+  a/DT
+  war/NN
+  against/IN
+  (GPE China/NNP)
+  in/IN
+  1937/CD
+  ./.)
+(S
+  The/DT
+  (GPE Japanese/JJ)
+  invasion/NN
+  of/IN
+  (GPE Manchuria/NNP)
+  in/IN
+  1931/CD
+  and/CC
+  their/PRP$
+  eventual/JJ
+  attack/NN
+  on/IN
+  (GPE China/NNP)
+  in/IN
+  1937/CD
+  also/RB
+  lead/VBP
+  to/TO
+  vast/JJ
+  areas/NNS
+  of/IN
+  (GPE China/NNP)
+  not/RB
+  being/VBG
+  under/IN
+  (GPE Chiang/NNP)
+  's/POS
+  control/NN
+  ./.)
+(S
+  (PERSON Microsoft/NNP)
+  would/MD
+  spend/VB
+  500/CD
+  million/CD
+  dollars/NNS
+  ./.)
+(S
+  (GPE Microsoft/NNP)
+  for/IN
+  instance/NN
+  ,/,
+  one/CD
+  of/IN
+  the/DT
+  world/NN
+  's/POS
+  largest/JJS
+  software/NN
+  companies/NNS
+  ,/,
+  lost/VBD
+  more/JJR
+  than/IN
+  an/DT
+  estimated/VBN
+  500/CD
+  million/CD
+  dollars/NNS
+  last/JJ
+  year/NN
+  because/IN
+  of/IN
+  software/NN
+  theft/NN
+  ./.)
+(S
+  (GPE Ottawa/NNP)
+  promises/VBZ
+  more/JJR
+  money/NN
+  to/TO
+  upgrade/VB
+  the/DT
+  literacy/NN
+  levels/NNS
+  and/CC
+  skills/NNS
+  of/IN
+  natives/NNS
+  and/CC
+  high/JJ
+  school/NN
+  dropouts/NNS
+  ./.)
+(S
+  The/DT
+  richest/JJS
+  provinces/NNS
+  ,/,
+  (PERSON Ontario/NNP)
+  ,/,
+  (PERSON Alberta/NNP)
+  and/CC
+  B.C/NNP
+  ,/,
+  have/VBP
+  spent/VBN
+  billions/NNS
+  on/IN
+  tax/NN
+  cuts/NNS
+  and/CC
+  slashing/VBG
+  services/NNS
+  while/IN
+  at/IN
+  the/DT
+  same/JJ
+  time/NN
+  howling/VBG
+  for/IN
+  (PERSON Ottawa/NNP)
+  to/TO
+  give/VB
+  them/PRP
+  more/JJR
+  money/NN
+  for/IN
+  medicare/NN
+  ./.)
+(S
+  More/JJR
+  money/NN
+  in/IN
+  the/DT
+  hands/NNS
+  of/IN
+  consumers/NNS
+  means/VBZ
+  more/JJR
+  money/NN
+  can/MD
+  be/VB
+  spent/VBN
+  to/TO
+  get/VB
+  the/DT
+  economy/NN
+  going/VBG
+  ./.)
+(S
+  It/PRP
+  would/MD
+  help/VB
+  the/DT
+  economy/NN
+  by/IN
+  putting/VBG
+  people/NNS
+  back/RB
+  to/TO
+  work/VB
+  and/CC
+  more/JJR
+  money/NN
+  in/IN
+  the/DT
+  hands/NNS
+  of/IN
+  consumers/NNS
+  ./.)
+(S
+  Cardinal/JJ
+  Law/NNP
+  returns/NNS
+  from/IN
+  (GPE Rome/NNP)
+  with/IN
+  plans/NNS
+  to/TO
+  stay/VB
+  in/IN
+  (GPE Boston/NNP)
+  ./.)
+(S
+  (GSP US/NNP)
+  (ORGANIZATION Catholic/NNP)
+  bishops/NNS
+  are/VBP
+  all/DT
+  but/CC
+  unanimous/JJ
+  in/IN
+  believing/VBG
+  that/DT
+  Cardinal/NNP
+  Law/NNP
+  must/MD
+  leave/VB
+  (GPE Boston/NNP)
+  for/IN
+  the/DT
+  good/NN
+  of/IN
+  the/DT
+  church/NN
+  ./.)
+(S
+  (ORGANIZATION U.N./NNP)
+  weapons/NNS
+  inspectors/NNS
+  could/MD
+  stay/VB
+  in/IN
+  (GPE Iraq/NNP)
+  ,/,
+  (PERSON Clinton/NNP)
+  said/VBD
+  ./.)
+(S
+  The/DT
+  (GPE United/NNP States/NNPS)
+  would/MD
+  like/VB
+  to/TO
+  see/VB
+  (ORGANIZATION U.N./NNP)
+  weapons/NNS
+  inspectors/NNS
+  return/VBP
+  to/TO
+  (GPE Iraq/NNP)
+  providing/VBG
+  the/DT
+  (GPE Iraqis/NNP)
+  take/VB
+  concrete/NN
+  ,/,
+  affirmative/JJ
+  and/CC
+  demonstrable/JJ
+  actions/NNS
+  ``/``
+  to/TO
+  show/VB
+  full/JJ
+  co-operation/NN
+  ''/''
+  (PERSON Clinton/NNP)
+  said/VBD
+  ./.)
+(S
+  The/DT
+  (GPE British/JJ)
+  government/NN
+  banned/VBD
+  flights/NNS
+  to/TO
+  (GPE Kenya/NNP)
+  ./.)
+(S
+  The/DT
+  decision/NN
+  by/IN
+  the/DT
+  (GPE British/JJ)
+  government/NN
+  to/TO
+  suspend/VB
+  flights/NNS
+  to/TO
+  (GPE Kenya/NNP)
+  is/VBZ
+  regrettable/JJ
+  ,/,
+  it/PRP
+  plays/VBZ
+  into/IN
+  the/DT
+  hands/NNS
+  of/IN
+  terrorists/NNS
+  ./.)
+(S
+  (GPE North/NNP Korea/NNP)
+  has/VBZ
+  announced/VBN
+  its/PRP$
+  withdrawal/NN
+  from/IN
+  liaison/JJ
+  meetings/NNS
+  with/IN
+  (GPE United/NNP States/NNPS)
+  military/JJ
+  officers/NNS
+  ./.)
+(S
+  (GPE North/NNP)
+  (GPE Korea/NNP)
+  states/VBZ
+  intention/NN
+  to/TO
+  restart/VB
+  reactors/NNS
+  ,/,
+  throws/VBZ
+  out/RP
+  (ORGANIZATION IAEA/NNP)
+  inspectors/NNS
+  and/CC
+  takes/VBZ
+  down/RP
+  inspection/NN
+  cameras/NNS
+  ,/,
+  announces/NNS
+  immediate/VBP
+  withdrawal/NN
+  from/IN
+  the/DT
+  (ORGANIZATION Nuclear/NNP)
+  Non-Proliferation/NNP
+  Treaty/NNP
+  and/CC
+  makes/VBZ
+  threats/NNS
+  of/IN
+  war/NN
+  if/IN
+  the/DT
+  (ORGANIZATION UN/NNP)
+  or/CC
+  the/DT
+  (GPE United/NNP States/NNPS)
+  imposes/VBZ
+  sanctions/NNS
+  ./.)
+(S
+  (PERSON Vitamin/NNP)
+  E/NNP
+  can/MD
+  prevent/VB
+  heart/NN
+  disease/NN
+  ./.)
+(S
+  If/IN
+  you/PRP
+  have/VBP
+  rheumatic/JJ
+  heart/NN
+  disease/NN
+  ,/,
+  high/JJ
+  blood/NN
+  pressure/NN
+  ,/,
+  or/CC
+  diabetes/NNS
+  ,/,
+  or/CC
+  take/VB
+  digitalis/NN
+  drugs/NNS
+  ,/,
+  vitamin/NN
+  E/NNP
+  can/MD
+  be/VB
+  harmful/JJ
+  ./.)
+(S
+  (PERSON Albright/NNP)
+  said/VBD
+  that/IN
+  to/TO
+  punish/VB
+  (PERSON Saddam/NNP Hussein/NNP)
+  ,/,
+  the/DT
+  deaths/NNS
+  of/IN
+  those/DT
+  children/NNS
+  were/VBD
+  ``/``
+  worth/JJ
+  it/PRP
+  ./.
+  ''/'')
+(S
+  When/WRB
+  (PERSON Albright/NNP)
+  was/VBD
+  the/DT
+  (GSP US/NNP)
+  ambassador/NN
+  to/TO
+  the/DT
+  (ORGANIZATION United/NNP Nations/NNPS)
+  ,/,
+  (PERSON Lesley/NNP Stahl/NNP)
+  of/IN
+  ``/``
+  60/CD
+  Minutes/NNPS
+  ''/''
+  asked/VBD
+  her/PRP
+  about/IN
+  the/DT
+  sanctions/NNS
+  and/CC
+  the/DT
+  deaths/NNS
+  of/IN
+  (GPE Iraqi/NNP)
+  children/NNS
+  ./.
+  (PERSON Albright/NNP)
+  said/VBD
+  it/PRP
+  was/VBD
+  (GPE America/NNP)
+  's/POS
+  responsibility/NN
+  to/TO
+  make/VB
+  sure/JJ
+  the/DT
+  Gulf/NNP
+  War/NNP
+  did/VBD
+  not/RB
+  have/VB
+  to/TO
+  be/VB
+  fought/VBN
+  again/RB
+  ./.)
+(S
+  (PERSON Doug/NNP)
+  (ORGANIZATION Lawrence/NNP)
+  sold/VBD
+  the/DT
+  impressionist/JJ
+  oil/NN
+  landscape/NN
+  by/IN
+  J./NNP
+  (PERSON Ottis/NNP Adams/NNP))
+(S
+  (PERSON Doug/NNP)
+  (ORGANIZATION Lawrence/NNP)
+  bought/VBD
+  the/DT
+  impressionist/JJ
+  oil/NN
+  landscape/NN
+  by/IN
+  J./NNP
+  (PERSON Ottis/NNP Adams/NNP)
+  in/IN
+  the/DT
+  mid-1970s/NNS
+  at/IN
+  a/DT
+  Fort/NNP
+  Wayne/NNP
+  antiques/VBZ
+  dealer/NN
+  ./.)
+(S (GPE Polish/JJ) troops/NNS confiscated/VBD (PERSON Warheads/NNP))
+(S
+  Warheads/NNS
+  believed/VBD
+  to/TO
+  contain/VB
+  the/DT
+  deadly/JJ
+  nerve/NN
+  agent/NN
+  cyclosarin/NN
+  that/WDT
+  were/VBD
+  found/VBN
+  by/IN
+  (GPE Polish/JJ)
+  troops/NNS
+  in/IN
+  (GPE Iraq/NNP)
+  date/NN
+  back/RB
+  to/TO
+  (PERSON Saddam/NNP Hussein/NNP)
+  's/POS
+  war/NN
+  with/IN
+  (GPE Iran/NNP)
+  in/IN
+  the/DT
+  1980s/CD
+  ,/,
+  authorities/NNS
+  said/VBD
+  Friday/NNP
+  ./.)
+(S (GPE Mitsubishi/NNP) sales/NNS rose/VBD 46/CD percent/NN)
+(S
+  (PERSON Mitsubishi/NNP)
+  (ORGANIZATION Motors/NNP Corp./NNP)
+  's/POS
+  new/JJ
+  vehicle/NN
+  sales/NNS
+  in/IN
+  the/DT
+  (ORGANIZATION US/NNP)
+  fell/VBD
+  46/CD
+  percent/NN
+  in/IN
+  June/NNP)
+(S
+  Owners/NNS
+  announced/VBD
+  plans/NNS
+  to/TO
+  sell/VB
+  clean-up/JJ
+  equipment/NN
+  ./.)
+(S
+  The/DT
+  news/NN
+  comes/VBZ
+  as/IN
+  the/DT
+  owners/NNS
+  of/IN
+  (PERSON Kilroot/NNP)
+  announced/VBD
+  plans/NNS
+  to/TO
+  install/VB
+  clean-up/JJ
+  equipment/NN
+  at/IN
+  the/DT
+  plant/NN
+  near/IN
+  (GPE Carrickfergus/NNP)
+  at/IN
+  a/DT
+  cost/NN
+  of/IN
+  Â£35/NNP
+  million/CD
+  ./.)
+(S
+  (GPE Americans/NNPS)
+  hope/VBP
+  to/TO
+  help/VB
+  (PERSON Evans/NNP Paul/NNP)
+  in/IN
+  the/DT
+  election/NN
+  for/IN
+  mayor/NN
+  of/IN
+  Port-au-Prince/NNP
+  ./.)
+(S
+  (GPE U.S./NNP)
+  (ORGANIZATION Embassy/NNP)
+  spokesman/NN
+  (PERSON Stanley/NNP Shrager/NNP)
+  said/VBD
+  that/IN
+  the/DT
+  Americans/NNPS
+  hope/VBP
+  to/TO
+  help/VB
+  Port-au-Prince/NNP
+  's/POS
+  elected/JJ
+  mayor/NN
+  ,/,
+  (PERSON Evans/NNP Paul/NNP)
+  ,/,
+  return/NN
+  from/IN
+  hiding/VBG
+  and/CC
+  resume/VB
+  his/PRP$
+  post/NN
+  as/IN
+  mayor/NN
+  of/IN
+  the/DT
+  city/NN
+  ./.)
+(S
+  (PERSON Aristide/NNP)
+  had/VBD
+  Prime/NNP
+  Minister/NNP
+  (PERSON Robert/NNP Malval/NNP)
+  murdered/VBD
+  in/IN
+  (GPE Port-au-Prince/NNP)
+  ./.)
+(S
+  Like/IN
+  the/DT
+  (GPE United/NNP States/NNPS)
+  ,/,
+  (ORGANIZATION U.N./NNP)
+  officials/NNS
+  are/VBP
+  also/RB
+  dismayed/VBN
+  that/IN
+  (PERSON Aristide/NNP)
+  killed/VBD
+  a/DT
+  conference/NN
+  called/VBN
+  by/IN
+  Prime/NNP
+  Minister/NNP
+  (PERSON Robert/NNP Malval/NNP)
+  in/IN
+  Port-au-Prince/NNP
+  in/IN
+  hopes/NNS
+  of/IN
+  bringing/VBG
+  all/PDT
+  the/DT
+  feuding/NN
+  parties/NNS
+  together/RB
+  ./.)
+(S
+  (GPE Aristide/NNP)
+  is/VBZ
+  due/JJ
+  to/TO
+  live/VB
+  at/IN
+  Port-au-Prince/NNP
+  again/RB
+  ./.)
+(S
+  (PERSON Gladys/NNP)
+  (ORGANIZATION Lauture/NNP)
+  ,/,
+  a/DT
+  close/JJ
+  Aristide/NNP
+  friend/NN
+  and/CC
+  longtime/JJ
+  supporter/NN
+  ,/,
+  said/VBD
+  she/PRP
+  and/CC
+  a/DT
+  team/NN
+  of/IN
+  carpenters/NNS
+  ,/,
+  plumbers/NNS
+  and/CC
+  decorators/NNS
+  spent/VBD
+  18/CD
+  days/NNS
+  making/VBG
+  (PERSON Aristide/NNP)
+  's/POS
+  Port-au-Prince/NNP
+  home/NN
+  livable/NN
+  again/RB
+  ./.)
+(S
+  The/DT
+  (ORGANIZATION International/NNP)
+  Olympic/NNP
+  Commitee/NNP
+  's/POS
+  head/NN
+  office/NN
+  is/VBZ
+  in/IN
+  (GPE Lillehammer/NNP)
+  ./.)
+(S
+  (PERSON Juan/NNP)
+  (PERSON Antonio/NNP Samaranch/NNP)
+  ,/,
+  president/NN
+  of/IN
+  the/DT
+  (ORGANIZATION International/NNP)
+  Olympic/NNP
+  Committee/NNP
+  ,/,
+  left/VBD
+  (ORGANIZATION Lillehammer/NNP)
+  for/IN
+  (PERSON Sarajevo/NNP)
+  to/TO
+  pay/VB
+  tribute/NN
+  to/TO
+  the/DT
+  besieged/VBN
+  host/NN
+  city/NN
+  of/IN
+  the/DT
+  1984/CD
+  Winter/NNP
+  Games/NNPS)
