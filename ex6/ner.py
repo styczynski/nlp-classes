@@ -4,6 +4,8 @@
 
 # Download nltk dependencies
 import nltk
+nltk.download('rte')
+nltk.download('words')
 nltk.download('maxent_ne_chunker')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
